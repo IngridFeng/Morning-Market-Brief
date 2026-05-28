@@ -1,0 +1,29 @@
+name: Morning Market Brief
+
+on:
+  schedule:
+    # Times are UTC. 16:00 UTC = 9:00 AM PDT (Mar–Nov) / 8:00 AM PST (Nov–Mar).
+    # For exactly 9 AM in winter, change "16" to "17". Weekdays only (Mon–Fri).
+    - cron: "0 16 * * 1-5"
+  workflow_dispatch:   # adds a "Run workflow" button so you can test on demand
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run market brief
+        env:
+          FINNHUB_API_KEY:    ${{ secrets.FINNHUB_API_KEY }}
+          EMAIL_ADDRESS:      ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_TO:           ${{ secrets.EMAIL_TO }}
+        run: python market_brief.py
