@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-29T00:20:10+00:00",
+  "generated_at": "2026-05-29T18:18:46+00:00",
   "tone": {
-    "SPY": 0.55,
-    "QQQ": 0.84
+    "SPY": 0.14,
+    "QQQ": 0.15
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,54 +10,24 @@
   },
   "movers_ranked": [
     {
-      "symbol": "UMAC",
-      "pct": 57.2,
-      "price": 29.6,
+      "symbol": "PLTR",
+      "pct": 8.91,
+      "price": 156.11,
       "news": [
         {
-          "headline": "Thursday's session: top gainers and losers",
-          "url": "https://finnhub.io/api/news?id=0a428400b92a3c27dc3b7371da40cb79313e1dfd21f05635a8e2bfed1785fb29"
+          "headline": "High Growth Tech Stocks in US for May 2026",
+          "url": "https://finnhub.io/api/news?id=0b3ce2a8bda06da880167b9676cd88b432e06acaf338267be7617a914d83ed0a"
         },
         {
-          "headline": "Let's take a look at the stocks that are in motion in today's session.",
-          "url": "https://finnhub.io/api/news?id=6acf042a285c176b00587074e9323b95dd7f4b880a21439213a038dd88520162"
-        }
-      ]
-    },
-    {
-      "symbol": "SNOW",
-      "pct": 36.48,
-      "price": 239.2,
-      "news": [
-        {
-          "headline": "Which stocks are gapping on Thursday?",
-          "url": "https://finnhub.io/api/news?id=b8df33115e95d2d06b24a02e23cb6771f031609a14a7446cc9783d41210fd5d6"
-        },
-        {
-          "headline": "Canaccord Genuity Maintains Buy on Snowflake, Raises Price Target to $325",
-          "url": "https://finnhub.io/api/news?id=7d81df549e8a1853036ba5c8e2829c2d5d3d81943c52785574ebc72b6a9e7ade"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "pct": 10.76,
-      "price": 335.27,
-      "news": [
-        {
-          "headline": "Nvidia's Next AI Wave Sparks Big Calls on Micron, Dell, Arm Stocks",
-          "url": "https://finnhub.io/api/news?id=b6e33e3ef93962310ba0d8c6b6bc12d9dcb01807c1226e148537f3e5f0ef65fc"
-        },
-        {
-          "headline": "Why Arm Holdings Stock Jumped Higher Today",
-          "url": "https://finnhub.io/api/news?id=aa8d5f990cc838c587d47fae24d5c34f171bcde22a18eae2ccf590715d17b292"
+          "headline": "Uncover the latest developments among S&P500 stocks in today's session.",
+          "url": "https://finnhub.io/api/news?id=64dacbe3fa92b4aebb09972c2a32e704286fa97c60a84ba326788666c4255735"
         }
       ]
     },
     {
       "symbol": "FIG",
-      "pct": 9.93,
-      "price": 23.46,
+      "pct": 8.06,
+      "price": 25.35,
       "news": [
         {
           "headline": "Short Sellers Are Hammering These 10 Stocks \u2014 One Is 86% Short",
@@ -70,146 +40,167 @@
       ]
     },
     {
-      "symbol": "NBIS",
-      "pct": 8.62,
-      "price": 226.34,
+      "symbol": "ARM",
+      "pct": 5.31,
+      "price": 353.07,
       "news": [
         {
-          "headline": "Nebius Shares Rise 4% After Key Trading Signal",
-          "url": "https://finnhub.io/api/news?id=0be499e80b08b9ad4614b81461eec0745f1e022802376bfb5768926b81be6988"
+          "headline": "Stock Price Prediction: Arm Holdings Has Limited Upside Despite 177% Rally",
+          "url": "https://finnhub.io/api/news?id=4b9783c2afb5f5ac1c72dab51a193ad84716e0ca917d34c68c8a87abb2746ab0"
         },
         {
-          "headline": "Nebius' 684% Revenue Surge Hides A Risk Nobody's Talking About",
-          "url": "https://finnhub.io/api/news?id=6f3e5f7444c03ec584ec7a7dbf646bba4d25e8188d6be1a312bac1ec1499669d"
+          "headline": "AMD Could Be the Biggest Winner in the Next AI Battle",
+          "url": "https://finnhub.io/api/news?id=b24f38a984ec3321dae1d170d8644bebd319f57095c0db3dea336c5d1275f1a4"
         }
       ]
     },
     {
-      "symbol": "PLTR",
-      "pct": 8.17,
-      "price": 143.34,
+      "symbol": "SNOW",
+      "pct": 5.13,
+      "price": 251.47,
       "news": [
         {
-          "headline": "Google Engineer Charged After Alleged $1.2 Million Polymarket Bets",
-          "url": "https://finnhub.io/api/news?id=642d9acc6fe4d8469fbb0e20f022c34a82bfeacfb6b1b3c308736238d9ba015a"
+          "headline": "10 Information Technology Stocks Whale Activity In Today's Session",
+          "url": "https://finnhub.io/api/news?id=1d6fb865cc79a56ee074563fd07a39ec518107beb3c3eebb8c4bf09e0b95e5da"
         },
         {
-          "headline": "Why Palantir Stock Is Soaring Today",
-          "url": "https://finnhub.io/api/news?id=067faf6e54c51e7e1676461ad6ab5ede996c12a4a4adc8bbbc05f340789f8165"
+          "headline": "Snowflake Just Signed A 5-Year Check To Its Biggest Competitor",
+          "url": "https://finnhub.io/api/news?id=6f57f57ddd0f3e6b04d5a3a06b211d9a28ca27c3534c0f8cf18d5f61afb813e6"
+        }
+      ]
+    },
+    {
+      "symbol": "RVI",
+      "pct": 5.12,
+      "price": 52.56,
+      "news": []
+    },
+    {
+      "symbol": "UMAC",
+      "pct": 4.26,
+      "price": 30.86,
+      "news": [
+        {
+          "headline": "Unusual Machines: This Is The 'Intel Moment' For Drone Makers",
+          "url": "https://finnhub.io/api/news?id=99b4847a20773ca8feb759059850e05b9b13df7ca4bf37c695b93f34e7fa2653"
+        },
+        {
+          "headline": "Kratos Defense (KTOS) Stock Is Trending As Trump Administration Eyes Equity Stakes In US Drone Makers",
+          "url": "https://finnhub.io/api/news?id=1596a82cf578393ef4772c863486a68fb418c3dbdfda6174273efb9cb3da79cc"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": 0.53,
-      "price": 312.51
+      "pct": -0.77,
+      "price": 310.09
     },
     "MSFT": {
-      "pct": 3.47,
-      "price": 426.99
+      "pct": 3.5,
+      "price": 441.92
     },
     "GOOG": {
-      "pct": 0.34,
-      "price": 386.12
+      "pct": -1.81,
+      "price": 379.12
     },
     "NFLX": {
-      "pct": -1.13,
-      "price": 86.36
+      "pct": -0.3,
+      "price": 86.1
     },
     "TSLA": {
-      "pct": 0.4,
-      "price": 442.1
+      "pct": -1.11,
+      "price": 437.2
     },
     "NVDA": {
-      "pct": 0.78,
-      "price": 214.25
+      "pct": 0.65,
+      "price": 215.64
     },
     "AMD": {
-      "pct": 4.55,
-      "price": 518.09
+      "pct": -2.5,
+      "price": 505.14
     },
     "AVGO": {
-      "pct": 1.12,
-      "price": 426.58
+      "pct": 2.08,
+      "price": 435.47
     },
     "MU": {
-      "pct": -0.53,
-      "price": 923.52
+      "pct": 3.2,
+      "price": 953.03
     },
     "INTC": {
-      "pct": -0.72,
-      "price": 120.89
+      "pct": -2.9,
+      "price": 117.38
     },
     "MRVL": {
-      "pct": 3.09,
-      "price": 204.83
+      "pct": 0.58,
+      "price": 206.02
     },
     "ARM": {
-      "pct": 10.76,
-      "price": 335.27
+      "pct": 5.31,
+      "price": 353.07
     },
     "QCOM": {
-      "pct": 4.24,
-      "price": 243.29
+      "pct": 4.21,
+      "price": 253.54
     },
     "ALAB": {
-      "pct": 7.33,
-      "price": 349.17
+      "pct": -3.85,
+      "price": 335.71
     },
     "LITE": {
-      "pct": -4.62,
-      "price": 860.62
+      "pct": -2.9,
+      "price": 835.63
     },
     "TER": {
-      "pct": 1.81,
-      "price": 382.65
+      "pct": -3.1,
+      "price": 370.77
     },
     "SNDK": {
-      "pct": 3.25,
-      "price": 1641.64
+      "pct": 0.78,
+      "price": 1654.43
     },
     "DRAM": {
-      "pct": 3.03,
-      "price": 62.57
+      "pct": -0.05,
+      "price": 62.54
     },
     "NOK": {
-      "pct": -2.55,
-      "price": 15.28
+      "pct": -3.14,
+      "price": 14.8
     },
     "PLTR": {
-      "pct": 8.17,
-      "price": 143.34
+      "pct": 8.91,
+      "price": 156.11
     },
     "ANET": {
-      "pct": 0.62,
-      "price": 155.27
+      "pct": 2.25,
+      "price": 158.77
     },
     "NBIS": {
-      "pct": 8.62,
-      "price": 226.34
+      "pct": -2.02,
+      "price": 221.77
     },
     "SNOW": {
-      "pct": 36.48,
-      "price": 239.2
+      "pct": 5.13,
+      "price": 251.47
     },
     "FIG": {
-      "pct": 9.93,
-      "price": 23.46
+      "pct": 8.06,
+      "price": 25.35
     },
     "UMAC": {
-      "pct": 57.2,
-      "price": 29.6
+      "pct": 4.26,
+      "price": 30.86
     },
     "RVI": {
-      "pct": -0.02,
-      "price": 50
+      "pct": 5.12,
+      "price": 52.56
     },
     "ROBO": {
-      "pct": 0.29,
-      "price": 88.92
+      "pct": -0.45,
+      "price": 88.52
     }
   },
   "no_data": [],
-  "usd_cad": 1.3854
+  "usd_cad": 1.3805
 }
