@@ -1,14 +1,18 @@
-name: Morning Market Brief
+name: Fetch Market Data
 
 on:
   schedule:
-    # Times are UTC. 16:00 UTC = 9:00 AM PDT (Mar–Nov) / 8:00 AM PST (Nov–Mar).
-    # For exactly 9 AM in winter, change "16" to "17". Weekdays only (Mon–Fri).
-    - cron: "0 16 * * 1-5"
-  workflow_dispatch:   # adds a "Run workflow" button so you can test on demand
+    # 15:30 UTC ≈ 8:30 AM PDT (Mar–Nov) / 7:30 AM PST (Nov–Mar), weekdays.
+    # Runs ~30 min before the 9 AM routine, so the data file is ready in time
+    # even if GitHub's scheduler fires a few minutes late.
+    - cron: "30 15 * * 1-5"
+  workflow_dispatch:        # "Run workflow" button for testing
+
+permissions:
+  contents: write           # lets the workflow commit data/latest.json
 
 jobs:
-  brief:
+  fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -20,10 +24,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run market brief
+      - name: Fetch market data
         env:
-          FINNHUB_API_KEY:    ${{ secrets.FINNHUB_API_KEY }}
-          EMAIL_ADDRESS:      ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
-          EMAIL_TO:           ${{ secrets.EMAIL_TO }}
-        run: python market_brief.py
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+        run: python market_data.py
+
+      - name: Commit data file
+        run: |
+          git config user.name  "market-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest.json
+          git commit -m "Update market data $(date -u +%Y-%m-%dT%H:%MZ)" || echo "no changes"
+          git push
