@@ -32,7 +32,7 @@ TONE_PROXIES     = {"SPY": "S&P 500", "QQQ": "Nasdaq 100"}  # ETF proxies for in
 TOP_MOVERS_COUNT = 6
 BASE             = "https://finnhub.io/api/v1"
 DELAY            = 0.8       # seconds between calls (stay under 60/min free limit)
-OUT_PATH         = "data/latest.json"
+DATA_DIR         = "data"   # writes both data/latest.json and data/YYYY-MM-DD.json
 
 
 def quote(symbol):
@@ -117,11 +117,16 @@ def main():
         "usd_cad": round(fx, 4) if fx else None,
     }
 
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-    with open(OUT_PATH, "w") as f:
-        json.dump(data, f, indent=2)
-    print(f"Wrote {OUT_PATH}: {len(watch)} quotes, {len(movers)} movers, "
-          f"{len(no_data)} no-data.")
+    os.makedirs(DATA_DIR, exist_ok=True)
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()  # e.g. 2026-05-28
+    dated_path  = os.path.join(DATA_DIR, f"{today}.json")
+    latest_path = os.path.join(DATA_DIR, "latest.json")
+    payload = json.dumps(data, indent=2)
+    for path in (dated_path, latest_path):
+        with open(path, "w") as f:
+            f.write(payload)
+    print(f"Wrote {dated_path} and {latest_path}: "
+          f"{len(watch)} quotes, {len(movers)} movers, {len(no_data)} no-data.")
 
 
 if __name__ == "__main__":
