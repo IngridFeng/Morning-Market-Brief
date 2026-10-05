@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T20:03:17+00:00",
+  "generated_at": "2026-10-05T22:06:37+00:00",
   "tone": {
-    "SPY": 0.74,
-    "QQQ": 1.02
+    "SPY": 0.67,
+    "QQQ": 0.88
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,193 @@
   },
   "movers_ranked": [
     {
-      "symbol": "TER",
-      "pct": 8.0,
-      "price": 449.04,
-      "news": [
-        {
-          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890"
-        },
-        {
-          "headline": "Chip Stocks Roar Higher, Led By These Lesser-Known Names",
-          "url": "https://finnhub.io/api/news?id=c45c0eb27474edad5f5e4157b375135c9051f4248cd122996c41d31130d75620"
-        }
-      ]
-    },
-    {
-      "symbol": "ARM",
-      "pct": 5.18,
-      "price": 307.49,
-      "news": [
-        {
-          "headline": "Chip Stocks Roar Higher, Led By These Lesser-Known Names",
-          "url": "https://finnhub.io/api/news?id=c45c0eb27474edad5f5e4157b375135c9051f4248cd122996c41d31130d75620"
-        },
-        {
-          "headline": "AMD Climbs 3% as Chip Stocks Extend Their Run; Arm Jumps 8%, NVIDIA Rises 2%",
-          "url": "https://finnhub.io/api/news?id=73b493ec511e22341068073b5e1770e7afca1b286fb436d4610f7e22d7eafd29"
-        }
-      ]
-    },
-    {
-      "symbol": "TSLA",
-      "pct": 4.65,
-      "price": 370.59,
-      "news": [
-        {
-          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890"
-        },
-        {
-          "headline": "These S&P500 stocks are the most active in today's session",
-          "url": "https://finnhub.io/api/news?id=4f3a474aab8b20fad6b594cf065b688d4888cc556908714137d7bfa6cc6f9dcb"
-        }
-      ]
-    },
-    {
       "symbol": "NBIS",
-      "pct": 4.53,
-      "price": 242.81,
+      "pct": -4.22,
+      "price": 232.57,
       "news": [
         {
-          "headline": "October FOMC: Why the Fed Will Pause",
-          "url": "https://finnhub.io/api/news?id=c06d7dee79b625797f7dd1e98068ced3e9c72c6e0c9a8cb1d205f5bb5f497353"
+          "headline": "Jim Cramer Prefers CoreWeave (CRWV) Over Nebius (NBIS) \u2014 Is the Valuation Gap the Reason?",
+          "url": "https://finnhub.io/api/news?id=5bc4851263ed608a8f97ecff0ede20d3705148cd55a7b9b1a296a23b3e0df29b"
         },
         {
-          "headline": "The Most Aggressive Price Target in AI Right Now Belongs to CoreWeave",
-          "url": "https://finnhub.io/api/news?id=2dfe3ed0df11ab4e0064d31bc5028e888a2e442eb6ee6011a5389344e775df28"
+          "headline": "Nebius Has Been One of 2026's Best-Performing AI Cloud Stocks. Here's What $1,000 Invested Could Be Worth by 2030.",
+          "url": "https://finnhub.io/api/news?id=bb9889cf6aac8336ba6aac0398e5b677c71a2b7085b8924573d1e1fbfd4b1b75"
         }
       ]
     },
     {
-      "symbol": "LITE",
-      "pct": 3.79,
-      "price": 1085.42,
+      "symbol": "NOK",
+      "pct": -3.77,
+      "price": 10.2,
       "news": [
         {
-          "headline": "Applied Optoelectronics Is Unstoppable: Up 8% Today and 231% This Year, Is AAOI Stock Too Hot to Handle Now?",
-          "url": "https://finnhub.io/api/news?id=08287b24bceb93652e450daee25e51024b450e6e5749b4d7bea33b95713b6eb7"
+          "headline": "Better Telecom Stock: Nokia vs. Verizon",
+          "url": "https://finnhub.io/api/news?id=5bf0b1ca847bbcb36fe8877585627932c6e84fd24e63267b0528f0765327b499"
         },
         {
-          "headline": "Your Coherent Stock Thesis Has One Loose End",
-          "url": "https://finnhub.io/api/news?id=bead23f1c0164a704a5ed6a931d29e8ca651f63c7e66e4efafcdd2ab9d3fcca1"
+          "headline": "Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?",
+          "url": "https://finnhub.io/api/news?id=a3bf9889f6e8291ecd35b0184ee1ddc03bfe3cea63b4e3fa7d1b74dd3940d82a"
         }
       ]
     },
     {
-      "symbol": "SNDK",
-      "pct": -3.79,
-      "price": 1719.99,
+      "symbol": "ALAB",
+      "pct": 3.43,
+      "price": 362.34,
       "news": [
         {
-          "headline": "Stay informed with the top movers within the S&P500 index on Friday.",
-          "url": "https://finnhub.io/api/news?id=ca861ffeeb0452b9b3ceee92fd62a06df36568a2f615f744bf4b4c309f941890"
+          "headline": "MRVL Stock Skyrockets 221% YTD: Should Investors Buy, Sell or Hold?",
+          "url": "https://finnhub.io/api/news?id=d8d4fce0772f6653ab32b9d052021a94cc57b985bccf84dc0931865b112ce51a"
         },
         {
-          "headline": "Broadcom, Marvell, and SanDisk Are Quietly Building Toward a Massive Bull Run",
-          "url": "https://finnhub.io/api/news?id=a70076e460996ca1116fb22f700b406238c0f43866163af0410a2892857b8253"
+          "headline": "Credo Stock at a Premium Valuation: Opportunity or Stay Cautious?",
+          "url": "https://finnhub.io/api/news?id=8573bde6ff5915cf1b59e74db196c21ced937fbe46d31be70ad786a5c1c209e4"
+        }
+      ]
+    },
+    {
+      "symbol": "FIG",
+      "pct": 3.04,
+      "price": 22.01,
+      "news": []
+    },
+    {
+      "symbol": "INTC",
+      "pct": -2.63,
+      "price": 116.19,
+      "news": [
+        {
+          "headline": "Top Technology Executives Recognized at the 2026 BayAreaCIO ORBIE Awards",
+          "url": "https://finnhub.io/api/news?id=b537df5c8dddb1c4fc6d42597a3810344f6dc6a26a8c28e393534a98e93ba4ac"
+        },
+        {
+          "headline": "Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://finnhub.io/api/news?id=144899d00ff12872cd82ce48cba07cabdc267618152a96440cda2a1ad490fcd5"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -2.41,
+      "price": 21.83,
+      "news": [
+        {
+          "headline": "Transcript: Unusual Machines Q2 2026 Earnings Conference Call",
+          "url": "https://finnhub.io/api/news?id=afe757cb054900c4209dc99224545959d9f7af24c80dc7cfd1bd44d3fd93fff1"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": 1.02,
-      "price": 333.69
+      "pct": -0.24,
+      "price": 332.89
     },
     "MSFT": {
-      "pct": 0.92,
-      "price": 517.53
+      "pct": 1.48,
+      "price": 525.18
     },
     "GOOG": {
-      "pct": 1.62,
-      "price": 340.35
+      "pct": 1.02,
+      "price": 343.83
     },
     "NFLX": {
-      "pct": -1.16,
-      "price": 67.06
+      "pct": 0.66,
+      "price": 67.5
     },
     "TSLA": {
-      "pct": 4.65,
-      "price": 370.59
+      "pct": 2.2,
+      "price": 378.73
     },
     "NVDA": {
-      "pct": 1.34,
-      "price": 233.95
+      "pct": 2.12,
+      "price": 238.9
     },
     "AMD": {
-      "pct": 2.95,
-      "price": 633.91
+      "pct": -0.34,
+      "price": 631.75
     },
     "AVGO": {
-      "pct": 3.35,
-      "price": 355.14
+      "pct": 2.08,
+      "price": 362.51
     },
     "MU": {
-      "pct": -2.05,
-      "price": 1074.89
+      "pct": -1.02,
+      "price": 1063.96
     },
     "INTC": {
-      "pct": -0.56,
-      "price": 119.33
+      "pct": -2.63,
+      "price": 116.19
     },
     "MRVL": {
-      "pct": 1.57,
-      "price": 272.29
+      "pct": -0.38,
+      "price": 271.25
     },
     "ARM": {
-      "pct": 5.18,
-      "price": 307.49
+      "pct": -1.49,
+      "price": 302.9
     },
     "QCOM": {
-      "pct": 1.53,
-      "price": 184.87
+      "pct": -2.21,
+      "price": 180.79
     },
     "ALAB": {
-      "pct": -1.71,
-      "price": 350.33
+      "pct": 3.43,
+      "price": 362.34
     },
     "LITE": {
-      "pct": 3.79,
-      "price": 1085.42
+      "pct": 0.58,
+      "price": 1091.67
     },
     "TER": {
-      "pct": 8.0,
-      "price": 449.04
+      "pct": -1.0,
+      "price": 444.53
     },
     "SNDK": {
-      "pct": -3.79,
-      "price": 1719.99
+      "pct": -0.92,
+      "price": 1704.16
     },
     "DRAM": {
-      "pct": -0.4,
-      "price": 61.78
+      "pct": -0.18,
+      "price": 61.67
     },
     "NOK": {
-      "pct": 2.22,
-      "price": 10.6
+      "pct": -3.77,
+      "price": 10.2
     },
     "PLTR": {
-      "pct": -0.68,
-      "price": 188.75
+      "pct": 0.34,
+      "price": 189.4
     },
     "ANET": {
-      "pct": 1.4,
-      "price": 207.35
+      "pct": -0.22,
+      "price": 206.9
     },
     "NBIS": {
-      "pct": 4.53,
-      "price": 242.81
+      "pct": -4.22,
+      "price": 232.57
     },
     "SNOW": {
-      "pct": -0.28,
-      "price": 341.04
+      "pct": -0.6,
+      "price": 338.99
     },
     "FIG": {
-      "pct": -0.97,
-      "price": 21.36
+      "pct": 3.04,
+      "price": 22.01
     },
     "UMAC": {
-      "pct": 2.71,
-      "price": 22.37
+      "pct": -2.41,
+      "price": 21.83
     },
     "RVI": {
-      "pct": 0.92,
-      "price": 27.44
+      "pct": -1.57,
+      "price": 27.01
     },
     "ROBO": {
-      "pct": 2.23,
-      "price": 82.82
+      "pct": 0.63,
+      "price": 83.34
     }
   },
   "no_data": [],
-  "usd_cad": 1.424
+  "usd_cad": 1.4253
 }
