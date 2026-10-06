@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-06T20:27:18+00:00",
+  "tone": {
+    "SPY": 0.55,
+    "QQQ": 0.46
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "ALAB",
+      "pct": 7.58,
+      "price": 389.8,
+      "news": [
+        {
+          "headline": "Should You Buy, Sell, or Hold ALAB Stock After a 118% YTD Rise?",
+          "url": "https://finnhub.io/api/news?id=4785889567d9d4f84e52f2599cf8f073a7474ca874c20b71d4f4526ae6f737b1"
+        },
+        {
+          "headline": "MRVL's Alliance With NVDA & MSFT: Can It Challenge ALAB & AVGO ?",
+          "url": "https://finnhub.io/api/news?id=c99edaeabb3d9e8ac97a94db60840c680f14e099099c419fb6217e73bfe60229"
+        }
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "pct": 7.55,
+      "price": 10.97,
+      "news": [
+        {
+          "headline": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
+          "url": "https://finnhub.io/api/news?id=aa475f9363e423a2f98742f7531b2d0eb385a9a9efddf15069bd64880d0c5bd8"
+        },
+        {
+          "headline": "European Equities Traded in the US as American Depositary Receipts Track Lower in Monday Trading",
+          "url": "https://finnhub.io/api/news?id=6cb78431670142d9ae783b644d152c6eb1fb8abac5632c72c8bd305515f09db6"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": 7.44,
+      "price": 249.87,
+      "news": [
+        {
+          "headline": "Better Cloud Investment: Amazon or Nebius Group?",
+          "url": "https://finnhub.io/api/news?id=c92a8345855a60f3355ef21663819b68251948d91d104f93ab966ace9ff5073b"
+        },
+        {
+          "headline": "Nebius Rallies 9% on an Inference Deal While Its Earnings Multiple Sits Near 197x; CoreWeave Gains 4%, Oracle Advances 3%",
+          "url": "https://finnhub.io/api/news?id=5ed823fab51bfd325fef365a3c4aaa96520171c1fdec2f50f23fe6caf2a03329"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": 5.81,
+      "price": 287.01,
+      "news": [
+        {
+          "headline": "Marvell raises fiscal 2031 revenue target at investor day",
+          "url": "https://finnhub.io/api/news?id=b3bb6e969e746963ce54baac0849b1c470c4ae77a71a436cc245c61ea1f5db5e"
+        },
+        {
+          "headline": "Sector Update: Tech Stocks Rise Late Afternoon",
+          "url": "https://finnhub.io/api/news?id=0494086e3d08d908f7fdae16c8204cb0db8f158e402dfd0e0b3aa41c20a53b83"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 4.09,
+      "price": 215.36,
+      "news": [
+        {
+          "headline": "Arista Networks Advances 4% While Ciena Soars 11% on AI Networking Demand; Cisco Rises 3%",
+          "url": "https://finnhub.io/api/news?id=b159ffeba33b5442476edfe61ce3b5eed8c32f68a833e79dcc2393fe045b48d7"
+        },
+        {
+          "headline": "Wall Street Analysts See Arista Networks (ANET) as a Buy: Should You Invest?",
+          "url": "https://finnhub.io/api/news?id=ef4b52ef3bdd4144029e0be3219e4e6981a2a44a240e00733bedec815b64ead3"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": 3.82,
+      "price": 1133.4,
+      "news": [
+        {
+          "headline": "Applied Optoelectronics Surges 6% as $600M Share Sale Program Closes; Lumentum Sits Out the Rally, Corning Edges Higher",
+          "url": "https://finnhub.io/api/news?id=51a2738c03f5599ac3dfbc10df735600364f9c8a8485a2f3ce8b1eb23f624af4"
+        },
+        {
+          "headline": "Six Companies Just Grew 100% Or More \u2014 Four May Surprise You",
+          "url": "https://finnhub.io/api/news?id=479cc4a7369ce9956508f30c866a89ace3775f9e7b2da3eab49cedc2bc9aec8f"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.22,
+      "price": 333.63
+    },
+    "MSFT": {
+      "pct": 0.78,
+      "price": 529.3
+    },
+    "GOOG": {
+      "pct": 0.22,
+      "price": 344.59
+    },
+    "NFLX": {
+      "pct": 1.76,
+      "price": 68.69
+    },
+    "TSLA": {
+      "pct": 0.51,
+      "price": 380.68
+    },
+    "NVDA": {
+      "pct": 0.14,
+      "price": 239.24
+    },
+    "AMD": {
+      "pct": 2.8,
+      "price": 649.42
+    },
+    "AVGO": {
+      "pct": 3.67,
+      "price": 375.81
+    },
+    "MU": {
+      "pct": -1.73,
+      "price": 1045.56
+    },
+    "INTC": {
+      "pct": -3.18,
+      "price": 112.5
+    },
+    "MRVL": {
+      "pct": 5.81,
+      "price": 287.01
+    },
+    "ARM": {
+      "pct": -0.11,
+      "price": 302.56
+    },
+    "QCOM": {
+      "pct": 0.13,
+      "price": 181.03
+    },
+    "ALAB": {
+      "pct": 7.58,
+      "price": 389.8
+    },
+    "LITE": {
+      "pct": 3.82,
+      "price": 1133.4
+    },
+    "TER": {
+      "pct": -3.2,
+      "price": 430.32
+    },
+    "SNDK": {
+      "pct": -2.56,
+      "price": 1660.46
+    },
+    "DRAM": {
+      "pct": -3.49,
+      "price": 59.52
+    },
+    "NOK": {
+      "pct": 7.55,
+      "price": 10.97
+    },
+    "PLTR": {
+      "pct": 1.41,
+      "price": 192.07
+    },
+    "ANET": {
+      "pct": 4.09,
+      "price": 215.36
+    },
+    "NBIS": {
+      "pct": 7.44,
+      "price": 249.87
+    },
+    "SNOW": {
+      "pct": -0.9,
+      "price": 335.95
+    },
+    "FIG": {
+      "pct": -0.36,
+      "price": 21.93
+    },
+    "UMAC": {
+      "pct": 2.43,
+      "price": 22.36
+    },
+    "RVI": {
+      "pct": 0.07,
+      "price": 27.03
+    },
+    "ROBO": {
+      "pct": 0.07,
+      "price": 83.4
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.425
+}
