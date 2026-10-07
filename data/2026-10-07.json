@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-10-07T20:42:13+00:00",
+  "tone": {
+    "SPY": -0.24,
+    "QQQ": -0.25
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": -5.09,
+      "price": 237.15,
+      "news": [
+        {
+          "headline": "IREN Limited's Sweetwater Hub: Can It Fuel IREN's AI Expansion Plans?",
+          "url": "https://finnhub.io/api/news?id=1179cbf1ccc74975f4cb88a4b31c5961a9f1724ab3c512c03e10ed3f2fff45e2"
+        },
+        {
+          "headline": "The Most Important AI Company You've Never Heard Of",
+          "url": "https://finnhub.io/api/news?id=de4d527dbdb5ed587a4a7aa1599963b50843a0b87268024d58e932d4ae79a313"
+        }
+      ]
+    },
+    {
+      "symbol": "TER",
+      "pct": -4.31,
+      "price": 411.78,
+      "news": [
+        {
+          "headline": "Exploring the top movers within the S&P500 index during today's session.",
+          "url": "https://finnhub.io/api/news?id=4969bb37167e933cfd7558289b21f83b2434a2d4a02d1d83b878f78ff6fb8b48"
+        },
+        {
+          "headline": "Wednesday's session: top gainers and losers in the S&P500 index",
+          "url": "https://finnhub.io/api/news?id=683287b687d95e857a785c1de492dffd35b70d6ff8db3972eb817f9a09d627d2"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": 4.06,
+      "price": 1088,
+      "news": [
+        {
+          "headline": "At $1,069, Is Micron Stock Going to Split?",
+          "url": "https://finnhub.io/api/news?id=d67ec5289d7572e9bedc1cc1df5b46620412017f6e1b02acf56f18c9c4211c4a"
+        },
+        {
+          "headline": "Stock Market Today: S&P 500 Cuts Losses As Oil, Yields Drop But Caterpillar Shares Get Pounded (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=69f89736d6b1ba81d734e7398bc3c5f814102bfd2e55fe2ec47378e8ee40e754"
+        }
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "pct": -3.19,
+      "price": 10.62,
+      "news": [
+        {
+          "headline": "Curious about the most active stocks on Wednesday?",
+          "url": "https://finnhub.io/api/news?id=7c562d0c71cb2685a59623ecc4cad446aaae3f8b72f818513bae9f8b2ddc7518"
+        },
+        {
+          "headline": "Reported Oct. 5: 'Nokia CEO says data centers would be built \u20182x faster\u2019 without supply constraints' - CNBC",
+          "url": "https://finnhub.io/api/news?id=8ff246596b64c2e1a8bb19b943d3d3f89debfbed8bd8f57246acf83dafe93db6"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": -2.71,
+      "price": 294.37,
+      "news": [
+        {
+          "headline": "ARM vs. Marvell Technology: What Revenue Trends for These Artificial Intelligence Companies Tell Investors",
+          "url": "https://finnhub.io/api/news?id=986620ff35e3dac8c37a64b4c0328832ce712aebd04ad245ecde44235f3544e1"
+        },
+        {
+          "headline": "AI Trade Broadens, Again: Capital Stack Recycling (Video)",
+          "url": "https://finnhub.io/api/news?id=857cbd7a91c5a2216df9039f8d1a5c4093bf5d7d56d5978b23f25905922d3982"
+        }
+      ]
+    },
+    {
+      "symbol": "RVI",
+      "pct": -2.33,
+      "price": 26.4,
+      "news": []
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.91,
+      "price": 336.67
+    },
+    "MSFT": {
+      "pct": 0.09,
+      "price": 529.76
+    },
+    "GOOG": {
+      "pct": 0.81,
+      "price": 347.37
+    },
+    "NFLX": {
+      "pct": 1.47,
+      "price": 69.7
+    },
+    "TSLA": {
+      "pct": -0.75,
+      "price": 377.81
+    },
+    "NVDA": {
+      "pct": -0.74,
+      "price": 237.47
+    },
+    "AMD": {
+      "pct": -0.55,
+      "price": 645.86
+    },
+    "AVGO": {
+      "pct": 0.19,
+      "price": 376.51
+    },
+    "MU": {
+      "pct": 4.06,
+      "price": 1088
+    },
+    "INTC": {
+      "pct": 0.55,
+      "price": 113.12
+    },
+    "MRVL": {
+      "pct": -0.81,
+      "price": 284.68
+    },
+    "ARM": {
+      "pct": -2.71,
+      "price": 294.37
+    },
+    "QCOM": {
+      "pct": -2.16,
+      "price": 177.12
+    },
+    "ALAB": {
+      "pct": -1.94,
+      "price": 382.25
+    },
+    "LITE": {
+      "pct": -1.97,
+      "price": 1111.07
+    },
+    "TER": {
+      "pct": -4.31,
+      "price": 411.78
+    },
+    "SNDK": {
+      "pct": 1.92,
+      "price": 1692.42
+    },
+    "DRAM": {
+      "pct": 0.82,
+      "price": 60.01
+    },
+    "NOK": {
+      "pct": -3.19,
+      "price": 10.62
+    },
+    "PLTR": {
+      "pct": 1.07,
+      "price": 194.12
+    },
+    "ANET": {
+      "pct": 0.22,
+      "price": 215.83
+    },
+    "NBIS": {
+      "pct": -5.09,
+      "price": 237.15
+    },
+    "SNOW": {
+      "pct": -0.92,
+      "price": 332.85
+    },
+    "FIG": {
+      "pct": -1.41,
+      "price": 21.62
+    },
+    "UMAC": {
+      "pct": -2.15,
+      "price": 21.88
+    },
+    "RVI": {
+      "pct": -2.33,
+      "price": 26.4
+    },
+    "ROBO": {
+      "pct": -1.89,
+      "price": 81.82
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4253
+}
