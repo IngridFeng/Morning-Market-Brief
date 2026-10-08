@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-08T20:45:27+00:00",
+  "tone": {
+    "SPY": -0.42,
+    "QQQ": -1.34
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "ALAB",
+      "pct": -9.21,
+      "price": 347.05,
+      "news": [
+        {
+          "headline": "Astera Labs Announces Aries 7: Industry\u2019s First PCIe 7 Signal Conditioning Portfolio Across Copper and Optical Interconnects",
+          "url": "https://finnhub.io/api/news?id=34511c1b2031237321b19adbdea760d4a1fa959e30d621f6dc63e1cb4e6360bf"
+        },
+        {
+          "headline": "CRDO's Retimer Business Gains Steam: Can the Momentum Continue?",
+          "url": "https://finnhub.io/api/news?id=590308cc5005442fb07039f3bf8e71d62a36d2fdf1295b03c128965ffbdf3424"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -7.35,
+      "price": 219.71,
+      "news": [
+        {
+          "headline": "Better Cloud AI Pick: CoreWeave or Nebius Group?",
+          "url": "https://finnhub.io/api/news?id=b7480ff5a9e11ea06ff15e9c23f74595de0cccf8a011f7fc7bb3bfec697df79b"
+        },
+        {
+          "headline": "Nebius Captures Pure-Play AI Investors Looking Beyond Mega Caps",
+          "url": "https://finnhub.io/api/news?id=fdd5677efe8e4ee1c52564a9e6633b821fdae39f9a33db854c37d5cb9c5e61f0"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": -6.48,
+      "price": 275.29,
+      "news": [
+        {
+          "headline": "Update: US Equity Indexes Drop as Sharp Sell-Off in Semiconductor Heavyweights Sinks Technology While Crude Oil Surges",
+          "url": "https://finnhub.io/api/news?id=3da8e451874c5e6e84ea51668d565b96ab7c6fa8b37110a9ce5d4cdfca165594"
+        },
+        {
+          "headline": "ACM Research And 2 Other Automation Stocks To Watch",
+          "url": "https://finnhub.io/api/news?id=606918a306db74d965089364ada6c5644ba38f5875f2530bb08686e4339cdc89"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": -5.62,
+      "price": 1048.6,
+      "news": [
+        {
+          "headline": "Top S&P500 movers in Thursday's session",
+          "url": "https://finnhub.io/api/news?id=00e3f6f428848d7b5f56e2fc7a444b52168551d6bb7094884d5ba564cf35c7c7"
+        },
+        {
+          "headline": "Stocks Sink After OpenAI Report Sours AI Trade",
+          "url": "https://finnhub.io/api/news?id=da8154472d3bc6c344e7ce1d613acdb4acbcbf4c89cc4ed527ddb5d345b5066f"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "pct": -5.34,
+      "price": 107.08,
+      "news": [
+        {
+          "headline": "Update: US Equity Indexes Drop as Sharp Sell-Off in Semiconductor Heavyweights Sinks Technology While Crude Oil Surges",
+          "url": "https://finnhub.io/api/news?id=3da8e451874c5e6e84ea51668d565b96ab7c6fa8b37110a9ce5d4cdfca165594"
+        },
+        {
+          "headline": "Top S&P500 movers in Thursday's session",
+          "url": "https://finnhub.io/api/news?id=00e3f6f428848d7b5f56e2fc7a444b52168551d6bb7094884d5ba564cf35c7c7"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": -5.13,
+      "price": 56.93,
+      "news": [
+        {
+          "headline": "DRAM: The AI Memory Boom Is Real, But 2028 Earnings Matter More Than Today's Low P/E",
+          "url": "https://finnhub.io/api/news?id=5e9af6db6b2923825ad68911cea002aa49b6bd4c3061b6ac1855ed800761addd"
+        },
+        {
+          "headline": "SanDisk and Micron Rise 3% as Tight Memory Supply Outruns a Softer Tech Tape; Western Digital Lags",
+          "url": "https://finnhub.io/api/news?id=c87f8592ab809016c8fd5f391d659fa73c3c25b6f5a676a4991c59429fbb3665"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 1.11,
+      "price": 340.42
+    },
+    "MSFT": {
+      "pct": -1.35,
+      "price": 522.61
+    },
+    "GOOG": {
+      "pct": -0.72,
+      "price": 344.86
+    },
+    "NFLX": {
+      "pct": 2.68,
+      "price": 71.57
+    },
+    "TSLA": {
+      "pct": -0.74,
+      "price": 375
+    },
+    "NVDA": {
+      "pct": -2.94,
+      "price": 230.48
+    },
+    "AMD": {
+      "pct": -3.9,
+      "price": 620.68
+    },
+    "AVGO": {
+      "pct": -4.35,
+      "price": 360.14
+    },
+    "MU": {
+      "pct": -4.79,
+      "price": 1035.84
+    },
+    "INTC": {
+      "pct": -5.34,
+      "price": 107.08
+    },
+    "MRVL": {
+      "pct": -3.52,
+      "price": 274.66
+    },
+    "ARM": {
+      "pct": -6.48,
+      "price": 275.29
+    },
+    "QCOM": {
+      "pct": -0.63,
+      "price": 176.01
+    },
+    "ALAB": {
+      "pct": -9.21,
+      "price": 347.05
+    },
+    "LITE": {
+      "pct": -5.62,
+      "price": 1048.6
+    },
+    "TER": {
+      "pct": -3.17,
+      "price": 398.72
+    },
+    "SNDK": {
+      "pct": -4.9,
+      "price": 1609.46
+    },
+    "DRAM": {
+      "pct": -5.13,
+      "price": 56.93
+    },
+    "NOK": {
+      "pct": -4.52,
+      "price": 10.14
+    },
+    "PLTR": {
+      "pct": 2.4,
+      "price": 198.78
+    },
+    "ANET": {
+      "pct": -2.25,
+      "price": 210.97
+    },
+    "NBIS": {
+      "pct": -7.35,
+      "price": 219.71
+    },
+    "SNOW": {
+      "pct": 3.17,
+      "price": 343.4
+    },
+    "FIG": {
+      "pct": 4.67,
+      "price": 22.63
+    },
+    "UMAC": {
+      "pct": -2.24,
+      "price": 21.39
+    },
+    "RVI": {
+      "pct": -0.57,
+      "price": 26.25
+    },
+    "ROBO": {
+      "pct": -2.13,
+      "price": 80.08
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4262
+}
