@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T22:32:57+00:00",
+  "generated_at": "2026-10-13T20:45:55+00:00",
   "tone": {
-    "SPY": -0.06,
-    "QQQ": -0.7
+    "SPY": -0.01,
+    "QQQ": -0.33
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,202 +10,206 @@
   },
   "movers_ranked": [
     {
-      "symbol": "LITE",
-      "pct": -9.78,
-      "price": 995.41,
+      "symbol": "MU",
+      "pct": -3.62,
+      "price": 953.19,
       "news": [
         {
-          "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
-          "url": "https://finnhub.io/api/news?id=a1bc57aec181cff351dc669ee73c0ed3171ce1e04a235c076b501a154eac16cc"
+          "headline": "Update: US Equity Indexes Mixed Following Mega-Cap Banking Results, Declines in Technology",
+          "url": "https://finnhub.io/api/news?id=3b2ddefc27b7d0e6560ef7e55d71da276a31fd3e49e99fd3ee8f19ad3f722006"
         },
         {
-          "headline": "Stock Market Today: Dow Outperforms In Mixed Trade; Tanker Firm Navios Glides Into Buy Zone (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=70fecb3ac5defad33ee7d7fe28e99e784a13908d02991ed0fb929fe34d368554"
+          "headline": "Sector Update: Tech Stocks Softer Late Afternoon",
+          "url": "https://finnhub.io/api/news?id=0b4e3a4052e775cb95d07b30d0311f7a3f91c50c000f41ca27aa120c63158bf0"
         }
       ]
     },
     {
-      "symbol": "SNDK",
-      "pct": -5.97,
-      "price": 1487.33,
+      "symbol": "DRAM",
+      "pct": -3.44,
+      "price": 52.84,
       "news": [
         {
-          "headline": "Stock Market Today, Oct. 12: Dow Gains as Memory Stocks Weigh on Nasdaq",
-          "url": "https://finnhub.io/api/news?id=a1bc57aec181cff351dc669ee73c0ed3171ce1e04a235c076b501a154eac16cc"
+          "headline": "SanDisk Drops 6% in Memory Selloff on China\u2019s DRAM Progress; Seagate Slides 4%",
+          "url": "https://finnhub.io/api/news?id=9e4f9d300f1f9dd8f9c59b28db5192e03fc134332bfda85b03006957048f36b0"
         },
         {
-          "headline": "Update: US Equity Indexes Mixed as Mega-Cap Tech Names Weighed, Strikes on Ukraine Energy Assets Weaken Energy-Ceasefire Claims",
-          "url": "https://finnhub.io/api/news?id=1588351215461d32e3c65a2eab1d8ecc8d6f81fbfad7b20b18e8548cebbf7c2a"
+          "headline": "China Chip Concerns Hit Micron, SanDisk: Monday's Selloff Brings Double Pain for This ETF",
+          "url": "https://finnhub.io/api/news?id=2c3052f4cd7e05f2e57b53919fba138a48fb433e681a7a97cb425dd142b97941"
         }
       ]
     },
     {
-      "symbol": "UMAC",
-      "pct": -5.71,
-      "price": 19.64,
+      "symbol": "ANET",
+      "pct": -3.02,
+      "price": 204.52,
       "news": [
         {
-          "headline": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside",
-          "url": "https://finnhub.io/api/news?id=45b965d927dfc4e7494296eb2918b3c41498dcae1313d354f751a62cbab122d6"
+          "headline": "Arista Networks vs. International Business Machines: Which Technology Stock Is a Better Buy in 2026?",
+          "url": "https://finnhub.io/api/news?id=da95330d769a20958512d5d0d3434071d289dfd7cc0f5f87bc18249397c22811"
+        },
+        {
+          "headline": "Explore the top gainers and losers within the S&P500 index in today's session.",
+          "url": "https://finnhub.io/api/news?id=7a19a3877cfb0a66a454cc78dcbca0f2fa76447119c7e87a164ed3c33cb12dcc"
         }
       ]
     },
     {
-      "symbol": "ALAB",
-      "pct": -5.29,
-      "price": 324.11,
+      "symbol": "AMD",
+      "pct": 1.9,
+      "price": 605.53,
       "news": [
         {
-          "headline": "Astera Labs Unveils Orion: A Compute-Agnostic Rack-Scale Architecture for Token-Efficient AI Factories",
-          "url": "https://finnhub.io/api/news?id=1bdf685710b2c88f717c338b8bc32284995f2ba05bfa4d4995f5d8688be96d68"
+          "headline": "What Is Next For Micron Stock?",
+          "url": "https://finnhub.io/api/news?id=c7dd6f08d6d026874fc81826252e7aa9b277727048eb00a7affc82507f0fa670"
         },
         {
-          "headline": "Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI Rack-Scale Connectivity at the 2026 OCP Global Summit",
-          "url": "https://finnhub.io/api/news?id=cd86f9b7b4db99c2b23bf40d279a7e42c4f276a94ae6aee159aa99f3c4f1a71d"
+          "headline": "MSI Showcases Open Data Center and AI Infrastructure at 2026 OCP Global Summit",
+          "url": "https://finnhub.io/api/news?id=20823944e69e23d44b550c658735baaddd853aab078f7df638aca80ea069757b"
         }
       ]
     },
     {
       "symbol": "NBIS",
-      "pct": -4.98,
-      "price": 210.06,
+      "pct": -1.52,
+      "price": 206.86,
       "news": [
         {
-          "headline": "CRWV Shares Slide 25% in 6 Months: Time to Buy, Hold or Cut Losses?",
-          "url": "https://finnhub.io/api/news?id=2cab502378bbd8559bddb1e3794dcae545d5481282dcd40a858ecbffe75735fa"
+          "headline": "Nebius (NBIS) Has Pricing Power. Its Earnings Don\u2019t Show It Yet.",
+          "url": "https://finnhub.io/api/news?id=8d33ed4334d7e8b4490fa2af4da47988b58c156ab8c201cb647497f2c5eb06f2"
         },
         {
-          "headline": "Nebius Slides 3% Despite Rosenblatt\u2019s New Buy Rating; CoreWeave Slips",
-          "url": "https://finnhub.io/api/news?id=4a93055a65542d636393963647d04004a15c6432aac136e0e7445bdf2f953915"
+          "headline": "Prediction: CoreWeave Could Be One of the Most Explosive AI Stocks of the Decade",
+          "url": "https://finnhub.io/api/news?id=6e5f8317cbd8091f82022886bf716c6c7515afe79ff2db6f40c3ca4a22b1d54d"
         }
       ]
     },
     {
-      "symbol": "TER",
-      "pct": -4.68,
-      "price": 383.85,
+      "symbol": "INTC",
+      "pct": 1.44,
+      "price": 102.81,
       "news": [
         {
-          "headline": "FormFactor stock rises on $300M Teradyne investment deal",
-          "url": "https://finnhub.io/api/news?id=3ade1486118f0a9ad7c71d8a19bc2b4e79a4b5c4647e99f0a0292590fd734af9"
+          "headline": "Inside the Intel Supreme Court Case: Fees, Fiduciaries and Hidden Risk",
+          "url": "https://finnhub.io/api/news?id=427a4101b210c6e157e78f4ea953abb66aa712d361cf2afcaaa9db7404ed308b"
         },
         {
-          "headline": "FormFactor and Teradyne Announce Strategic Collaboration to Accelerate Next-Generation Semiconductor Testing",
-          "url": "https://finnhub.io/api/news?id=00107915edf1601d8c6e57d7a5a5ced759cf7c7389aad29503afd091d5dc926d"
+          "headline": "What Is Next For Micron Stock?",
+          "url": "https://finnhub.io/api/news?id=c7dd6f08d6d026874fc81826252e7aa9b277727048eb00a7affc82507f0fa670"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": 1.29,
-      "price": 340.97
+      "pct": 0.09,
+      "price": 341.27
     },
     "MSFT": {
-      "pct": 1.14,
-      "price": 541.15
+      "pct": 0.42,
+      "price": 543.45
     },
     "GOOG": {
-      "pct": 0.32,
-      "price": 348.97
+      "pct": 0.16,
+      "price": 349.52
     },
     "NFLX": {
-      "pct": 0.44,
-      "price": 70.61
+      "pct": -0.21,
+      "price": 70.46
     },
     "TSLA": {
-      "pct": -1.22,
-      "price": 378.03
+      "pct": -0.74,
+      "price": 375.23
     },
     "NVDA": {
-      "pct": -1.29,
-      "price": 226.32
+      "pct": 0.97,
+      "price": 228.52
     },
     "AMD": {
-      "pct": -2.28,
-      "price": 594.24
+      "pct": 1.9,
+      "price": 605.53
     },
     "AVGO": {
-      "pct": -1.88,
-      "price": 354.73
+      "pct": 0.73,
+      "price": 357.31
     },
     "MU": {
-      "pct": -3.88,
-      "price": 989.04
+      "pct": -3.62,
+      "price": 953.19
     },
     "INTC": {
-      "pct": -3.2,
-      "price": 101.35
+      "pct": 1.44,
+      "price": 102.81
     },
     "MRVL": {
-      "pct": -3.42,
-      "price": 265.86
+      "pct": 1.08,
+      "price": 268.73
     },
     "ARM": {
-      "pct": -4.15,
-      "price": 255.24
+      "pct": 0.06,
+      "price": 255.39
     },
     "QCOM": {
-      "pct": -0.61,
-      "price": 174.43
+      "pct": 1.39,
+      "price": 176.86
     },
     "ALAB": {
-      "pct": -5.29,
-      "price": 324.11
+      "pct": 0.4,
+      "price": 325.41
     },
     "LITE": {
-      "pct": -9.78,
-      "price": 995.41
+      "pct": -0.75,
+      "price": 987.99
     },
     "TER": {
-      "pct": -4.68,
-      "price": 383.85
+      "pct": -0.93,
+      "price": 380.29
     },
     "SNDK": {
-      "pct": -5.97,
-      "price": 1487.33
+      "pct": -0.34,
+      "price": 1482.33
     },
     "DRAM": {
-      "pct": -4.32,
-      "price": 54.72
+      "pct": -3.44,
+      "price": 52.84
     },
     "NOK": {
-      "pct": -4.44,
-      "price": 9.9
+      "pct": -0.4,
+      "price": 9.86
     },
     "PLTR": {
-      "pct": -0.02,
-      "price": 209
+      "pct": -0.16,
+      "price": 208.67
     },
     "ANET": {
-      "pct": -2.7,
-      "price": 210.88
+      "pct": -3.02,
+      "price": 204.52
     },
     "NBIS": {
-      "pct": -4.98,
-      "price": 210.06
+      "pct": -1.52,
+      "price": 206.86
     },
     "SNOW": {
-      "pct": -2.31,
-      "price": 360.37
+      "pct": -0.72,
+      "price": 357.76
     },
     "FIG": {
-      "pct": -2.4,
-      "price": 21.96
+      "pct": -0.91,
+      "price": 21.76
     },
     "UMAC": {
-      "pct": -5.71,
-      "price": 19.64
+      "pct": -1.02,
+      "price": 19.44
     },
     "RVI": {
-      "pct": -3.1,
-      "price": 25.29
+      "pct": -0.55,
+      "price": 25.15
     },
     "ROBO": {
-      "pct": -1.51,
-      "price": 80.03
+      "pct": -0.22,
+      "price": 79.85
     }
   },
   "no_data": [],
-  "usd_cad": 1.4262
+  "usd_cad": 1.4241
 }
