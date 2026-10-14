@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-10-14T19:33:04+00:00",
+  "tone": {
+    "SPY": -1.13,
+    "QQQ": -1.89
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": -10.71,
+      "price": 184.71,
+      "news": [
+        {
+          "headline": "Why Gartner AI Outlook Sent CoreWeave Stock, Neoclouds Reeling",
+          "url": "https://finnhub.io/api/news?id=f2671540fa16b4a687287474ceb4b22261d9ad67a9305ec59c01a38771c8cc2b"
+        },
+        {
+          "headline": "Stock Market Today: Tech Hit Amid Hot Inflation Data; Nvidia Among The Losers (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=ff8c3a4bf34609e265da34ac1d23c12655a35c59c4e6f738a385bd360cbbc3c1"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": -8.2,
+      "price": 906.95,
+      "news": [
+        {
+          "headline": "Applied Optoelectronics Dives 9% as AI Funding Fears Hit Optical Stocks; Coherent Slides 7%, Lumentum Drops 7%",
+          "url": "https://finnhub.io/api/news?id=405e0bf2467d0f5c8354ba12268c0e6364e75009e3569490781e86560ef649fd"
+        },
+        {
+          "headline": "Can Coherent's AI Data Center Expansion Fuel Long-Term Growth?",
+          "url": "https://finnhub.io/api/news?id=1f560faf63323fa4361045531cb495c52be606bedc5a10c846f6bb02b8ae965e"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": -7.25,
+      "price": 249.23,
+      "news": [
+        {
+          "headline": "Prediction: Rambus Could Benefit Every Time AI Gets Faster",
+          "url": "https://finnhub.io/api/news?id=4562761cfa94d2950a949332d86544134b2f57b35881a3a872f4b092acec88d1"
+        },
+        {
+          "headline": "Astera Labs (ALAB) vs. CRDO and MRVL: Can Surging AI Demand Outpace Valuation Risks?",
+          "url": "https://finnhub.io/api/news?id=58456fc86b2cb0a01a83f897917ed54613b31cf5bc55715c3411a20f7157df90"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -7.05,
+      "price": 18.07,
+      "news": [
+        {
+          "headline": "XTI Aerospace Appoints Unusual Machines CEO Dr. Allan Evans to Serve as Chairman of its Board of Directors",
+          "url": "https://finnhub.io/api/news?id=e50d9058377b063be7824bbaef509188d1e21c3ec87c305b4335c640a37ac5dd"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": -6.67,
+      "price": 303.72,
+      "news": [
+        {
+          "headline": "Astera Labs (ALAB) vs. CRDO and MRVL: Can Surging AI Demand Outpace Valuation Risks?",
+          "url": "https://finnhub.io/api/news?id=58456fc86b2cb0a01a83f897917ed54613b31cf5bc55715c3411a20f7157df90"
+        },
+        {
+          "headline": "Price Prediction: This Stock Could Double by 2027",
+          "url": "https://finnhub.io/api/news?id=6f6d41053233c19b1bd3078f03c3efa3a17087dbb35175342c68e0f8496be048"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": -6.28,
+      "price": 239.35,
+      "news": [
+        {
+          "headline": "How Qualcomm\u2019s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+          "url": "https://finnhub.io/api/news?id=8c5726d2abcd5f675441efc052e0c9c078000edbf7bbe311e6bb0ca40e3fe037"
+        },
+        {
+          "headline": "Arm vs. Sandisk: Which Tech Stock Is a Better Buy in October?",
+          "url": "https://finnhub.io/api/news?id=4f85bdf2af1152e05ca12cd7df6821ccbd118cb4a7ffd32b657629760e151271"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.6,
+      "price": 343.31
+    },
+    "MSFT": {
+      "pct": -1.62,
+      "price": 534.63
+    },
+    "GOOG": {
+      "pct": -1.53,
+      "price": 344.18
+    },
+    "NFLX": {
+      "pct": 0,
+      "price": 70.46
+    },
+    "TSLA": {
+      "pct": -2.4,
+      "price": 366.23
+    },
+    "NVDA": {
+      "pct": -3.13,
+      "price": 221.36
+    },
+    "AMD": {
+      "pct": -5.5,
+      "price": 572.24
+    },
+    "AVGO": {
+      "pct": -3.13,
+      "price": 346.14
+    },
+    "MU": {
+      "pct": -3.18,
+      "price": 922.91
+    },
+    "INTC": {
+      "pct": -3.92,
+      "price": 98.78
+    },
+    "MRVL": {
+      "pct": -7.25,
+      "price": 249.23
+    },
+    "ARM": {
+      "pct": -6.28,
+      "price": 239.35
+    },
+    "QCOM": {
+      "pct": -2.1,
+      "price": 173.14
+    },
+    "ALAB": {
+      "pct": -6.67,
+      "price": 303.72
+    },
+    "LITE": {
+      "pct": -8.2,
+      "price": 906.95
+    },
+    "TER": {
+      "pct": -5.13,
+      "price": 360.78
+    },
+    "SNDK": {
+      "pct": -4.26,
+      "price": 1419.24
+    },
+    "DRAM": {
+      "pct": -4.22,
+      "price": 50.61
+    },
+    "NOK": {
+      "pct": -4.46,
+      "price": 9.42
+    },
+    "PLTR": {
+      "pct": -3.83,
+      "price": 200.67
+    },
+    "ANET": {
+      "pct": -4.44,
+      "price": 195.43
+    },
+    "NBIS": {
+      "pct": -10.71,
+      "price": 184.71
+    },
+    "SNOW": {
+      "pct": -6.09,
+      "price": 335.97
+    },
+    "FIG": {
+      "pct": -1.56,
+      "price": 21.42
+    },
+    "UMAC": {
+      "pct": -7.05,
+      "price": 18.07
+    },
+    "RVI": {
+      "pct": -0.52,
+      "price": 25.02
+    },
+    "ROBO": {
+      "pct": -2.14,
+      "price": 78.14
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4219
+}
