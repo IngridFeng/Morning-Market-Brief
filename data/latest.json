@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T18:53:06+00:00",
+  "generated_at": "2026-10-19T20:39:57+00:00",
   "tone": {
-    "SPY": -1.28,
-    "QQQ": -2.54
+    "SPY": 0.42,
+    "QQQ": 1.21
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,206 @@
   },
   "movers_ranked": [
     {
-      "symbol": "NBIS",
-      "pct": -12.51,
-      "price": 164.84,
+      "symbol": "SNDK",
+      "pct": 5.53,
+      "price": 1371.12,
       "news": [
         {
-          "headline": "Nebius Group And 2 High Growth Insider Stocks To Watch",
-          "url": "https://finnhub.io/api/news?id=62992b677be5276c4b3610563926e8cad053b165a1ecf1e3e472784b8c672b72"
+          "headline": "Last Week\u2019s Stock Market Losers Are Bouncing Back\u2014With CoreWeave an Exception",
+          "url": "https://finnhub.io/api/news?id=cb343bb4acc78e015a46a79c04f2b857622281a31dbf44e4c03596104a0de0fa"
         },
         {
-          "headline": "CoreWeave Rides Rollercoaster Despite ARK's Wood, Nvidia Support",
-          "url": "https://finnhub.io/api/news?id=e5b5d69ddeb9872541281741702b2cde858a543b5e4fdb569f3b65ab592c9769"
-        }
-      ]
-    },
-    {
-      "symbol": "SNOW",
-      "pct": -8.43,
-      "price": 306.81,
-      "news": [
-        {
-          "headline": "Snowflake: More Risk Than Reward At These Prices (Downgrade)",
-          "url": "https://finnhub.io/api/news?id=2f22c1b4f73c3ffc5de810019649ad0adc7fe06838472bce83a485561dc5bb5c"
-        },
-        {
-          "headline": "Snowflake (SNOW) Adds Jeff Naughton As It Showcases AI Platform Progress",
-          "url": "https://finnhub.io/api/news?id=221895e45151463e5d4bf2a3cda42194aa55a97007d343ae852fa869669977ee"
+          "headline": "Micron (MU) vs. Sandisk (SNDK): Is the Smaller Factory Bill Really an Advantage?",
+          "url": "https://finnhub.io/api/news?id=f5f692e3c5060c1b942c0c51a1c5a8f72e1eb4a5118405a858315e38c8c6351a"
         }
       ]
     },
     {
       "symbol": "PLTR",
-      "pct": -7.24,
-      "price": 185.99,
+      "pct": 4.36,
+      "price": 194.15,
       "news": [
         {
-          "headline": "Palantir's record breakout unravels as software stocks shed $260 billion",
-          "url": "https://finnhub.io/api/news?id=757344ae8d562c4448ecc0b59aee459b4b1454622a9ef53d320c1ca4ff24bed5"
+          "headline": "Palantir Stock Is Near a Record High. Should Investors Sell?",
+          "url": "https://finnhub.io/api/news?id=9f234af31869fa24b68c7afe0921ddc20bcc9306f985b14f389776de1d7ea88d"
         },
         {
-          "headline": "Can BigBear.ai Ride the Next Wave of Defense Technology?",
-          "url": "https://finnhub.io/api/news?id=873a87608a8711c12121b64a406c56393be62ad36f53e28de077e2df6ef95be6"
+          "headline": "Top 3 Founder Led Stocks To Watch In October 2026",
+          "url": "https://finnhub.io/api/news?id=17d1d56fcb1784d359e6e2890edfa09066c76f3626e2cb1d7ced5f8c4584f57a"
         }
       ]
     },
     {
-      "symbol": "UMAC",
-      "pct": -6.62,
-      "price": 16.65,
+      "symbol": "MRVL",
+      "pct": 4.06,
+      "price": 237.09,
       "news": [
         {
-          "headline": "Swarm Economics: Can XTEND AI Robotics Deliver at Scale?",
-          "url": "https://finnhub.io/api/news?id=c800dd2bff26eb06b88eb3c30cf4d61eb97c54f635d978724363d0b74d6c3002"
+          "headline": "What Just Happened To Marvell Stock?",
+          "url": "https://finnhub.io/api/news?id=f6b17263c2c2e4315ce60178c169671be83f8394d388727646b1e11f979ed042"
         },
         {
-          "headline": "XTI Aerospace Appoints Unusual Machines CEO Dr. Allan Evans to Serve as Chairman of its Board of Directors",
-          "url": "https://finnhub.io/api/news?id=e50d9058377b063be7824bbaef509188d1e21c3ec87c305b4335c640a37ac5dd"
+          "headline": "Stock Market Today: Dow Firm, Nasdaq Rallies; Amazon Surges As These Stocks Test Entries (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=ecbe5b52205b499c0f97c0666490e6bce8801c6978d22197090dc906176ea7f6"
         }
       ]
     },
     {
-      "symbol": "ARM",
-      "pct": -6.51,
-      "price": 228.86,
+      "symbol": "DRAM",
+      "pct": 4.05,
+      "price": 48.33,
       "news": [
         {
-          "headline": "The Next AI Stock Wall Street Is Starting to Pay Attention To",
-          "url": "https://finnhub.io/api/news?id=711bce0ba02ea1c180cd24443ef2c6336a2becc4b65ba2e12d58b434036ffb05"
+          "headline": "DRAM ETF Records Biggest Daily Outflow as AI Bubble Fears Rise",
+          "url": "https://finnhub.io/api/news?id=40b1a8a823ce293a81d89987d874d3ea1bd194dda2423cddbb26ba9f6bc67775"
         },
         {
-          "headline": "It's All About Interest Rates",
-          "url": "https://finnhub.io/api/news?id=7cbbdda2668a72e3341de4ba6f7dab3c0da73b31f8719d004f1e635d4cdb57cb"
+          "headline": "Broadcom Stock Is Down 35% From Its Peak as AI Bubble Warnings Rise, but Analysts Stay Optimistic",
+          "url": "https://finnhub.io/api/news?id=f55502c534fe4dac461ad0dcb8b6f0e5157379498692dcd83a347e498b0b5185"
         }
       ]
     },
     {
-      "symbol": "FIG",
-      "pct": -6.26,
-      "price": 21.55,
+      "symbol": "TSLA",
+      "pct": 3.76,
+      "price": 368.06,
       "news": [
         {
-          "headline": "Has Figma (FIG) Fallen Far Enough To Look Reasonable?",
-          "url": "https://finnhub.io/api/news?id=c298ebf0464289c48887b8ce2e7162335fa568c15cd1727f4e5d709778dcd1f1"
+          "headline": "Musk's Tesla jumps 32 spots on the Roundtable 100 after 'flying car' reveal",
+          "url": "https://finnhub.io/api/news?id=ce44bd4b28319479db6d2dc06851e39d5018ccf4c9dd6e59bf3d3c0272c43988"
         },
         {
-          "headline": "Better High-Growth Software Stock for 2026: Figma vs. ServiceNow",
-          "url": "https://finnhub.io/api/news?id=3e4d4e734814284e4efbdb2c542d41c19602e6d8a8abeece0dcc6b7b6eff61d7"
+          "headline": "This High-Yielding Dividend Stock Has Soared Past the \"Magnificent Seven\" in 2026",
+          "url": "https://finnhub.io/api/news?id=9c0b7d5f7a42a4079aea07e4a9ffd3aa84ed9ab9a9d726a383b08cb6eec22c99"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 3.37,
+      "price": 182.95,
+      "news": [
+        {
+          "headline": "Networking Stocks Rally as Tech Rebound Lifts AI Gear Makers: Ciena and Arista Climb 4%, but Cisco Barely Moves",
+          "url": "https://finnhub.io/api/news?id=b41443ef3bf216ec3d42efd357628be5ce9588f9bf266eb6f301f5b099ee1c42"
+        },
+        {
+          "headline": "Arista Networks Is Heading for a Big Test on Nov. 3. Here's What Could Send the Stock Soaring.",
+          "url": "https://finnhub.io/api/news?id=768c15ffaabc19c3c5a03f9251041eaf22bcb49281c447b7383667e5e5879e8b"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -0.33,
-      "price": 340.86
+      "pct": -0.15,
+      "price": 342.94
     },
     "MSFT": {
-      "pct": -2.38,
-      "price": 526.62
+      "pct": 0.84,
+      "price": 533.52
     },
     "GOOG": {
-      "pct": -2.44,
-      "price": 336.48
+      "pct": 0.96,
+      "price": 340.16
     },
     "NFLX": {
-      "pct": -2.92,
-      "price": 70.49
+      "pct": -0.96,
+      "price": 69.85
     },
     "TSLA": {
-      "pct": -3.36,
-      "price": 350.26
+      "pct": 3.76,
+      "price": 368.06
     },
     "NVDA": {
-      "pct": -1.44,
-      "price": 214.11
+      "pct": 1.38,
+      "price": 217.09
     },
     "AMD": {
-      "pct": -5.23,
-      "price": 532.84
+      "pct": 1.76,
+      "price": 538.05
     },
     "AVGO": {
-      "pct": -3.96,
-      "price": 330.68
+      "pct": 1.78,
+      "price": 334.59
     },
     "MU": {
-      "pct": -4.58,
-      "price": 888.59
+      "pct": 2.97,
+      "price": 904.9
     },
     "INTC": {
-      "pct": -5.38,
-      "price": 90.24
+      "pct": 2.43,
+      "price": 92.03
     },
     "MRVL": {
-      "pct": -5.09,
-      "price": 228.96
+      "pct": 4.06,
+      "price": 237.09
     },
     "ARM": {
-      "pct": -6.51,
-      "price": 228.86
+      "pct": 0.11,
+      "price": 228.05
     },
     "QCOM": {
-      "pct": -3.2,
-      "price": 172.7
+      "pct": 0.83,
+      "price": 173.53
     },
     "ALAB": {
-      "pct": -5.55,
-      "price": 285.23
+      "pct": 0.27,
+      "price": 286.58
     },
     "LITE": {
-      "pct": -4.81,
-      "price": 827.68
+      "pct": 1.26,
+      "price": 834.51
     },
     "TER": {
-      "pct": -4.63,
-      "price": 327.33
+      "pct": 3.24,
+      "price": 335.53
     },
     "SNDK": {
-      "pct": -5.66,
-      "price": 1315.86
+      "pct": 5.53,
+      "price": 1371.12
     },
     "DRAM": {
-      "pct": -5.17,
-      "price": 46.78
+      "pct": 4.05,
+      "price": 48.33
     },
     "NOK": {
-      "pct": -3.55,
-      "price": 9.23
+      "pct": -0.66,
+      "price": 9.08
     },
     "PLTR": {
-      "pct": -7.24,
-      "price": 185.99
+      "pct": 4.36,
+      "price": 194.15
     },
     "ANET": {
-      "pct": -4.18,
-      "price": 177.83
+      "pct": 3.37,
+      "price": 182.95
     },
     "NBIS": {
-      "pct": -12.51,
-      "price": 164.84
+      "pct": 2.88,
+      "price": 170.24
     },
     "SNOW": {
-      "pct": -8.43,
-      "price": 306.81
+      "pct": 2.77,
+      "price": 315.35
     },
     "FIG": {
-      "pct": -6.26,
-      "price": 21.55
+      "pct": 0.23,
+      "price": 21.54
     },
     "UMAC": {
-      "pct": -6.62,
-      "price": 16.65
+      "pct": 0.55,
+      "price": 16.4
     },
     "RVI": {
-      "pct": -4.05,
-      "price": 24.61
+      "pct": 1.07,
+      "price": 24.59
     },
     "ROBO": {
-      "pct": -2.55,
-      "price": 75.33
+      "pct": 0.82,
+      "price": 75.92
     }
   },
   "no_data": [],
-  "usd_cad": 1.4161
+  "usd_cad": 1.4074
 }
