@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-10-20T19:27:23+00:00",
+  "tone": {
+    "SPY": 0.23,
+    "QQQ": -0.13
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "FIG",
+      "pct": 6.17,
+      "price": 22.87,
+      "news": []
+    },
+    {
+      "symbol": "ARM",
+      "pct": -3.0,
+      "price": 221.22,
+      "news": [
+        {
+          "headline": "Chip stocks shrug off a scary morning, but history says the shakeout isn't over",
+          "url": "https://finnhub.io/api/news?id=58c482c636690ebebc39a19436992b3c7a8b8b3a07d109fcd0c9ac58fc94fb03"
+        },
+        {
+          "headline": "Chip stocks recover as AI jitters fade",
+          "url": "https://finnhub.io/api/news?id=587276475fd17a4d0b24a977b85b0c771b3ef1553e79dc02e2dbab4299bffef1"
+        }
+      ]
+    },
+    {
+      "symbol": "RVI",
+      "pct": -2.93,
+      "price": 23.87,
+      "news": [
+        {
+          "headline": "Weekly Closed-End Fund Roundup (October 11, 2026)",
+          "url": "https://finnhub.io/api/news?id=fcbb71707952924ef6c7d4889d02a51e135e2609d153d10c2807009736a8bc59"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "pct": 1.84,
+      "price": 374.83,
+      "news": [
+        {
+          "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
+          "url": "https://finnhub.io/api/news?id=2f8a739fd0a83c4f879cd360a6f1bb0c121481033ff68df6023c402a1daef106"
+        },
+        {
+          "headline": "Tesla Just Put a $158 Billion Price Tag on Elon Musk\u2019s Pay for Last Year",
+          "url": "https://finnhub.io/api/news?id=4bf910b66e123ef22b656dac6189d6563601a962280bb34467d09828ea471d0d"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": 1.82,
+      "price": 241.41,
+      "news": [
+        {
+          "headline": "Will AI Data Center Launches Change Marvell Stock Narrative",
+          "url": "https://finnhub.io/api/news?id=69e1350d9f3a81af3a2d5abb23f319b9a64a3270732e077930f69915806f99c1"
+        },
+        {
+          "headline": "The AI Trade Is Changing. These Stocks Could Be Next.",
+          "url": "https://finnhub.io/api/news?id=0b3e8fa948f5853cf0b95a52e468d0dab2104193cbb72ee72572f05b9a351b27"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "pct": 1.69,
+      "price": 176.47,
+      "news": [
+        {
+          "headline": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
+          "url": "https://finnhub.io/api/news?id=394ee3b9bee30a082f872ff480f4f147d4d4b4ba766fee7b56de10243a06fb27"
+        },
+        {
+          "headline": "The AI Trade Is Changing. These Stocks Could Be Next.",
+          "url": "https://finnhub.io/api/news?id=0b3e8fa948f5853cf0b95a52e468d0dab2104193cbb72ee72572f05b9a351b27"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -1.09,
+      "price": 339.21
+    },
+    "MSFT": {
+      "pct": -0.49,
+      "price": 530.88
+    },
+    "GOOG": {
+      "pct": -1.52,
+      "price": 334.98
+    },
+    "NFLX": {
+      "pct": -1.66,
+      "price": 68.69
+    },
+    "TSLA": {
+      "pct": 1.84,
+      "price": 374.83
+    },
+    "NVDA": {
+      "pct": -0.28,
+      "price": 216.48
+    },
+    "AMD": {
+      "pct": 0.11,
+      "price": 538.63
+    },
+    "AVGO": {
+      "pct": 0.11,
+      "price": 334.96
+    },
+    "MU": {
+      "pct": -0.19,
+      "price": 903.18
+    },
+    "INTC": {
+      "pct": 0.08,
+      "price": 92.1
+    },
+    "MRVL": {
+      "pct": 1.82,
+      "price": 241.41
+    },
+    "ARM": {
+      "pct": -3.0,
+      "price": 221.22
+    },
+    "QCOM": {
+      "pct": 1.69,
+      "price": 176.47
+    },
+    "ALAB": {
+      "pct": -0.02,
+      "price": 286.52
+    },
+    "LITE": {
+      "pct": -1.04,
+      "price": 825.87
+    },
+    "TER": {
+      "pct": 0.87,
+      "price": 338.44
+    },
+    "SNDK": {
+      "pct": -0.04,
+      "price": 1370.51
+    },
+    "DRAM": {
+      "pct": -0.85,
+      "price": 47.92
+    },
+    "NOK": {
+      "pct": -0.55,
+      "price": 9.03
+    },
+    "PLTR": {
+      "pct": -0.37,
+      "price": 193.44
+    },
+    "ANET": {
+      "pct": -0.74,
+      "price": 181.6
+    },
+    "NBIS": {
+      "pct": 0.06,
+      "price": 170.35
+    },
+    "SNOW": {
+      "pct": 1.3,
+      "price": 319.44
+    },
+    "FIG": {
+      "pct": 6.17,
+      "price": 22.87
+    },
+    "UMAC": {
+      "pct": 1.1,
+      "price": 16.58
+    },
+    "RVI": {
+      "pct": -2.93,
+      "price": 23.87
+    },
+    "ROBO": {
+      "pct": 0.91,
+      "price": 76.61
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4051
+}
