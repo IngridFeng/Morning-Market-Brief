@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T19:27:23+00:00",
+  "generated_at": "2026-10-21T19:26:52+00:00",
   "tone": {
-    "SPY": 0.23,
-    "QQQ": -0.13
+    "SPY": 0.43,
+    "QQQ": 1.03
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,193 +10,202 @@
   },
   "movers_ranked": [
     {
-      "symbol": "FIG",
-      "pct": 6.17,
-      "price": 22.87,
-      "news": []
-    },
-    {
-      "symbol": "ARM",
-      "pct": -3.0,
-      "price": 221.22,
+      "symbol": "NFLX",
+      "pct": -4.7,
+      "price": 65.46,
       "news": [
         {
-          "headline": "Chip stocks shrug off a scary morning, but history says the shakeout isn't over",
-          "url": "https://finnhub.io/api/news?id=58c482c636690ebebc39a19436992b3c7a8b8b3a07d109fcd0c9ac58fc94fb03"
+          "headline": "Is Netflix still making the prestige content subscribers are used to?",
+          "url": "https://finnhub.io/api/news?id=991a3f92d46c38bb25e0e4854817c8c53e5d2c9b81af831cf050bcdcb355de7c"
         },
         {
-          "headline": "Chip stocks recover as AI jitters fade",
-          "url": "https://finnhub.io/api/news?id=587276475fd17a4d0b24a977b85b0c771b3ef1553e79dc02e2dbab4299bffef1"
+          "headline": "Netflix's Fundamental Positioning Remains Intact Despite Q4 Headwinds, UBS Says",
+          "url": "https://finnhub.io/api/news?id=affb879af48d2a94a515f7e7672a9bdc6b1b036b990491023d9a03d6214e1cf6"
         }
       ]
     },
     {
-      "symbol": "RVI",
-      "pct": -2.93,
-      "price": 23.87,
+      "symbol": "PLTR",
+      "pct": 4.41,
+      "price": 201.1,
       "news": [
         {
-          "headline": "Weekly Closed-End Fund Roundup (October 11, 2026)",
-          "url": "https://finnhub.io/api/news?id=fcbb71707952924ef6c7d4889d02a51e135e2609d153d10c2807009736a8bc59"
+          "headline": "Palantir Rises 4% as Software Stocks Rally; ServiceNow Gains 3%, Salesforce Holds Flat",
+          "url": "https://finnhub.io/api/news?id=311496efe7500bc9c1abecb0f74f4921ce9161abca586d8584117491974514b7"
+        },
+        {
+          "headline": "What Could Surprise Palantir Stock Investors On The Upside?",
+          "url": "https://finnhub.io/api/news?id=62dff5932122913ae5c89c298d61b5312530e2587b41b0f6332586cf7204e603"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": 4.01,
+      "price": 855.5,
+      "news": [
+        {
+          "headline": "Applied Optoelectronics Cratered 50% Over 6 Months: It\u2019s Going to Triple According to 2 Wall Street Pros",
+          "url": "https://finnhub.io/api/news?id=56675b0e34a632206eb9b213d717c89633370224561e9c01370f397c3e315e92"
+        },
+        {
+          "headline": "Stock Market Today: Tech Rallies With SpaceX Earnings; Meta, Tesla Reports Due (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=b18fc60c6f904e6f2f9897acf095c7178629f20ab02ee7bac1e5d1d55a1d0d31"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": 3.97,
+      "price": 17.03,
+      "news": [
+        {
+          "headline": "Unusual Machines Completes Acquisition of Upgrade Energy, Expanding U.S. Drone Battery Manufacturing",
+          "url": "https://finnhub.io/api/news?id=78ee2405b6897cb24b1a3eaae9256a8ac1d1d27a92b30936f1203e665bb89711"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "pct": 3.8,
+      "price": 555.08,
+      "news": [
+        {
+          "headline": "The Cheapest NVIDIA Has Looked All Month: What the Price Target Says",
+          "url": "https://finnhub.io/api/news?id=7b73d9ea8d3c7531c399c4ca2de9558dbfa0b53ade2748f795f360a230778882"
+        },
+        {
+          "headline": "Intel Stock Rises After Musk Signals Terafab Breakthrough",
+          "url": "https://finnhub.io/api/news?id=ae3fd31f204763261ce6787a3ccd619a695a3994868834f7c0c64276dd7703ae"
         }
       ]
     },
     {
       "symbol": "TSLA",
-      "pct": 1.84,
-      "price": 374.83,
+      "pct": 3.56,
+      "price": 387.03,
       "news": [
         {
-          "headline": "Tesla Q3 preview: Delivery outlook, cash flow, and a dash of merger speculation on tap",
-          "url": "https://finnhub.io/api/news?id=2f8a739fd0a83c4f879cd360a6f1bb0c121481033ff68df6023c402a1daef106"
+          "headline": "Update: US Equity Indexes Advance as SpaceX's Blockbuster Results Boost Risk Sentiment, Crude Oil Retreats",
+          "url": "https://finnhub.io/api/news?id=5af1cfe9b4fd65dc34803b041fc38015fb56513c86c636eb1f4a4b0aac66f5a5"
         },
         {
-          "headline": "Tesla Just Put a $158 Billion Price Tag on Elon Musk\u2019s Pay for Last Year",
-          "url": "https://finnhub.io/api/news?id=4bf910b66e123ef22b656dac6189d6563601a962280bb34467d09828ea471d0d"
-        }
-      ]
-    },
-    {
-      "symbol": "MRVL",
-      "pct": 1.82,
-      "price": 241.41,
-      "news": [
-        {
-          "headline": "Will AI Data Center Launches Change Marvell Stock Narrative",
-          "url": "https://finnhub.io/api/news?id=69e1350d9f3a81af3a2d5abb23f319b9a64a3270732e077930f69915806f99c1"
-        },
-        {
-          "headline": "The AI Trade Is Changing. These Stocks Could Be Next.",
-          "url": "https://finnhub.io/api/news?id=0b3e8fa948f5853cf0b95a52e468d0dab2104193cbb72ee72572f05b9a351b27"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "pct": 1.69,
-      "price": 176.47,
-      "news": [
-        {
-          "headline": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
-          "url": "https://finnhub.io/api/news?id=394ee3b9bee30a082f872ff480f4f147d4d4b4ba766fee7b56de10243a06fb27"
-        },
-        {
-          "headline": "The AI Trade Is Changing. These Stocks Could Be Next.",
-          "url": "https://finnhub.io/api/news?id=0b3e8fa948f5853cf0b95a52e468d0dab2104193cbb72ee72572f05b9a351b27"
+          "headline": "Altimeter\u2019s Gerstner Puts $420\u2013$550 Range On Tesla In Potential SpaceX Merger",
+          "url": "https://finnhub.io/api/news?id=a0e68d40f1b3d2de2ca79431c35a522fc3d1ca66ba6a6e028d35063a067084fe"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -1.09,
-      "price": 339.21
+      "pct": 1.32,
+      "price": 343.98
     },
     "MSFT": {
-      "pct": -0.49,
-      "price": 530.88
+      "pct": 0.04,
+      "price": 532.09
     },
     "GOOG": {
-      "pct": -1.52,
-      "price": 334.98
+      "pct": -1.86,
+      "price": 330.15
     },
     "NFLX": {
-      "pct": -1.66,
-      "price": 68.69
+      "pct": -4.7,
+      "price": 65.46
     },
     "TSLA": {
-      "pct": 1.84,
-      "price": 374.83
+      "pct": 3.56,
+      "price": 387.03
     },
     "NVDA": {
-      "pct": -0.28,
-      "price": 216.48
+      "pct": 2.21,
+      "price": 221.25
     },
     "AMD": {
-      "pct": 0.11,
-      "price": 538.63
+      "pct": 3.8,
+      "price": 555.08
     },
     "AVGO": {
-      "pct": 0.11,
-      "price": 334.96
+      "pct": 0.87,
+      "price": 337.28
     },
     "MU": {
-      "pct": -0.19,
-      "price": 903.18
+      "pct": 2.4,
+      "price": 917.56
     },
     "INTC": {
-      "pct": 0.08,
-      "price": 92.1
+      "pct": 0.87,
+      "price": 92.49
     },
     "MRVL": {
-      "pct": 1.82,
-      "price": 241.41
+      "pct": 1.93,
+      "price": 245.06
     },
     "ARM": {
-      "pct": -3.0,
-      "price": 221.22
+      "pct": 2.9,
+      "price": 227.47
     },
     "QCOM": {
-      "pct": 1.69,
-      "price": 176.47
+      "pct": 0.98,
+      "price": 177.43
     },
     "ALAB": {
-      "pct": -0.02,
-      "price": 286.52
+      "pct": 1.48,
+      "price": 289.01
     },
     "LITE": {
-      "pct": -1.04,
-      "price": 825.87
+      "pct": 4.01,
+      "price": 855.5
     },
     "TER": {
-      "pct": 0.87,
-      "price": 338.44
+      "pct": 3.43,
+      "price": 348.13
     },
     "SNDK": {
-      "pct": -0.04,
-      "price": 1370.51
+      "pct": 1.29,
+      "price": 1382.99
     },
     "DRAM": {
-      "pct": -0.85,
-      "price": 47.92
+      "pct": 3.06,
+      "price": 49.18
     },
     "NOK": {
-      "pct": -0.55,
-      "price": 9.03
+      "pct": 3.1,
+      "price": 9.3
     },
     "PLTR": {
-      "pct": -0.37,
-      "price": 193.44
+      "pct": 4.41,
+      "price": 201.1
     },
     "ANET": {
-      "pct": -0.74,
-      "price": 181.6
+      "pct": 1.5,
+      "price": 183.9
     },
     "NBIS": {
-      "pct": 0.06,
-      "price": 170.35
+      "pct": 0.17,
+      "price": 171.75
     },
     "SNOW": {
-      "pct": 1.3,
-      "price": 319.44
+      "pct": 1.06,
+      "price": 323.01
     },
     "FIG": {
-      "pct": 6.17,
-      "price": 22.87
+      "pct": 1.54,
+      "price": 23.06
     },
     "UMAC": {
-      "pct": 1.1,
-      "price": 16.58
+      "pct": 3.97,
+      "price": 17.03
     },
     "RVI": {
-      "pct": -2.93,
-      "price": 23.87
+      "pct": 2.29,
+      "price": 24.62
     },
     "ROBO": {
-      "pct": 0.91,
-      "price": 76.61
+      "pct": 0.99,
+      "price": 77.46
     }
   },
   "no_data": [],
-  "usd_cad": 1.4051
+  "usd_cad": 1.4046
 }
