@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-23T19:25:51+00:00",
+  "tone": {
+    "SPY": -0.46,
+    "QQQ": 0.06
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "UMAC",
+      "pct": 7.13,
+      "price": 17.43,
+      "news": [
+        {
+          "headline": "Unusual Machines to Announce Third Quarter 2026 Financial Results and Provide Corporate Update",
+          "url": "https://finnhub.io/api/news?id=368ed281fcc47dddceecb932566411b6a0f80b8474401b410db9907ceb1846ce"
+        },
+        {
+          "headline": "Unusual Machines Receives $16.9 Million Purchase Order\u00a0from Powerus for American-Made Drone Components",
+          "url": "https://finnhub.io/api/news?id=c8fb164cab18aa9c6c9d5d87d7fcaeb762c3d7144daa8a911882b933c9fa8f80"
+        }
+      ]
+    },
+    {
+      "symbol": "RVI",
+      "pct": 4.49,
+      "price": 24.91,
+      "news": [
+        {
+          "headline": "Robinhood Ventures Fund Invests $30M in Erebor Bank",
+          "url": "https://finnhub.io/api/news?id=6f77e2683a32b2890853b91dd8aa81993ae6250695e0d8aa1348f432cf4cc2d7"
+        },
+        {
+          "headline": "Robinhood\u2019s Retail Fund Buys $30 Million Stake in Erebor Bank, Co-Founded by Palmer Luckey",
+          "url": "https://finnhub.io/api/news?id=417c138b81e4e11549236186ebfe8c007d23c58821c487f0fdaed03f1e398d13"
+        }
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "pct": 3.43,
+      "price": 8.15,
+      "news": [
+        {
+          "headline": "Rosenblatt Maintains Buy on Nokia, Lowers Price Target to $14",
+          "url": "https://finnhub.io/api/news?id=e36e50a5486f2c589b2eec6e824fb9c15db8a8f261c9a2250a3652a1542b48a7"
+        },
+        {
+          "headline": "Graco Sinks 15% as Q3 Miss and Light Q4 Outlook Overshadow \u201cA Solid Quarter\u201d",
+          "url": "https://finnhub.io/api/news?id=5bcddafa63d4182aa5ac497201e4a0445ac9f3178f4e293abd6c7ff764037f49"
+        }
+      ]
+    },
+    {
+      "symbol": "SNOW",
+      "pct": 3.2,
+      "price": 324,
+      "news": [
+        {
+          "headline": "Dan Ives Says Palantir and Snowflake Are Nearing the 'End of That Gap' Between AI CapEx and True Monetization, Warns Wall Street Is Underestimating Tech Earnings by Up to 25%",
+          "url": "https://finnhub.io/api/news?id=a1112b7205aaa26b04742cecd4a2d5b1da5aade0c64ef39845afb45587f96fe0"
+        },
+        {
+          "headline": "Is Snowflake (SNOW) Fully Valued After Its Latest AI Partnerships?",
+          "url": "https://finnhub.io/api/news?id=e6ff507201326830badbcfcf73c193a97e22eb253a964f095273ad310d2fbd21"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 3.13,
+      "price": 47.11,
+      "news": [
+        {
+          "headline": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+          "url": "https://finnhub.io/api/news?id=d6717f117f3e3247ad48a604b8a6615d667033c76a96181f526d6a84e9c8f203"
+        },
+        {
+          "headline": "Western Digital Is Down 55% From Its June Peak. Can DRAM and SOXX ETFs Hold Up?",
+          "url": "https://finnhub.io/api/news?id=e8d0fcd8fe3e6d077bc37fdc1a1d97717ca58f8160d034c4ad8f7548d0350bda"
+        }
+      ]
+    },
+    {
+      "symbol": "FIG",
+      "pct": 2.66,
+      "price": 24.74,
+      "news": [
+        {
+          "headline": "Oppenheimer names top SMID software stocks ahead of Q3 earnings",
+          "url": "https://finnhub.io/api/news?id=26ae7c054ae806bff61b98e06e0508b2e04396ef20980ce7baf4d24d1c5f5c05"
+        },
+        {
+          "headline": "Shares of stocks in the broader tech sector are trading lower amid a sell off due to US economy concerns.",
+          "url": "https://finnhub.io/api/news?id=4f67b02613b8f305b55ce26c188448f31c626d6d82d7b944c3f77a815d0b3c8e"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -0.45,
+      "price": 346.64
+    },
+    "MSFT": {
+      "pct": 0.48,
+      "price": 523.56
+    },
+    "GOOG": {
+      "pct": -0.75,
+      "price": 318.35
+    },
+    "NFLX": {
+      "pct": -1.51,
+      "price": 66.04
+    },
+    "TSLA": {
+      "pct": -0.61,
+      "price": 372.28
+    },
+    "NVDA": {
+      "pct": -0.17,
+      "price": 211.84
+    },
+    "AMD": {
+      "pct": 1.72,
+      "price": 516.65
+    },
+    "AVGO": {
+      "pct": 0.13,
+      "price": 323.65
+    },
+    "MU": {
+      "pct": 2.5,
+      "price": 877.88
+    },
+    "INTC": {
+      "pct": 1.43,
+      "price": 86.71
+    },
+    "MRVL": {
+      "pct": 2.13,
+      "price": 228.23
+    },
+    "ARM": {
+      "pct": 0.46,
+      "price": 211.07
+    },
+    "QCOM": {
+      "pct": 1.7,
+      "price": 175.76
+    },
+    "ALAB": {
+      "pct": -0.22,
+      "price": 257.26
+    },
+    "LITE": {
+      "pct": 1.47,
+      "price": 763.62
+    },
+    "TER": {
+      "pct": 1.02,
+      "price": 311.9
+    },
+    "SNDK": {
+      "pct": -0.9,
+      "price": 1249.54
+    },
+    "DRAM": {
+      "pct": 3.13,
+      "price": 47.11
+    },
+    "NOK": {
+      "pct": 3.43,
+      "price": 8.15
+    },
+    "PLTR": {
+      "pct": -0.1,
+      "price": 196
+    },
+    "ANET": {
+      "pct": 0.75,
+      "price": 172.35
+    },
+    "NBIS": {
+      "pct": 0.37,
+      "price": 159.76
+    },
+    "SNOW": {
+      "pct": 3.2,
+      "price": 324
+    },
+    "FIG": {
+      "pct": 2.66,
+      "price": 24.74
+    },
+    "UMAC": {
+      "pct": 7.13,
+      "price": 17.43
+    },
+    "RVI": {
+      "pct": 4.49,
+      "price": 24.91
+    },
+    "ROBO": {
+      "pct": 0.09,
+      "price": 74.91
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3995
+}
