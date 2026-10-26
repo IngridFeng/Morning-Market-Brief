@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T19:25:51+00:00",
+  "generated_at": "2026-10-26T20:39:44+00:00",
   "tone": {
-    "SPY": -0.46,
-    "QQQ": 0.06
+    "SPY": 0.71,
+    "QQQ": 1.11
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,202 @@
   },
   "movers_ranked": [
     {
-      "symbol": "UMAC",
-      "pct": 7.13,
-      "price": 17.43,
+      "symbol": "LITE",
+      "pct": 8.19,
+      "price": 818.1,
       "news": [
         {
-          "headline": "Unusual Machines to Announce Third Quarter 2026 Financial Results and Provide Corporate Update",
-          "url": "https://finnhub.io/api/news?id=368ed281fcc47dddceecb932566411b6a0f80b8474401b410db9907ceb1846ce"
+          "headline": "Lumentum Gains 3% as StoneX Starts at Buy With $1,200 Target: \u201cCritical Scarcity Points\u201d",
+          "url": "https://finnhub.io/api/news?id=394e2b39a68ce992ae8780cd0f3287587e0268119ef15e7a1d351cd1835fba93"
         },
         {
-          "headline": "Unusual Machines Receives $16.9 Million Purchase Order\u00a0from Powerus for American-Made Drone Components",
-          "url": "https://finnhub.io/api/news?id=c8fb164cab18aa9c6c9d5d87d7fcaeb762c3d7144daa8a911882b933c9fa8f80"
+          "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f"
         }
       ]
     },
     {
-      "symbol": "RVI",
-      "pct": 4.49,
-      "price": 24.91,
+      "symbol": "ARM",
+      "pct": 6.19,
+      "price": 223.35,
       "news": [
         {
-          "headline": "Robinhood Ventures Fund Invests $30M in Erebor Bank",
-          "url": "https://finnhub.io/api/news?id=6f77e2683a32b2890853b91dd8aa81993ae6250695e0d8aa1348f432cf4cc2d7"
+          "headline": "Bulls Insist Arm\u2019s Trio of Multipliers Justify Its Sky High Valuation",
+          "url": "https://finnhub.io/api/news?id=f015f1d138e7b1e8731f4aa0d7e8a93aaa16579a12f3a14a5c4a8bbec6d8fe94"
         },
         {
-          "headline": "Robinhood\u2019s Retail Fund Buys $30 Million Stake in Erebor Bank, Co-Founded by Palmer Luckey",
-          "url": "https://finnhub.io/api/news?id=417c138b81e4e11549236186ebfe8c007d23c58821c487f0fdaed03f1e398d13"
+          "headline": "Wells Fargo, Arm Holdings And Intuit Object To Stock Tokenization Trading Platform",
+          "url": "https://finnhub.io/api/news?id=ad1709775bf4c33bdab7c9cda1955e99affb6ff6f4c238e926bcc8c604def1ef"
         }
       ]
     },
     {
       "symbol": "NOK",
-      "pct": 3.43,
-      "price": 8.15,
+      "pct": 6.14,
+      "price": 8.64,
       "news": [
         {
-          "headline": "Rosenblatt Maintains Buy on Nokia, Lowers Price Target to $14",
-          "url": "https://finnhub.io/api/news?id=e36e50a5486f2c589b2eec6e824fb9c15db8a8f261c9a2250a3652a1542b48a7"
+          "headline": "L&T Technology Services and Nokia Forge Engineering Collaboration",
+          "url": "https://finnhub.io/api/news?id=af99c45f46bd8dbcd04f2de7564cc8908c889d393d953b6e5ce7aded00121bf3"
         },
         {
-          "headline": "Graco Sinks 15% as Q3 Miss and Light Q4 Outlook Overshadow \u201cA Solid Quarter\u201d",
-          "url": "https://finnhub.io/api/news?id=5bcddafa63d4182aa5ac497201e4a0445ac9f3178f4e293abd6c7ff764037f49"
+          "headline": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+          "url": "https://finnhub.io/api/news?id=0a9aacbbfc68d45ab3d6177c52a8cf5c12d104c44d4c50d3d2bf734a23f3e9f1"
         }
       ]
     },
     {
-      "symbol": "SNOW",
-      "pct": 3.2,
-      "price": 324,
+      "symbol": "TSLA",
+      "pct": 5.21,
+      "price": 391.62,
       "news": [
         {
-          "headline": "Dan Ives Says Palantir and Snowflake Are Nearing the 'End of That Gap' Between AI CapEx and True Monetization, Warns Wall Street Is Underestimating Tech Earnings by Up to 25%",
-          "url": "https://finnhub.io/api/news?id=a1112b7205aaa26b04742cecd4a2d5b1da5aade0c64ef39845afb45587f96fe0"
+          "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f"
         },
         {
-          "headline": "Is Snowflake (SNOW) Fully Valued After Its Latest AI Partnerships?",
-          "url": "https://finnhub.io/api/news?id=e6ff507201326830badbcfcf73c193a97e22eb253a964f095273ad310d2fbd21"
-        }
-      ]
-    },
-    {
-      "symbol": "DRAM",
-      "pct": 3.13,
-      "price": 47.11,
-      "news": [
-        {
-          "headline": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
-          "url": "https://finnhub.io/api/news?id=d6717f117f3e3247ad48a604b8a6615d667033c76a96181f526d6a84e9c8f203"
-        },
-        {
-          "headline": "Western Digital Is Down 55% From Its June Peak. Can DRAM and SOXX ETFs Hold Up?",
-          "url": "https://finnhub.io/api/news?id=e8d0fcd8fe3e6d077bc37fdc1a1d97717ca58f8160d034c4ad8f7548d0350bda"
+          "headline": "Move Over, Tesla: This Robotics Stock Is the Better Buy",
+          "url": "https://finnhub.io/api/news?id=afddad12121b24a8f224fd5eef8d377b98866139f138125db917302e0655fe7d"
         }
       ]
     },
     {
       "symbol": "FIG",
-      "pct": 2.66,
-      "price": 24.74,
+      "pct": -4.55,
+      "price": 23.52,
       "news": [
         {
-          "headline": "Oppenheimer names top SMID software stocks ahead of Q3 earnings",
-          "url": "https://finnhub.io/api/news?id=26ae7c054ae806bff61b98e06e0508b2e04396ef20980ce7baf4d24d1c5f5c05"
+          "headline": "Figma: The Market Is Still Too Generous Despite The Pullback",
+          "url": "https://finnhub.io/api/news?id=64e61f2a4ae2e73e466826b5f278beb2e1e65704edb2564f2c1825a31c7707a3"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "pct": 4.04,
+      "price": 90.47,
+      "news": [
+        {
+          "headline": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
+          "url": "https://finnhub.io/api/news?id=af1cac33fdfcbf5bfa630db94996b564147c3c6f253fa74b20628558ad22cce6"
         },
         {
-          "headline": "Shares of stocks in the broader tech sector are trading lower amid a sell off due to US economy concerns.",
-          "url": "https://finnhub.io/api/news?id=4f67b02613b8f305b55ce26c188448f31c626d6d82d7b944c3f77a815d0b3c8e"
+          "headline": "Musk: Terafab Will Rank in \u201cTop 20\u201d GDP From a Single Building",
+          "url": "https://finnhub.io/api/news?id=b980b4aef1d01b9cab308a51f30346baae801e591213c40fdbe7427873c9b6c5"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -0.45,
-      "price": 346.64
+      "pct": -1.1,
+      "price": 343.91
     },
     "MSFT": {
-      "pct": 0.48,
-      "price": 523.56
+      "pct": 1.54,
+      "price": 532.6
     },
     "GOOG": {
-      "pct": -0.75,
-      "price": 318.35
+      "pct": -0.97,
+      "price": 314.19
     },
     "NFLX": {
-      "pct": -1.51,
-      "price": 66.04
+      "pct": -2.96,
+      "price": 63.9
     },
     "TSLA": {
-      "pct": -0.61,
-      "price": 372.28
+      "pct": 5.21,
+      "price": 391.62
     },
     "NVDA": {
-      "pct": -0.17,
-      "price": 211.84
+      "pct": 2.39,
+      "price": 216
     },
     "AMD": {
-      "pct": 1.72,
-      "price": 516.65
+      "pct": 2.8,
+      "price": 531.28
     },
     "AVGO": {
-      "pct": 0.13,
-      "price": 323.65
+      "pct": 2.33,
+      "price": 329.17
     },
     "MU": {
-      "pct": 2.5,
-      "price": 877.88
+      "pct": 2.98,
+      "price": 903.7
     },
     "INTC": {
-      "pct": 1.43,
-      "price": 86.71
+      "pct": 4.04,
+      "price": 90.47
     },
     "MRVL": {
-      "pct": 2.13,
-      "price": 228.23
+      "pct": 2.31,
+      "price": 233.78
     },
     "ARM": {
-      "pct": 0.46,
-      "price": 211.07
+      "pct": 6.19,
+      "price": 223.35
     },
     "QCOM": {
-      "pct": 1.7,
-      "price": 175.76
+      "pct": 2.1,
+      "price": 179.6
     },
     "ALAB": {
-      "pct": -0.22,
-      "price": 257.26
+      "pct": 0.91,
+      "price": 259.51
     },
     "LITE": {
-      "pct": 1.47,
-      "price": 763.62
+      "pct": 8.19,
+      "price": 818.1
     },
     "TER": {
-      "pct": 1.02,
-      "price": 311.9
+      "pct": 0.05,
+      "price": 309
     },
     "SNDK": {
-      "pct": -0.9,
-      "price": 1249.54
+      "pct": 1.42,
+      "price": 1255.58
     },
     "DRAM": {
-      "pct": 3.13,
-      "price": 47.11
+      "pct": 2.7,
+      "price": 48.33
     },
     "NOK": {
-      "pct": 3.43,
-      "price": 8.15
+      "pct": 6.14,
+      "price": 8.64
     },
     "PLTR": {
-      "pct": -0.1,
-      "price": 196
+      "pct": 1.06,
+      "price": 198.84
     },
     "ANET": {
-      "pct": 0.75,
-      "price": 172.35
+      "pct": 2.83,
+      "price": 177.24
     },
     "NBIS": {
-      "pct": 0.37,
-      "price": 159.76
+      "pct": -3.45,
+      "price": 153.27
     },
     "SNOW": {
-      "pct": 3.2,
-      "price": 324
+      "pct": 2.93,
+      "price": 334.95
     },
     "FIG": {
-      "pct": 2.66,
-      "price": 24.74
+      "pct": -4.55,
+      "price": 23.52
     },
     "UMAC": {
-      "pct": 7.13,
-      "price": 17.43
+      "pct": -2.35,
+      "price": 16.62
     },
     "RVI": {
-      "pct": 4.49,
-      "price": 24.91
+      "pct": 0.77,
+      "price": 25
     },
     "ROBO": {
-      "pct": 0.09,
-      "price": 74.91
+      "pct": 0.96,
+      "price": 75.52
     }
   },
   "no_data": [],
-  "usd_cad": 1.3995
+  "usd_cad": 1.4028
 }

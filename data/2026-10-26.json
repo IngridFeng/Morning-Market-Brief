@@ -1,0 +1,211 @@
+{
+  "generated_at": "2026-10-26T20:39:44+00:00",
+  "tone": {
+    "SPY": 0.71,
+    "QQQ": 1.11
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "LITE",
+      "pct": 8.19,
+      "price": 818.1,
+      "news": [
+        {
+          "headline": "Lumentum Gains 3% as StoneX Starts at Buy With $1,200 Target: \u201cCritical Scarcity Points\u201d",
+          "url": "https://finnhub.io/api/news?id=394e2b39a68ce992ae8780cd0f3287587e0268119ef15e7a1d351cd1835fba93"
+        },
+        {
+          "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": 6.19,
+      "price": 223.35,
+      "news": [
+        {
+          "headline": "Bulls Insist Arm\u2019s Trio of Multipliers Justify Its Sky High Valuation",
+          "url": "https://finnhub.io/api/news?id=f015f1d138e7b1e8731f4aa0d7e8a93aaa16579a12f3a14a5c4a8bbec6d8fe94"
+        },
+        {
+          "headline": "Wells Fargo, Arm Holdings And Intuit Object To Stock Tokenization Trading Platform",
+          "url": "https://finnhub.io/api/news?id=ad1709775bf4c33bdab7c9cda1955e99affb6ff6f4c238e926bcc8c604def1ef"
+        }
+      ]
+    },
+    {
+      "symbol": "NOK",
+      "pct": 6.14,
+      "price": 8.64,
+      "news": [
+        {
+          "headline": "L&T Technology Services and Nokia Forge Engineering Collaboration",
+          "url": "https://finnhub.io/api/news?id=af99c45f46bd8dbcd04f2de7564cc8908c889d393d953b6e5ce7aded00121bf3"
+        },
+        {
+          "headline": "SPCX, SMCI, NOK, TSLA, NFLX: Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week",
+          "url": "https://finnhub.io/api/news?id=0a9aacbbfc68d45ab3d6177c52a8cf5c12d104c44d4c50d3d2bf734a23f3e9f1"
+        }
+      ]
+    },
+    {
+      "symbol": "TSLA",
+      "pct": 5.21,
+      "price": 391.62,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f"
+        },
+        {
+          "headline": "Move Over, Tesla: This Robotics Stock Is the Better Buy",
+          "url": "https://finnhub.io/api/news?id=afddad12121b24a8f224fd5eef8d377b98866139f138125db917302e0655fe7d"
+        }
+      ]
+    },
+    {
+      "symbol": "FIG",
+      "pct": -4.55,
+      "price": 23.52,
+      "news": [
+        {
+          "headline": "Figma: The Market Is Still Too Generous Despite The Pullback",
+          "url": "https://finnhub.io/api/news?id=64e61f2a4ae2e73e466826b5f278beb2e1e65704edb2564f2c1825a31c7707a3"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "pct": 4.04,
+      "price": 90.47,
+      "news": [
+        {
+          "headline": "Intel Rises 5% as New Street Upgrade Cites Server CPU Shortage; AMD and NVIDIA Gain 3%",
+          "url": "https://finnhub.io/api/news?id=af1cac33fdfcbf5bfa630db94996b564147c3c6f253fa74b20628558ad22cce6"
+        },
+        {
+          "headline": "Musk: Terafab Will Rank in \u201cTop 20\u201d GDP From a Single Building",
+          "url": "https://finnhub.io/api/news?id=b980b4aef1d01b9cab308a51f30346baae801e591213c40fdbe7427873c9b6c5"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -1.1,
+      "price": 343.91
+    },
+    "MSFT": {
+      "pct": 1.54,
+      "price": 532.6
+    },
+    "GOOG": {
+      "pct": -0.97,
+      "price": 314.19
+    },
+    "NFLX": {
+      "pct": -2.96,
+      "price": 63.9
+    },
+    "TSLA": {
+      "pct": 5.21,
+      "price": 391.62
+    },
+    "NVDA": {
+      "pct": 2.39,
+      "price": 216
+    },
+    "AMD": {
+      "pct": 2.8,
+      "price": 531.28
+    },
+    "AVGO": {
+      "pct": 2.33,
+      "price": 329.17
+    },
+    "MU": {
+      "pct": 2.98,
+      "price": 903.7
+    },
+    "INTC": {
+      "pct": 4.04,
+      "price": 90.47
+    },
+    "MRVL": {
+      "pct": 2.31,
+      "price": 233.78
+    },
+    "ARM": {
+      "pct": 6.19,
+      "price": 223.35
+    },
+    "QCOM": {
+      "pct": 2.1,
+      "price": 179.6
+    },
+    "ALAB": {
+      "pct": 0.91,
+      "price": 259.51
+    },
+    "LITE": {
+      "pct": 8.19,
+      "price": 818.1
+    },
+    "TER": {
+      "pct": 0.05,
+      "price": 309
+    },
+    "SNDK": {
+      "pct": 1.42,
+      "price": 1255.58
+    },
+    "DRAM": {
+      "pct": 2.7,
+      "price": 48.33
+    },
+    "NOK": {
+      "pct": 6.14,
+      "price": 8.64
+    },
+    "PLTR": {
+      "pct": 1.06,
+      "price": 198.84
+    },
+    "ANET": {
+      "pct": 2.83,
+      "price": 177.24
+    },
+    "NBIS": {
+      "pct": -3.45,
+      "price": 153.27
+    },
+    "SNOW": {
+      "pct": 2.93,
+      "price": 334.95
+    },
+    "FIG": {
+      "pct": -4.55,
+      "price": 23.52
+    },
+    "UMAC": {
+      "pct": -2.35,
+      "price": 16.62
+    },
+    "RVI": {
+      "pct": 0.77,
+      "price": 25
+    },
+    "ROBO": {
+      "pct": 0.96,
+      "price": 75.52
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4028
+}
