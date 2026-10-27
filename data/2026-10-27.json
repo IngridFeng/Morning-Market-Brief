@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-10-27T20:09:46+00:00",
+  "tone": {
+    "SPY": 0.56,
+    "QQQ": 1.27
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": 11.22,
+      "price": 170.47,
+      "news": [
+        {
+          "headline": "Bitcoin Outperforms Grayscale\u2019s AI Compute ETF As AI Cloud Stocks Slide",
+          "url": "https://finnhub.io/api/news?id=479b5eff13e24122ac7cdb7ce041f1d19699c08686d8cbacc336bd5206ea9e2e"
+        },
+        {
+          "headline": "Nebius Group And 2 High Growth Insider Stocks To Watch",
+          "url": "https://finnhub.io/api/news?id=8e319ce318b10e090941366c5d3d136891a28ec4527114b80d6ec0909b915934"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": 10.47,
+      "price": 286.69,
+      "news": [
+        {
+          "headline": "Can Credo Technology Stock Bounce Off Its Current Support?",
+          "url": "https://finnhub.io/api/news?id=4afb0b356e2ea5edd1c2f96815ee7290920080b9d6f2460035db92261068dcdb"
+        },
+        {
+          "headline": "Astera Labs, Inc. (ALAB) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+          "url": "https://finnhub.io/api/news?id=ae816f435aa99b39fa5560c9456a0e998d2f92047e7c007b802652b25f5340a8"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": 7.52,
+      "price": 17.87,
+      "news": []
+    },
+    {
+      "symbol": "LITE",
+      "pct": 5.88,
+      "price": 866.18,
+      "news": [
+        {
+          "headline": "Coherent Soars 6%, Lumentum Up 8% as StoneX Starts Both With Buy, Sees 103% Upside",
+          "url": "https://finnhub.io/api/news?id=27d06a65da6a58e78c766601a2ed21f745807e888db04cac1ac233e160f79049"
+        },
+        {
+          "headline": "Analyst explains why optical stocks are moving higher",
+          "url": "https://finnhub.io/api/news?id=3df295de64bac2c57335ba0b8653da7cf729c25dd3c760b8ef65cafd6607c19b"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 5.51,
+      "price": 187,
+      "news": [
+        {
+          "headline": "Celestica Q3 Earnings Beat Estimates on Strong CCS Demand",
+          "url": "https://finnhub.io/api/news?id=ec2991a08d2c6b0dfbfa7ffd62edcc57b60794c4c39fb922abd44c7ef5475eb0"
+        },
+        {
+          "headline": "GLW Q3 Earnings Beat Estimates on Strong Optical Communication Growth",
+          "url": "https://finnhub.io/api/news?id=4f7dcda65a694c010478763a19da11cf549a91b5567fadbfbdd9eef8a523616b"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "pct": 5.45,
+      "price": 560.26,
+      "news": [
+        {
+          "headline": "The AI economy, Apple's iPhone Duo issues, and Meta partners with Nvidia",
+          "url": "https://finnhub.io/api/news?id=9351e5d42e674c7c80becfd2ee40949712115fb21899328229ef1fe892ee3c4d"
+        },
+        {
+          "headline": "Meta's deal with AMD, Nvidia, Broadcom: Is circular financing a risk?",
+          "url": "https://finnhub.io/api/news?id=35d438f71fa2f3f9ec3898bf4045b2b9a3cec9794dd861ee5bc7b49cd4a5d01b"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.93,
+      "price": 347.1
+    },
+    "MSFT": {
+      "pct": -0.22,
+      "price": 531.44
+    },
+    "GOOG": {
+      "pct": 0.84,
+      "price": 316.83
+    },
+    "NFLX": {
+      "pct": -2.16,
+      "price": 62.52
+    },
+    "TSLA": {
+      "pct": 4.04,
+      "price": 407.46
+    },
+    "NVDA": {
+      "pct": 0.9,
+      "price": 217.94
+    },
+    "AMD": {
+      "pct": 5.45,
+      "price": 560.26
+    },
+    "AVGO": {
+      "pct": 4.0,
+      "price": 342.33
+    },
+    "MU": {
+      "pct": 2.77,
+      "price": 928.76
+    },
+    "INTC": {
+      "pct": 3.61,
+      "price": 93.74
+    },
+    "MRVL": {
+      "pct": 4.19,
+      "price": 243.57
+    },
+    "ARM": {
+      "pct": 1.46,
+      "price": 226.6
+    },
+    "QCOM": {
+      "pct": 2.54,
+      "price": 184.17
+    },
+    "ALAB": {
+      "pct": 10.47,
+      "price": 286.69
+    },
+    "LITE": {
+      "pct": 5.88,
+      "price": 866.18
+    },
+    "TER": {
+      "pct": 4.75,
+      "price": 323.68
+    },
+    "SNDK": {
+      "pct": 3.92,
+      "price": 1304.84
+    },
+    "DRAM": {
+      "pct": 4.53,
+      "price": 50.52
+    },
+    "NOK": {
+      "pct": 2.89,
+      "price": 8.89
+    },
+    "PLTR": {
+      "pct": -0.06,
+      "price": 198.73
+    },
+    "ANET": {
+      "pct": 5.51,
+      "price": 187
+    },
+    "NBIS": {
+      "pct": 11.22,
+      "price": 170.47
+    },
+    "SNOW": {
+      "pct": 0.74,
+      "price": 337.42
+    },
+    "FIG": {
+      "pct": -2.3,
+      "price": 22.98
+    },
+    "UMAC": {
+      "pct": 7.52,
+      "price": 17.87
+    },
+    "RVI": {
+      "pct": -0.92,
+      "price": 24.77
+    },
+    "ROBO": {
+      "pct": 2.2,
+      "price": 77.18
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4023
+}
