@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T20:09:46+00:00",
+  "generated_at": "2026-10-28T20:26:27+00:00",
   "tone": {
-    "SPY": 0.56,
-    "QQQ": 1.27
+    "SPY": 0.34,
+    "QQQ": 0.6
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,197 +10,206 @@
   },
   "movers_ranked": [
     {
+      "symbol": "SNDK",
+      "pct": 7.66,
+      "price": 1404.77,
+      "news": [
+        {
+          "headline": "Sandisk Is Still Down 23% in the Past Month. Did Today Just Mark the Bottom for SNDK Stock?",
+          "url": "https://finnhub.io/api/news?id=2cfcb49d805e538abb4f9fe3619e03ae6c510ccc7036550b013be9b2c6d9276d"
+        },
+        {
+          "headline": "Can Strong Data Center & Edge Boost SNDK's Top Line in Q1 Earnings?",
+          "url": "https://finnhub.io/api/news?id=7d8f5f34d613fefa1a94fa45582b1b3961e8b54c30a7a1c2a2cdf3b07ab02ea0"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 7.13,
+      "price": 54.12,
+      "news": [
+        {
+          "headline": "SK hynix Looks Bulletproof At The Top Of The Cycle",
+          "url": "https://finnhub.io/api/news?id=7638d3b5e52bd0376722dafd46964e89ee851d3ef9de3179a2b3caad14194d11"
+        },
+        {
+          "headline": "EXCLUSIVE: SK Hynix Soars 11% on Record Profit, But This Expert Says Samsung Will Lead HBM in 2027",
+          "url": "https://finnhub.io/api/news?id=67d2308663bac1bc0c873c58125ce5b2c2d0456ef609b2f5b472b6af807ffb43"
+        }
+      ]
+    },
+    {
       "symbol": "NBIS",
-      "pct": 11.22,
-      "price": 170.47,
+      "pct": 6.96,
+      "price": 182.34,
       "news": [
         {
-          "headline": "Bitcoin Outperforms Grayscale\u2019s AI Compute ETF As AI Cloud Stocks Slide",
-          "url": "https://finnhub.io/api/news?id=479b5eff13e24122ac7cdb7ce041f1d19699c08686d8cbacc336bd5206ea9e2e"
+          "headline": "Arista Networks And 2 Fast Growing Insider Stocks",
+          "url": "https://finnhub.io/api/news?id=98bea9bc53a6af47d76989206e084aec22daa5e5bb7db7c3f4eafafb595f9fd3"
         },
         {
-          "headline": "Nebius Group And 2 High Growth Insider Stocks To Watch",
-          "url": "https://finnhub.io/api/news?id=8e319ce318b10e090941366c5d3d136891a28ec4527114b80d6ec0909b915934"
+          "headline": "CoreWeave Just Fell 31% in a Month: What Will It Take to Get CRWV Stock Back Above $70?",
+          "url": "https://finnhub.io/api/news?id=523e1aa71f13675e1d2d8d31ce2d7d32dea4e313c31621bcfe1e7ea407b8eb9c"
         }
       ]
     },
     {
-      "symbol": "ALAB",
-      "pct": 10.47,
-      "price": 286.69,
+      "symbol": "MU",
+      "pct": 5.86,
+      "price": 983.23,
       "news": [
         {
-          "headline": "Can Credo Technology Stock Bounce Off Its Current Support?",
-          "url": "https://finnhub.io/api/news?id=4afb0b356e2ea5edd1c2f96815ee7290920080b9d6f2460035db92261068dcdb"
+          "headline": "Micron Stock Advances as Rival SK Hynix Fuels AI Frenzy With Two Bombshells",
+          "url": "https://finnhub.io/api/news?id=2507a874d47a228a242330d20490362d0b12298bdfc8bec5f5830b9d2d7826c6"
         },
         {
-          "headline": "Astera Labs, Inc. (ALAB) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-          "url": "https://finnhub.io/api/news?id=ae816f435aa99b39fa5560c9456a0e998d2f92047e7c007b802652b25f5340a8"
+          "headline": "3 AI Cloud Stocks Retail Investors Are Watching Before Big Tech Earnings",
+          "url": "https://finnhub.io/api/news?id=03bcbd8f5745d6794d208f871b0e5d5583b0328058cac8af2077e367cedbd4da"
         }
       ]
-    },
-    {
-      "symbol": "UMAC",
-      "pct": 7.52,
-      "price": 17.87,
-      "news": []
     },
     {
       "symbol": "LITE",
-      "pct": 5.88,
-      "price": 866.18,
-      "news": [
-        {
-          "headline": "Coherent Soars 6%, Lumentum Up 8% as StoneX Starts Both With Buy, Sees 103% Upside",
-          "url": "https://finnhub.io/api/news?id=27d06a65da6a58e78c766601a2ed21f745807e888db04cac1ac233e160f79049"
-        },
-        {
-          "headline": "Analyst explains why optical stocks are moving higher",
-          "url": "https://finnhub.io/api/news?id=3df295de64bac2c57335ba0b8653da7cf729c25dd3c760b8ef65cafd6607c19b"
-        }
-      ]
-    },
-    {
-      "symbol": "ANET",
       "pct": 5.51,
-      "price": 187,
+      "price": 913.95,
       "news": [
         {
-          "headline": "Celestica Q3 Earnings Beat Estimates on Strong CCS Demand",
-          "url": "https://finnhub.io/api/news?id=ec2991a08d2c6b0dfbfa7ffd62edcc57b60794c4c39fb922abd44c7ef5475eb0"
+          "headline": "AAOI's CATV Business Gains Momentum: Can It Beat LITE and COHR?",
+          "url": "https://finnhub.io/api/news?id=ca1b8849270265a83e1f301d4dfb3a2a148e71741b53b84ed224f6fb83df2ef5"
         },
         {
-          "headline": "GLW Q3 Earnings Beat Estimates on Strong Optical Communication Growth",
-          "url": "https://finnhub.io/api/news?id=4f7dcda65a694c010478763a19da11cf549a91b5567fadbfbdd9eef8a523616b"
+          "headline": "Optical Stocks Climb as Analysts Flag AI Bottleneck: Lumentum Rises 4%, Applied Optoelectronics and Corning Gain 3%, Coherent Sits Out the Rally",
+          "url": "https://finnhub.io/api/news?id=5aaaf3e4f5a5529cfa5fc067fcacee5e1febcfd033680c1d480d1a9e5cd4c990"
         }
       ]
     },
     {
-      "symbol": "AMD",
-      "pct": 5.45,
-      "price": 560.26,
+      "symbol": "ARM",
+      "pct": 4.1,
+      "price": 235.9,
       "news": [
         {
-          "headline": "The AI economy, Apple's iPhone Duo issues, and Meta partners with Nvidia",
-          "url": "https://finnhub.io/api/news?id=9351e5d42e674c7c80becfd2ee40949712115fb21899328229ef1fe892ee3c4d"
+          "headline": "Coherent vs. Arm Holdings: Which Tech Stock Offers More Upside Now?",
+          "url": "https://finnhub.io/api/news?id=5662ca2b9feade0ea97cbd4c078d5231647e158cf1e30065449f2cd02d341326"
         },
         {
-          "headline": "Meta's deal with AMD, Nvidia, Broadcom: Is circular financing a risk?",
-          "url": "https://finnhub.io/api/news?id=35d438f71fa2f3f9ec3898bf4045b2b9a3cec9794dd861ee5bc7b49cd4a5d01b"
+          "headline": "Tech Bubble Will Pop In 2027",
+          "url": "https://finnhub.io/api/news?id=249d072d0ec878891cae66633365859152b300dbbdda250429fa2f72ea35763e"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": 0.93,
-      "price": 347.1
+      "pct": -0.94,
+      "price": 343.83
     },
     "MSFT": {
-      "pct": -0.22,
-      "price": 531.44
+      "pct": -0.06,
+      "price": 531.01
     },
     "GOOG": {
-      "pct": 0.84,
-      "price": 316.83
+      "pct": 1.6,
+      "price": 321.89
     },
     "NFLX": {
-      "pct": -2.16,
-      "price": 62.52
+      "pct": -0.85,
+      "price": 61.99
     },
     "TSLA": {
-      "pct": 4.04,
-      "price": 407.46
+      "pct": -0.8,
+      "price": 404.22
     },
     "NVDA": {
-      "pct": 0.9,
-      "price": 217.94
+      "pct": -1.17,
+      "price": 215.38
     },
     "AMD": {
-      "pct": 5.45,
-      "price": 560.26
+      "pct": 3.24,
+      "price": 578.44
     },
     "AVGO": {
-      "pct": 4.0,
-      "price": 342.33
+      "pct": 2.77,
+      "price": 351.81
     },
     "MU": {
-      "pct": 2.77,
-      "price": 928.76
+      "pct": 5.86,
+      "price": 983.23
     },
     "INTC": {
-      "pct": 3.61,
-      "price": 93.74
+      "pct": 1.91,
+      "price": 95.53
     },
     "MRVL": {
-      "pct": 4.19,
-      "price": 243.57
+      "pct": 3.32,
+      "price": 251.65
     },
     "ARM": {
-      "pct": 1.46,
-      "price": 226.6
+      "pct": 4.1,
+      "price": 235.9
     },
     "QCOM": {
-      "pct": 2.54,
-      "price": 184.17
+      "pct": -0.65,
+      "price": 182.97
     },
     "ALAB": {
-      "pct": 10.47,
-      "price": 286.69
+      "pct": 3.67,
+      "price": 297.2
     },
     "LITE": {
-      "pct": 5.88,
-      "price": 866.18
+      "pct": 5.51,
+      "price": 913.95
     },
     "TER": {
-      "pct": 4.75,
-      "price": 323.68
+      "pct": -3.23,
+      "price": 313.24
     },
     "SNDK": {
-      "pct": 3.92,
-      "price": 1304.84
+      "pct": 7.66,
+      "price": 1404.77
     },
     "DRAM": {
-      "pct": 4.53,
-      "price": 50.52
+      "pct": 7.13,
+      "price": 54.12
     },
     "NOK": {
-      "pct": 2.89,
-      "price": 8.89
+      "pct": 3.71,
+      "price": 9.22
     },
     "PLTR": {
-      "pct": -0.06,
-      "price": 198.73
+      "pct": -0.97,
+      "price": 196.81
     },
     "ANET": {
-      "pct": 5.51,
-      "price": 187
+      "pct": -0.15,
+      "price": 186.72
     },
     "NBIS": {
-      "pct": 11.22,
-      "price": 170.47
+      "pct": 6.96,
+      "price": 182.34
     },
     "SNOW": {
       "pct": 0.74,
-      "price": 337.42
+      "price": 339.91
     },
     "FIG": {
-      "pct": -2.3,
-      "price": 22.98
+      "pct": 1.0,
+      "price": 23.21
     },
     "UMAC": {
-      "pct": 7.52,
-      "price": 17.87
+      "pct": -1.4,
+      "price": 17.62
     },
     "RVI": {
-      "pct": -0.92,
+      "pct": 0,
       "price": 24.77
     },
     "ROBO": {
-      "pct": 2.2,
-      "price": 77.18
+      "pct": 1.19,
+      "price": 78.1
     }
   },
   "no_data": [],
-  "usd_cad": 1.4023
+  "usd_cad": 1.4047
 }
