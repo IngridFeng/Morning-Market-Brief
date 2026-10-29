@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-29T20:25:09+00:00",
+  "tone": {
+    "SPY": -0.38,
+    "QQQ": -1.42
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "MRVL",
+      "pct": -13.24,
+      "price": 218.34,
+      "news": [
+        {
+          "headline": "Lumentum Jumps, Fades On Marvell Buyout Report",
+          "url": "https://finnhub.io/api/news?id=5f1ee44ec0728ce003e007c25b1b148af1cab5f0f28a66ffd855b375af610097"
+        },
+        {
+          "headline": "Not Nvidia. Not AMD. This Custom AI Chip Designer Could Outperform Both by 2030.",
+          "url": "https://finnhub.io/api/news?id=f69b67b74b0e207bffcdbc553ad8544334f99e781db330fc5e4d55fd8e8e1279"
+        }
+      ]
+    },
+    {
+      "symbol": "GOOG",
+      "pct": -12.29,
+      "price": 282.32,
+      "news": [
+        {
+          "headline": "Lumentum Jumps, Fades On Marvell Buyout Report",
+          "url": "https://finnhub.io/api/news?id=5f1ee44ec0728ce003e007c25b1b148af1cab5f0f28a66ffd855b375af610097"
+        },
+        {
+          "headline": "Nasdaq Poised to Plunge as AI Stock Wipeout Follows Hot Inflation Data",
+          "url": "https://finnhub.io/api/news?id=3fc996e290bb97ea79e8c6c2ea3efae37672276cf57d96946cc7bf694495d622"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -5.68,
+      "price": 171.99,
+      "news": [
+        {
+          "headline": "What Does Nebius Group (NBIS) Face From Slower AI Data Center Spending?",
+          "url": "https://finnhub.io/api/news?id=f81679e5e41663281b16127b9821f7a699382f752a8fee8434747b0d10f0534c"
+        },
+        {
+          "headline": "Is Nebius Group (NBIS) Fairly Valued as Sales Expectations Climb?",
+          "url": "https://finnhub.io/api/news?id=a806952c61ceec82307345a9f8b88b1f35a7c8aeaefd0398bb4a660e7720b0dd"
+        }
+      ]
+    },
+    {
+      "symbol": "TER",
+      "pct": -5.43,
+      "price": 296.23,
+      "news": [
+        {
+          "headline": "Teradyne Q3 Earnings Call Highlights AI Demand and 2027 Growth Plans",
+          "url": "https://finnhub.io/api/news?id=e34c12c1b6bb8d24f0c7ae0238af5e96b5c4357e4d702627c84c755e72a9585d"
+        },
+        {
+          "headline": "Did The Market Read Lam Research Stock Right?",
+          "url": "https://finnhub.io/api/news?id=070bf6e51424a90322a1d92362def33891460198d912d8aa3452cdd2aef83491"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": -5.32,
+      "price": 1330.05,
+      "news": [
+        {
+          "headline": "Sandisk (SNDK) Objects To Its Shares Joining A Tokenized Stock Offering",
+          "url": "https://finnhub.io/api/news?id=bbc9060655eb33957f7c5f21670e012279930995939ae3057c43f83472812494"
+        },
+        {
+          "headline": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+          "url": "https://finnhub.io/api/news?id=da5b9d97596981e24ea5ca3a6066f6518fd889df771a1a71429261998607010f"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -4.98,
+      "price": 934.27,
+      "news": [
+        {
+          "headline": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
+          "url": "https://finnhub.io/api/news?id=da5b9d97596981e24ea5ca3a6066f6518fd889df771a1a71429261998607010f"
+        },
+        {
+          "headline": "Musk: Robot RAM Needs \u201cWill Exceed Everything Else on Earth.\u201d What That Means for Micron",
+          "url": "https://finnhub.io/api/news?id=104d6fa21d6af817210d81c7639d42b7ddec59b06a7747a1fc9783d5348737b4"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 1.48,
+      "price": 348.91
+    },
+    "MSFT": {
+      "pct": -0.16,
+      "price": 530.14
+    },
+    "GOOG": {
+      "pct": -12.29,
+      "price": 282.32
+    },
+    "NFLX": {
+      "pct": 0.1,
+      "price": 62.05
+    },
+    "TSLA": {
+      "pct": -0.23,
+      "price": 403.3
+    },
+    "NVDA": {
+      "pct": -0.8,
+      "price": 213.66
+    },
+    "AMD": {
+      "pct": -2.08,
+      "price": 566.42
+    },
+    "AVGO": {
+      "pct": -1.94,
+      "price": 345
+    },
+    "MU": {
+      "pct": -4.98,
+      "price": 934.27
+    },
+    "INTC": {
+      "pct": -3.62,
+      "price": 92.07
+    },
+    "MRVL": {
+      "pct": -13.24,
+      "price": 218.34
+    },
+    "ARM": {
+      "pct": -3.02,
+      "price": 228.77
+    },
+    "QCOM": {
+      "pct": 1.33,
+      "price": 185.41
+    },
+    "ALAB": {
+      "pct": -2.28,
+      "price": 290.43
+    },
+    "LITE": {
+      "pct": 0.61,
+      "price": 919.53
+    },
+    "TER": {
+      "pct": -5.43,
+      "price": 296.23
+    },
+    "SNDK": {
+      "pct": -5.32,
+      "price": 1330.05
+    },
+    "DRAM": {
+      "pct": -4.38,
+      "price": 51.75
+    },
+    "NOK": {
+      "pct": 0.98,
+      "price": 9.31
+    },
+    "PLTR": {
+      "pct": -0.2,
+      "price": 196.42
+    },
+    "ANET": {
+      "pct": -1.34,
+      "price": 184.22
+    },
+    "NBIS": {
+      "pct": -5.68,
+      "price": 171.99
+    },
+    "SNOW": {
+      "pct": -2.84,
+      "price": 330.27
+    },
+    "FIG": {
+      "pct": -3.83,
+      "price": 22.32
+    },
+    "UMAC": {
+      "pct": -1.93,
+      "price": 17.28
+    },
+    "RVI": {
+      "pct": -2.7,
+      "price": 24.1
+    },
+    "ROBO": {
+      "pct": -0.27,
+      "price": 77.89
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3996
+}
