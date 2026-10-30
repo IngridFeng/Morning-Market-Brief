@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-10-30T19:59:08+00:00",
+  "tone": {
+    "SPY": -1.77,
+    "QQQ": -3.47
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "INTC",
+      "pct": -29.33,
+      "price": 65.07,
+      "news": [
+        {
+          "headline": "Update: Nasdaq Plunges 810 Points as Mega-Cap Chipmakers Sink Following Intel's Results",
+          "url": "https://finnhub.io/api/news?id=3c647b64ec6aac017eae26d432eb95a30608b82be532df547b3e4ff25108859e"
+        },
+        {
+          "headline": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
+          "url": "https://finnhub.io/api/news?id=3b8ddcac529bf9766505331d9fafdea920291fae4badbd561cb98c7f8909b77d"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": -13.61,
+      "price": 1149.06,
+      "news": [
+        {
+          "headline": "Big Tech Stocks Have Never Looked Cheaper. Is the Magnificent Seven a Screaming Buy?",
+          "url": "https://finnhub.io/api/news?id=f07cd23a9b451fd1d931cba6f24b2e4c97190cc82f4a9ec30edd8cc20912ae3d"
+        },
+        {
+          "headline": "Sandisk Sinks 12% Despite Earnings Beat and 8-for-1 Split as Memory Stocks Slide: \u201cIt\u2019s Absurd\u201d",
+          "url": "https://finnhub.io/api/news?id=f557c8141d70e993cfa78d31247772badb3e41a8f73099a7430a4b32b41a6585"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "pct": -11.33,
+      "price": 164.41,
+      "news": [
+        {
+          "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+          "url": "https://finnhub.io/api/news?id=6c7ffa73b65110965c367031c2786a861fa3b8672294fa7fa3f078fc993d68e8"
+        },
+        {
+          "headline": "Can Marvell Stock Hit $310?",
+          "url": "https://finnhub.io/api/news?id=1f6149749510a6adb7b1d12fc4fdfd7fc437805b8ad80c607d1e2e93a74d9009"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": -11.22,
+      "price": 257.84,
+      "news": [
+        {
+          "headline": "Should You Buy, Sell, or Hold ALAB Stock Before Q3 Earnings Release?",
+          "url": "https://finnhub.io/api/news?id=5940710a9145edf746ed67ac2bb622c706b0e3077efb4c86e8bcdb83239c2b9f"
+        },
+        {
+          "headline": "AMD Shares Feel the Heat as Intel Drags Chip Stocks Lower: What\u2019s Going On?",
+          "url": "https://finnhub.io/api/news?id=40d41f445c1512bbea24d3ce0a6a77024bbedea54dc479b340187a8aac70a57e"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "pct": -10.96,
+      "price": 504.35,
+      "news": [
+        {
+          "headline": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
+          "url": "https://finnhub.io/api/news?id=3b8ddcac529bf9766505331d9fafdea920291fae4badbd561cb98c7f8909b77d"
+        },
+        {
+          "headline": "If the AI Bubble Scare Gets Worse, This Is the Chip Stock I'd Still Hold",
+          "url": "https://finnhub.io/api/news?id=8c5bcb02a4d5f20d3356448d2806bc1b1e0058b40c0a6f2e5378c5a2cffc5ffe"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -10.71,
+      "price": 15.43,
+      "news": [
+        {
+          "headline": "Asure Software, Inc. (ASUR) Tops Q3 Earnings and Revenue Estimates",
+          "url": "https://finnhub.io/api/news?id=c75424ed93a313818d1c243f5587ee6bd1d1b710ed8715e883eb819b69b6862f"
+        },
+        {
+          "headline": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy?",
+          "url": "https://finnhub.io/api/news?id=40a3990a339bd634ea6fa4e5ed3f5624d5f93d7fe90076cb65e193c657943da3"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -1.14,
+      "price": 344.93
+    },
+    "MSFT": {
+      "pct": -1.39,
+      "price": 522.75
+    },
+    "GOOG": {
+      "pct": -1.22,
+      "price": 278.88
+    },
+    "NFLX": {
+      "pct": 0.13,
+      "price": 62.13
+    },
+    "TSLA": {
+      "pct": -0.83,
+      "price": 399.97
+    },
+    "NVDA": {
+      "pct": -4.16,
+      "price": 204.77
+    },
+    "AMD": {
+      "pct": -10.96,
+      "price": 504.35
+    },
+    "AVGO": {
+      "pct": -5.49,
+      "price": 326.07
+    },
+    "MU": {
+      "pct": -5.33,
+      "price": 884.49
+    },
+    "INTC": {
+      "pct": -29.33,
+      "price": 65.07
+    },
+    "MRVL": {
+      "pct": -10.17,
+      "price": 196.14
+    },
+    "ARM": {
+      "pct": -10.03,
+      "price": 205.83
+    },
+    "QCOM": {
+      "pct": -11.33,
+      "price": 164.41
+    },
+    "ALAB": {
+      "pct": -11.22,
+      "price": 257.84
+    },
+    "LITE": {
+      "pct": -8.42,
+      "price": 842.07
+    },
+    "TER": {
+      "pct": -7.46,
+      "price": 274.14
+    },
+    "SNDK": {
+      "pct": -13.61,
+      "price": 1149.06
+    },
+    "DRAM": {
+      "pct": -7.15,
+      "price": 48.05
+    },
+    "NOK": {
+      "pct": -8.38,
+      "price": 8.53
+    },
+    "PLTR": {
+      "pct": -6.07,
+      "price": 184.5
+    },
+    "ANET": {
+      "pct": -8.45,
+      "price": 168.65
+    },
+    "NBIS": {
+      "pct": -10.39,
+      "price": 154.12
+    },
+    "SNOW": {
+      "pct": -7.59,
+      "price": 305.21
+    },
+    "FIG": {
+      "pct": -3.09,
+      "price": 21.63
+    },
+    "UMAC": {
+      "pct": -10.71,
+      "price": 15.43
+    },
+    "RVI": {
+      "pct": -8.01,
+      "price": 22.17
+    },
+    "ROBO": {
+      "pct": -4.31,
+      "price": 74.53
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3969
+}
