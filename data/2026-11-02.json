@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-11-02T23:10:22+00:00",
+  "tone": {
+    "SPY": -0.48,
+    "QQQ": -1.36
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "LITE",
+      "pct": -18.59,
+      "price": 684.4,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Up, Nasdaq Dives As Seagate Sinks; These Stocks Clear Entries",
+          "url": "https://finnhub.io/api/news?id=7cecfc8936b9c71353ec710dcfa5c428a3a3811e9c20e6123d74048381b4e3c2"
+        },
+        {
+          "headline": "Cramer: \u201cAll the Copper in Data Centers Will Eventually Be Replaced\u201d by Fiber. Lumentum Wins",
+          "url": "https://finnhub.io/api/news?id=f89b451f37468db14f58f2d92b86c2467c975ee01758c6bdea16ee6d6da78922"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": -12.72,
+      "price": 171.41,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Up, Nasdaq Dives As Seagate Sinks; These Stocks Clear Entries",
+          "url": "https://finnhub.io/api/news?id=7cecfc8936b9c71353ec710dcfa5c428a3a3811e9c20e6123d74048381b4e3c2"
+        },
+        {
+          "headline": "Cramer: \u201cAll the Copper in Data Centers Will Eventually Be Replaced\u201d by Fiber. Lumentum Wins",
+          "url": "https://finnhub.io/api/news?id=f89b451f37468db14f58f2d92b86c2467c975ee01758c6bdea16ee6d6da78922"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": -11.22,
+      "price": 229.67,
+      "news": [
+        {
+          "headline": "Astera Labs Stock Fell After Its Last 3 Revenue Beats. Here\u2019s What Could Change on Nov. 3",
+          "url": "https://finnhub.io/api/news?id=ea0fcb0337f3793c4fb9aeee13bd93c7490d492f3795d86ec125cfcee6eb5cc3"
+        },
+        {
+          "headline": "Astera Labs Fell Harder Than the Market in the AI Selloff. Here\u2019s What November 3 Must Show",
+          "url": "https://finnhub.io/api/news?id=a3706c36d155e80936121557ba1ca496e5c2f5a1d497c205c5d4fbac4592f323"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "pct": -8.8,
+      "price": 59.97,
+      "news": [
+        {
+          "headline": "Stocks kick off November lower as AI sell-off hits Tech",
+          "url": "https://finnhub.io/api/news?id=40ce51a9480bbed184e2d3240be76aa83bb6449420d848b314d2690b3d90fc47"
+        },
+        {
+          "headline": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading",
+          "url": "https://finnhub.io/api/news?id=e044dd3dafb7cbb4d8553a2ccad1270fb8186b5d36f8c53eda58a65c4a8ea14d"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -8.27,
+      "price": 141.39,
+      "news": [
+        {
+          "headline": "Applied Digital Slumps 8% as CEO Says 800 MW Still Needs Financing; Nebius and CoreWeave Fall 6%",
+          "url": "https://finnhub.io/api/news?id=d484e44d62942450ff5a504284ebe39f78b35865dd38b70ff6d4217a2837c487"
+        },
+        {
+          "headline": "Nebius Lost 35% Last Month As Contagion Spikes: One Wall Street Pro Says 165% Gains Are Coming",
+          "url": "https://finnhub.io/api/news?id=741f939d54206e29d20138be329c36b8d31f90f1163a87257dd13396a75276ba"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -8.11,
+      "price": 14.27,
+      "news": []
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -1.83,
+      "price": 338.32
+    },
+    "MSFT": {
+      "pct": -2.83,
+      "price": 507.12
+    },
+    "GOOG": {
+      "pct": -0.06,
+      "price": 278.04
+    },
+    "NFLX": {
+      "pct": 0.42,
+      "price": 62.34
+    },
+    "TSLA": {
+      "pct": 1.0,
+      "price": 403.82
+    },
+    "NVDA": {
+      "pct": -1.26,
+      "price": 202.06
+    },
+    "AMD": {
+      "pct": -7.52,
+      "price": 466.84
+    },
+    "AVGO": {
+      "pct": -1.18,
+      "price": 322.23
+    },
+    "MU": {
+      "pct": -5.78,
+      "price": 833.59
+    },
+    "INTC": {
+      "pct": -8.8,
+      "price": 59.97
+    },
+    "MRVL": {
+      "pct": -12.72,
+      "price": 171.41
+    },
+    "ARM": {
+      "pct": -4.46,
+      "price": 196.79
+    },
+    "QCOM": {
+      "pct": -1.64,
+      "price": 162.08
+    },
+    "ALAB": {
+      "pct": -11.22,
+      "price": 229.67
+    },
+    "LITE": {
+      "pct": -18.59,
+      "price": 684.4
+    },
+    "TER": {
+      "pct": -4.87,
+      "price": 261.01
+    },
+    "SNDK": {
+      "pct": -6.59,
+      "price": 1075.08
+    },
+    "DRAM": {
+      "pct": -3.52,
+      "price": 46.32
+    },
+    "NOK": {
+      "pct": -3.04,
+      "price": 8.3
+    },
+    "PLTR": {
+      "pct": -3.13,
+      "price": 178.34
+    },
+    "ANET": {
+      "pct": -2.8,
+      "price": 164.14
+    },
+    "NBIS": {
+      "pct": -8.27,
+      "price": 141.39
+    },
+    "SNOW": {
+      "pct": -5.03,
+      "price": 290.68
+    },
+    "FIG": {
+      "pct": 2.54,
+      "price": 22.2
+    },
+    "UMAC": {
+      "pct": -8.11,
+      "price": 14.27
+    },
+    "RVI": {
+      "pct": -3.51,
+      "price": 21.46
+    },
+    "ROBO": {
+      "pct": 0.25,
+      "price": 74.81
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3974
+}

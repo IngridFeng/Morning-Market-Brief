@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T19:59:08+00:00",
+  "generated_at": "2026-11-02T23:10:22+00:00",
   "tone": {
-    "SPY": -1.77,
-    "QQQ": -3.47
+    "SPY": -0.48,
+    "QQQ": -1.36
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,197 @@
   },
   "movers_ranked": [
     {
-      "symbol": "INTC",
-      "pct": -29.33,
-      "price": 65.07,
+      "symbol": "LITE",
+      "pct": -18.59,
+      "price": 684.4,
       "news": [
         {
-          "headline": "Update: Nasdaq Plunges 810 Points as Mega-Cap Chipmakers Sink Following Intel's Results",
-          "url": "https://finnhub.io/api/news?id=3c647b64ec6aac017eae26d432eb95a30608b82be532df547b3e4ff25108859e"
+          "headline": "Stock Market Today: Dow Up, Nasdaq Dives As Seagate Sinks; These Stocks Clear Entries",
+          "url": "https://finnhub.io/api/news?id=7cecfc8936b9c71353ec710dcfa5c428a3a3811e9c20e6123d74048381b4e3c2"
         },
         {
-          "headline": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
-          "url": "https://finnhub.io/api/news?id=3b8ddcac529bf9766505331d9fafdea920291fae4badbd561cb98c7f8909b77d"
+          "headline": "Cramer: \u201cAll the Copper in Data Centers Will Eventually Be Replaced\u201d by Fiber. Lumentum Wins",
+          "url": "https://finnhub.io/api/news?id=f89b451f37468db14f58f2d92b86c2467c975ee01758c6bdea16ee6d6da78922"
         }
       ]
     },
     {
-      "symbol": "SNDK",
-      "pct": -13.61,
-      "price": 1149.06,
+      "symbol": "MRVL",
+      "pct": -12.72,
+      "price": 171.41,
       "news": [
         {
-          "headline": "Big Tech Stocks Have Never Looked Cheaper. Is the Magnificent Seven a Screaming Buy?",
-          "url": "https://finnhub.io/api/news?id=f07cd23a9b451fd1d931cba6f24b2e4c97190cc82f4a9ec30edd8cc20912ae3d"
+          "headline": "Stock Market Today: Dow Up, Nasdaq Dives As Seagate Sinks; These Stocks Clear Entries",
+          "url": "https://finnhub.io/api/news?id=7cecfc8936b9c71353ec710dcfa5c428a3a3811e9c20e6123d74048381b4e3c2"
         },
         {
-          "headline": "Sandisk Sinks 12% Despite Earnings Beat and 8-for-1 Split as Memory Stocks Slide: \u201cIt\u2019s Absurd\u201d",
-          "url": "https://finnhub.io/api/news?id=f557c8141d70e993cfa78d31247772badb3e41a8f73099a7430a4b32b41a6585"
-        }
-      ]
-    },
-    {
-      "symbol": "QCOM",
-      "pct": -11.33,
-      "price": 164.41,
-      "news": [
-        {
-          "headline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-          "url": "https://finnhub.io/api/news?id=6c7ffa73b65110965c367031c2786a861fa3b8672294fa7fa3f078fc993d68e8"
-        },
-        {
-          "headline": "Can Marvell Stock Hit $310?",
-          "url": "https://finnhub.io/api/news?id=1f6149749510a6adb7b1d12fc4fdfd7fc437805b8ad80c607d1e2e93a74d9009"
+          "headline": "Cramer: \u201cAll the Copper in Data Centers Will Eventually Be Replaced\u201d by Fiber. Lumentum Wins",
+          "url": "https://finnhub.io/api/news?id=f89b451f37468db14f58f2d92b86c2467c975ee01758c6bdea16ee6d6da78922"
         }
       ]
     },
     {
       "symbol": "ALAB",
       "pct": -11.22,
-      "price": 257.84,
+      "price": 229.67,
       "news": [
         {
-          "headline": "Should You Buy, Sell, or Hold ALAB Stock Before Q3 Earnings Release?",
-          "url": "https://finnhub.io/api/news?id=5940710a9145edf746ed67ac2bb622c706b0e3077efb4c86e8bcdb83239c2b9f"
+          "headline": "Astera Labs Stock Fell After Its Last 3 Revenue Beats. Here\u2019s What Could Change on Nov. 3",
+          "url": "https://finnhub.io/api/news?id=ea0fcb0337f3793c4fb9aeee13bd93c7490d492f3795d86ec125cfcee6eb5cc3"
         },
         {
-          "headline": "AMD Shares Feel the Heat as Intel Drags Chip Stocks Lower: What\u2019s Going On?",
-          "url": "https://finnhub.io/api/news?id=40d41f445c1512bbea24d3ce0a6a77024bbedea54dc479b340187a8aac70a57e"
+          "headline": "Astera Labs Fell Harder Than the Market in the AI Selloff. Here\u2019s What November 3 Must Show",
+          "url": "https://finnhub.io/api/news?id=a3706c36d155e80936121557ba1ca496e5c2f5a1d497c205c5d4fbac4592f323"
         }
       ]
     },
     {
-      "symbol": "AMD",
-      "pct": -10.96,
-      "price": 504.35,
+      "symbol": "INTC",
+      "pct": -8.8,
+      "price": 59.97,
       "news": [
         {
-          "headline": "Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off",
-          "url": "https://finnhub.io/api/news?id=3b8ddcac529bf9766505331d9fafdea920291fae4badbd561cb98c7f8909b77d"
+          "headline": "Stocks kick off November lower as AI sell-off hits Tech",
+          "url": "https://finnhub.io/api/news?id=40ce51a9480bbed184e2d3240be76aa83bb6449420d848b314d2690b3d90fc47"
         },
         {
-          "headline": "If the AI Bubble Scare Gets Worse, This Is the Chip Stock I'd Still Hold",
-          "url": "https://finnhub.io/api/news?id=8c5bcb02a4d5f20d3356448d2806bc1b1e0058b40c0a6f2e5378c5a2cffc5ffe"
+          "headline": "The Intel stock collapse is getting worse \u2014 and the $3.7 trillion chip rout is spreading",
+          "url": "https://finnhub.io/api/news?id=e044dd3dafb7cbb4d8553a2ccad1270fb8186b5d36f8c53eda58a65c4a8ea14d"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -8.27,
+      "price": 141.39,
+      "news": [
+        {
+          "headline": "Applied Digital Slumps 8% as CEO Says 800 MW Still Needs Financing; Nebius and CoreWeave Fall 6%",
+          "url": "https://finnhub.io/api/news?id=d484e44d62942450ff5a504284ebe39f78b35865dd38b70ff6d4217a2837c487"
+        },
+        {
+          "headline": "Nebius Lost 35% Last Month As Contagion Spikes: One Wall Street Pro Says 165% Gains Are Coming",
+          "url": "https://finnhub.io/api/news?id=741f939d54206e29d20138be329c36b8d31f90f1163a87257dd13396a75276ba"
         }
       ]
     },
     {
       "symbol": "UMAC",
-      "pct": -10.71,
-      "price": 15.43,
-      "news": [
-        {
-          "headline": "Asure Software, Inc. (ASUR) Tops Q3 Earnings and Revenue Estimates",
-          "url": "https://finnhub.io/api/news?id=c75424ed93a313818d1c243f5587ee6bd1d1b710ed8715e883eb819b69b6862f"
-        },
-        {
-          "headline": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy?",
-          "url": "https://finnhub.io/api/news?id=40a3990a339bd634ea6fa4e5ed3f5624d5f93d7fe90076cb65e193c657943da3"
-        }
-      ]
+      "pct": -8.11,
+      "price": 14.27,
+      "news": []
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -1.14,
-      "price": 344.93
+      "pct": -1.83,
+      "price": 338.32
     },
     "MSFT": {
-      "pct": -1.39,
-      "price": 522.75
+      "pct": -2.83,
+      "price": 507.12
     },
     "GOOG": {
-      "pct": -1.22,
-      "price": 278.88
+      "pct": -0.06,
+      "price": 278.04
     },
     "NFLX": {
-      "pct": 0.13,
-      "price": 62.13
+      "pct": 0.42,
+      "price": 62.34
     },
     "TSLA": {
-      "pct": -0.83,
-      "price": 399.97
+      "pct": 1.0,
+      "price": 403.82
     },
     "NVDA": {
-      "pct": -4.16,
-      "price": 204.77
+      "pct": -1.26,
+      "price": 202.06
     },
     "AMD": {
-      "pct": -10.96,
-      "price": 504.35
+      "pct": -7.52,
+      "price": 466.84
     },
     "AVGO": {
-      "pct": -5.49,
-      "price": 326.07
+      "pct": -1.18,
+      "price": 322.23
     },
     "MU": {
-      "pct": -5.33,
-      "price": 884.49
+      "pct": -5.78,
+      "price": 833.59
     },
     "INTC": {
-      "pct": -29.33,
-      "price": 65.07
+      "pct": -8.8,
+      "price": 59.97
     },
     "MRVL": {
-      "pct": -10.17,
-      "price": 196.14
+      "pct": -12.72,
+      "price": 171.41
     },
     "ARM": {
-      "pct": -10.03,
-      "price": 205.83
+      "pct": -4.46,
+      "price": 196.79
     },
     "QCOM": {
-      "pct": -11.33,
-      "price": 164.41
+      "pct": -1.64,
+      "price": 162.08
     },
     "ALAB": {
       "pct": -11.22,
-      "price": 257.84
+      "price": 229.67
     },
     "LITE": {
-      "pct": -8.42,
-      "price": 842.07
+      "pct": -18.59,
+      "price": 684.4
     },
     "TER": {
-      "pct": -7.46,
-      "price": 274.14
+      "pct": -4.87,
+      "price": 261.01
     },
     "SNDK": {
-      "pct": -13.61,
-      "price": 1149.06
+      "pct": -6.59,
+      "price": 1075.08
     },
     "DRAM": {
-      "pct": -7.15,
-      "price": 48.05
+      "pct": -3.52,
+      "price": 46.32
     },
     "NOK": {
-      "pct": -8.38,
-      "price": 8.53
+      "pct": -3.04,
+      "price": 8.3
     },
     "PLTR": {
-      "pct": -6.07,
-      "price": 184.5
+      "pct": -3.13,
+      "price": 178.34
     },
     "ANET": {
-      "pct": -8.45,
-      "price": 168.65
+      "pct": -2.8,
+      "price": 164.14
     },
     "NBIS": {
-      "pct": -10.39,
-      "price": 154.12
+      "pct": -8.27,
+      "price": 141.39
     },
     "SNOW": {
-      "pct": -7.59,
-      "price": 305.21
+      "pct": -5.03,
+      "price": 290.68
     },
     "FIG": {
-      "pct": -3.09,
-      "price": 21.63
+      "pct": 2.54,
+      "price": 22.2
     },
     "UMAC": {
-      "pct": -10.71,
-      "price": 15.43
+      "pct": -8.11,
+      "price": 14.27
     },
     "RVI": {
-      "pct": -8.01,
-      "price": 22.17
+      "pct": -3.51,
+      "price": 21.46
     },
     "ROBO": {
-      "pct": -4.31,
-      "price": 74.53
+      "pct": 0.25,
+      "price": 74.81
     }
   },
   "no_data": [],
-  "usd_cad": 1.3969
+  "usd_cad": 1.3974
 }
