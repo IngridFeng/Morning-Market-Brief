@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-04T21:23:16+00:00",
+  "tone": {
+    "SPY": 1.65,
+    "QQQ": 0.97
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "UMAC",
+      "pct": -10.88,
+      "price": 13.03,
+      "news": [
+        {
+          "headline": "UMAC to Report Q3 Results: Can Revenue Growth Lift Earnings?",
+          "url": "https://finnhub.io/api/news?id=bc87e1b3f1d417027dea59434a653b7250886c9da55ef146821f9bce51ae89c0"
+        },
+        {
+          "headline": "Will AST SpaceMobile, Inc. (ASTS) Report Negative Earnings Next Week? What You Should Know",
+          "url": "https://finnhub.io/api/news?id=f7025bf93db248ef8552a840eb6254a032919358f13e21e0e32cfcbb41824942"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": -7.91,
+      "price": 1037.4,
+      "news": [
+        {
+          "headline": "Sandisk Sinks 8% as Democratic Wave and Memory Price Worries Hit AI Stocks",
+          "url": "https://finnhub.io/api/news?id=44c4bd836dc2869add7d0438d90a8c340e1ba4d4fc64b62ee571257e3141757e"
+        },
+        {
+          "headline": "Apple\u2019s Pain Could Be Micron\u2019s Gain as Memory Prices Surge",
+          "url": "https://finnhub.io/api/news?id=2321724eac92015c22f8907b33d76aabd63d078456f0bfe618cff2f3f7a4928e"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": -7.85,
+      "price": 626.75,
+      "news": [
+        {
+          "headline": "Lumentum Sinks 10% With Marvell as Blue Wave Hits Data-Center Stocks: \u201cPremium Can Quickly Go Negative\u201d",
+          "url": "https://finnhub.io/api/news?id=1cdceec657cbed53cfa2bd887931d3c3f56bc03fe74c6f4e321f5c81643ce669"
+        },
+        {
+          "headline": "Marvell's Deal to Acquire Lumentum Could Be a Game Changer for the Stock",
+          "url": "https://finnhub.io/api/news?id=e6dacaf8e4e956006df85f3e37e77526ded8d131b517146fe743df336af3fd0f"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": -7.08,
+      "price": 159.8,
+      "news": [
+        {
+          "headline": "Lumentum Sinks 10% With Marvell as Blue Wave Hits Data-Center Stocks: \u201cPremium Can Quickly Go Negative\u201d",
+          "url": "https://finnhub.io/api/news?id=1cdceec657cbed53cfa2bd887931d3c3f56bc03fe74c6f4e321f5c81643ce669"
+        },
+        {
+          "headline": "Astera Labs Plunges 27% in 3 Months: Buy, Sell, or Hold the Stock?",
+          "url": "https://finnhub.io/api/news?id=0df7356961f72391ac98d820d330db243cacaee9b45732bd501b0ebf3f15e3d3"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -7.0,
+      "price": 795.23,
+      "news": [
+        {
+          "headline": "Micron Sinks 6% as Democratic Sweep Stokes Fears of an AI \u201cSlowdown in Build\u201d",
+          "url": "https://finnhub.io/api/news?id=05aa33e693cf0be40de7b823d5487a6817b1f5152e52e7583fe7e011d84366d8"
+        },
+        {
+          "headline": "Cramer\u2019s Blue Wave Call: \u201cApple Winner\u201d as Slower Data Center Builds Ease the Memory Squeeze",
+          "url": "https://finnhub.io/api/news?id=588f2187d5c93eee9411496f2aab33ab08299053123e6958033996f8f573bf86"
+        }
+      ]
+    },
+    {
+      "symbol": "TER",
+      "pct": -6.82,
+      "price": 250.99,
+      "news": [
+        {
+          "headline": "Should You Buy, Sell, or Hold TER Stock After a 53% Rise in One Year?",
+          "url": "https://finnhub.io/api/news?id=dce42e63cb3ea2a78742ff5009f5f45cf07362f1ed68c2df0591175074e9895a"
+        },
+        {
+          "headline": "Is Teradyne (TER) Changing The Robotics Story With Its New Physical AI Push?",
+          "url": "https://finnhub.io/api/news?id=b56d7a331690f3b9591960c0ca65af1400a5385c71f348167ae1cea3afaea8a2"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 5.31,
+      "price": 349.51
+    },
+    "MSFT": {
+      "pct": 6.68,
+      "price": 555.8
+    },
+    "GOOG": {
+      "pct": 3.25,
+      "price": 287.3
+    },
+    "NFLX": {
+      "pct": 4.68,
+      "price": 66.39
+    },
+    "TSLA": {
+      "pct": -3.34,
+      "price": 385.19
+    },
+    "NVDA": {
+      "pct": -3.17,
+      "price": 200.13
+    },
+    "AMD": {
+      "pct": 1.01,
+      "price": 488.78
+    },
+    "AVGO": {
+      "pct": -2.0,
+      "price": 325.48
+    },
+    "MU": {
+      "pct": -7.0,
+      "price": 795.23
+    },
+    "INTC": {
+      "pct": -3.77,
+      "price": 58.27
+    },
+    "MRVL": {
+      "pct": -7.08,
+      "price": 159.8
+    },
+    "ARM": {
+      "pct": -5.28,
+      "price": 191.8
+    },
+    "QCOM": {
+      "pct": 5.33,
+      "price": 173.19
+    },
+    "ALAB": {
+      "pct": -4.43,
+      "price": 223.27
+    },
+    "LITE": {
+      "pct": -7.85,
+      "price": 626.75
+    },
+    "TER": {
+      "pct": -6.82,
+      "price": 250.99
+    },
+    "SNDK": {
+      "pct": -7.91,
+      "price": 1037.4
+    },
+    "DRAM": {
+      "pct": -5.31,
+      "price": 45.11
+    },
+    "NOK": {
+      "pct": -2.59,
+      "price": 8.26
+    },
+    "PLTR": {
+      "pct": -2.11,
+      "price": 171.7
+    },
+    "ANET": {
+      "pct": 5.04,
+      "price": 178.48
+    },
+    "NBIS": {
+      "pct": -6.67,
+      "price": 141.52
+    },
+    "SNOW": {
+      "pct": -1.5,
+      "price": 290.6
+    },
+    "FIG": {
+      "pct": 5.23,
+      "price": 22.13
+    },
+    "UMAC": {
+      "pct": -10.88,
+      "price": 13.03
+    },
+    "RVI": {
+      "pct": 0.32,
+      "price": 22.1
+    },
+    "ROBO": {
+      "pct": 0.34,
+      "price": 74.72
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3935
+}
