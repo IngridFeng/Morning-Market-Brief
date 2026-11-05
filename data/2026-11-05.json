@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-05T21:30:41+00:00",
+  "tone": {
+    "SPY": -4.41,
+    "QQQ": -6.49
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "SNDK",
+      "pct": -22.26,
+      "price": 806.43,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+        },
+        {
+          "headline": "Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears",
+          "url": "https://finnhub.io/api/news?id=e80e15f4a9115bdf480d8cf8b85f947765e79615e89086537816973d248680e5"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": -19.62,
+      "price": 179.47,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+        },
+        {
+          "headline": "BMO Makes Major Bullish Call on Astera Labs",
+          "url": "https://finnhub.io/api/news?id=2ae91a590f1ec9fe8d4010223935ae7777222703e54dd94c24792a24c1210926"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": -18.68,
+      "price": 509.7,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+        },
+        {
+          "headline": "Cisco Falls 7% on Morgan Stanley Downgrade; Ciena Plunges 15%, Arista Networks Tumbles 10%",
+          "url": "https://finnhub.io/api/news?id=4114f2bc52e6941291bc0c0907e87048a2f8ecfef195c50ef07f8913205d22db"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": -17.96,
+      "price": 37.01,
+      "news": [
+        {
+          "headline": "Maybe It's Time To Rush Outdoors Carrying Washtubs",
+          "url": "https://finnhub.io/api/news?id=3abbd8c79d01be2ef753f42e63513498abdb30355b57bd7b40ab4c0b0d134229"
+        },
+        {
+          "headline": "Weekly Options Come to the 2X Long DRAM ETF (RAM)",
+          "url": "https://finnhub.io/api/news?id=acd7010110a399d89742f9e1fa932ad90a7f2ae3f5e7ba349ac654e699348497"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -17.57,
+      "price": 10.74,
+      "news": [
+        {
+          "headline": "Airbnb Could Swing By $6.69 Billion After Earnings",
+          "url": "https://finnhub.io/api/news?id=fd2bb170d2b1d3c3206387168b169963b1299579989f16b777743d86540fae0e"
+        },
+        {
+          "headline": "'Drone Juggernaut Neros and its 23-Year-Old CEO Gain the Pentagon\u2019s Favor' - The Information Exclusive",
+          "url": "https://finnhub.io/api/news?id=4a90fed4943f3773b3d4eef637fdc8ed6d4c6db276718f66abd010c19d2e9604"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -17.46,
+      "price": 656.39,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+        },
+        {
+          "headline": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
+          "url": "https://finnhub.io/api/news?id=66d6953dba9f1276e1f3e396a0ae5a34a77480aa567da31499f28f650d98688b"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -1.53,
+      "price": 344.17
+    },
+    "MSFT": {
+      "pct": -3.58,
+      "price": 535.93
+    },
+    "GOOG": {
+      "pct": -1.94,
+      "price": 281.74
+    },
+    "NFLX": {
+      "pct": -1.25,
+      "price": 65.56
+    },
+    "TSLA": {
+      "pct": -10.77,
+      "price": 343.69
+    },
+    "NVDA": {
+      "pct": -9.26,
+      "price": 181.6
+    },
+    "AMD": {
+      "pct": -17.26,
+      "price": 404.4
+    },
+    "AVGO": {
+      "pct": -10.43,
+      "price": 291.53
+    },
+    "MU": {
+      "pct": -17.46,
+      "price": 656.39
+    },
+    "INTC": {
+      "pct": -10.33,
+      "price": 52.25
+    },
+    "MRVL": {
+      "pct": -16.43,
+      "price": 133.55
+    },
+    "ARM": {
+      "pct": -13.08,
+      "price": 166.72
+    },
+    "QCOM": {
+      "pct": -9.49,
+      "price": 156.75
+    },
+    "ALAB": {
+      "pct": -19.62,
+      "price": 179.47
+    },
+    "LITE": {
+      "pct": -18.68,
+      "price": 509.7
+    },
+    "TER": {
+      "pct": -15.24,
+      "price": 212.74
+    },
+    "SNDK": {
+      "pct": -22.26,
+      "price": 806.43
+    },
+    "DRAM": {
+      "pct": -17.96,
+      "price": 37.01
+    },
+    "NOK": {
+      "pct": -9.69,
+      "price": 7.46
+    },
+    "PLTR": {
+      "pct": -9.73,
+      "price": 154.99
+    },
+    "ANET": {
+      "pct": -10.82,
+      "price": 159.16
+    },
+    "NBIS": {
+      "pct": -14.94,
+      "price": 120.37
+    },
+    "SNOW": {
+      "pct": -7.25,
+      "price": 269.54
+    },
+    "FIG": {
+      "pct": -16.67,
+      "price": 18.44
+    },
+    "UMAC": {
+      "pct": -17.57,
+      "price": 10.74
+    },
+    "RVI": {
+      "pct": -5.48,
+      "price": 20.89
+    },
+    "ROBO": {
+      "pct": -7.9,
+      "price": 68.82
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.3966
+}
