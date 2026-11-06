@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T21:30:41+00:00",
+  "generated_at": "2026-11-06T20:58:35+00:00",
   "tone": {
-    "SPY": -4.41,
-    "QQQ": -6.49
+    "SPY": 0.33,
+    "QQQ": 1.39
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,206 @@
   },
   "movers_ranked": [
     {
-      "symbol": "SNDK",
-      "pct": -22.26,
-      "price": 806.43,
+      "symbol": "UMAC",
+      "pct": 10.61,
+      "price": 11.88,
       "news": [
         {
-          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+          "headline": "Needham Maintains Buy on Unusual Machines, Lowers Price Target to $22",
+          "url": "https://finnhub.io/api/news?id=362d7c46a6e878e77f57eee4fcb5216996984e5c2fda7ac4104dce4e836ff09e"
         },
         {
-          "headline": "Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears",
-          "url": "https://finnhub.io/api/news?id=e80e15f4a9115bdf480d8cf8b85f947765e79615e89086537816973d248680e5"
+          "headline": "Unusual Machines, Inc. (UMAC) Q3 2026 Earnings Call Transcript",
+          "url": "https://finnhub.io/api/news?id=d837fed61455367d0032e78a1c717b568127f2a0017c47dd1477bf52df3adfde"
         }
       ]
     },
     {
-      "symbol": "ALAB",
-      "pct": -19.62,
-      "price": 179.47,
+      "symbol": "AMD",
+      "pct": 10.1,
+      "price": 445.25,
       "news": [
         {
-          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+          "headline": "Intel and AMD in Focus as Tech Stocks Seek Rebound",
+          "url": "https://finnhub.io/api/news?id=a6f641ff01d1e6498be33dc3f519c23ddc9fb977d1a96964605736eadf05dcd6"
         },
         {
-          "headline": "BMO Makes Major Bullish Call on Astera Labs",
-          "url": "https://finnhub.io/api/news?id=2ae91a590f1ec9fe8d4010223935ae7777222703e54dd94c24792a24c1210926"
+          "headline": "Oracle Faces Major Wall Street Test After AI Selloff",
+          "url": "https://finnhub.io/api/news?id=25444a669b2412544d1c3292408538fad853afd125dfb2a901f7b30449673dd3"
         }
       ]
     },
     {
-      "symbol": "LITE",
-      "pct": -18.68,
-      "price": 509.7,
+      "symbol": "NBIS",
+      "pct": 7.88,
+      "price": 129.86,
       "news": [
         {
-          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
+          "headline": "AI Cloud Crash Puts CoreWeave and Nebius on Sale. Their Next Reports Decide What Happens Next",
+          "url": "https://finnhub.io/api/news?id=ca34c195a850c38022657ca7a16986173e949715aa805c50d0e493d4dba1f859"
         },
         {
-          "headline": "Cisco Falls 7% on Morgan Stanley Downgrade; Ciena Plunges 15%, Arista Networks Tumbles 10%",
-          "url": "https://finnhub.io/api/news?id=4114f2bc52e6941291bc0c0907e87048a2f8ecfef195c50ef07f8913205d22db"
+          "headline": "Nebius Soars 7% as a Rival\u2019s AI Cloud Beat Lifts Neoclouds After \u201cReactionary\u201d Selloff",
+          "url": "https://finnhub.io/api/news?id=087c766de12efdb8562cbc7adc4a58ac0c63cfcf8e4e86579315108f1fee7908"
+        }
+      ]
+    },
+    {
+      "symbol": "INTC",
+      "pct": 7.1,
+      "price": 55.96,
+      "news": [
+        {
+          "headline": "These 4 Trump-backed chip stocks have seen steeper losses than the beleaguered sector",
+          "url": "https://finnhub.io/api/news?id=13d4a14bba13428725168ad0a3188d5f95c446cdfab8a0e95cb820f2f8e7e21d"
+        },
+        {
+          "headline": "Intel and AMD in Focus as Tech Stocks Seek Rebound",
+          "url": "https://finnhub.io/api/news?id=a6f641ff01d1e6498be33dc3f519c23ddc9fb977d1a96964605736eadf05dcd6"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 6.96,
+      "price": 170.23,
+      "news": [
+        {
+          "headline": "What Changed In Arista's Story?",
+          "url": "https://finnhub.io/api/news?id=853e1e7369cb929029d125261509b248e0dc03b5ef9ccff92ae007ca62a67ff8"
+        },
+        {
+          "headline": "Is ANET Worth Buying as AI Growth Meets a Rich Valuation Premium?",
+          "url": "https://finnhub.io/api/news?id=b42277328c3a7d495b95d9049f5fa36cc9fed21004093a92694942eecf89b81a"
         }
       ]
     },
     {
       "symbol": "DRAM",
-      "pct": -17.96,
-      "price": 37.01,
+      "pct": 6.03,
+      "price": 39.24,
       "news": [
         {
-          "headline": "Maybe It's Time To Rush Outdoors Carrying Washtubs",
-          "url": "https://finnhub.io/api/news?id=3abbd8c79d01be2ef753f42e63513498abdb30355b57bd7b40ab4c0b0d134229"
+          "headline": "DRAM: Post-Election Crash Is An Opportunity",
+          "url": "https://finnhub.io/api/news?id=5d2807cf8b7ce5c7920c0c31a159831c2956333a584e0950d2e030bb2dc8bcc3"
         },
         {
-          "headline": "Weekly Options Come to the 2X Long DRAM ETF (RAM)",
-          "url": "https://finnhub.io/api/news?id=acd7010110a399d89742f9e1fa932ad90a7f2ae3f5e7ba349ac654e699348497"
-        }
-      ]
-    },
-    {
-      "symbol": "UMAC",
-      "pct": -17.57,
-      "price": 10.74,
-      "news": [
-        {
-          "headline": "Airbnb Could Swing By $6.69 Billion After Earnings",
-          "url": "https://finnhub.io/api/news?id=fd2bb170d2b1d3c3206387168b169963b1299579989f16b777743d86540fae0e"
-        },
-        {
-          "headline": "'Drone Juggernaut Neros and its 23-Year-Old CEO Gain the Pentagon\u2019s Favor' - The Information Exclusive",
-          "url": "https://finnhub.io/api/news?id=4a90fed4943f3773b3d4eef637fdc8ed6d4c6db276718f66abd010c19d2e9604"
-        }
-      ]
-    },
-    {
-      "symbol": "MU",
-      "pct": -17.46,
-      "price": 656.39,
-      "news": [
-        {
-          "headline": "Stock Market Today: Dow Down 1,500 Points As Volatility Spikes; Expedia Posts A Soft Outlook (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=5077f927305c7d6d6209bd8bfdb739bab68622fd790bed96467bbc23076bf198"
-        },
-        {
-          "headline": "Micron Stock Falls After Report of $4.5 Billion Taiwan Pause",
-          "url": "https://finnhub.io/api/news?id=66d6953dba9f1276e1f3e396a0ae5a34a77480aa567da31499f28f650d98688b"
+          "headline": "$7 Billion Gone: DRAM ETF Investors Crushed As Memory Chip Mania Unravels",
+          "url": "https://finnhub.io/api/news?id=ef7b94b96c420047c18c8cbf850e89e616e3c1dc0d09b42139346fe50127e841"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -1.53,
-      "price": 344.17
+      "pct": -0.44,
+      "price": 342.67
     },
     "MSFT": {
-      "pct": -3.58,
-      "price": 535.93
+      "pct": -0.81,
+      "price": 531.59
     },
     "GOOG": {
-      "pct": -1.94,
-      "price": 281.74
+      "pct": 0.86,
+      "price": 284.15
     },
     "NFLX": {
-      "pct": -1.25,
-      "price": 65.56
+      "pct": -3.31,
+      "price": 63.39
     },
     "TSLA": {
-      "pct": -10.77,
-      "price": 343.69
+      "pct": 4.26,
+      "price": 358.32
     },
     "NVDA": {
-      "pct": -9.26,
-      "price": 181.6
+      "pct": 2.65,
+      "price": 186.42
     },
     "AMD": {
-      "pct": -17.26,
-      "price": 404.4
+      "pct": 10.1,
+      "price": 445.25
     },
     "AVGO": {
-      "pct": -10.43,
-      "price": 291.53
+      "pct": 0.28,
+      "price": 292.36
     },
     "MU": {
-      "pct": -17.46,
-      "price": 656.39
+      "pct": 4.58,
+      "price": 686.47
     },
     "INTC": {
-      "pct": -10.33,
-      "price": 52.25
+      "pct": 7.1,
+      "price": 55.96
     },
     "MRVL": {
-      "pct": -16.43,
-      "price": 133.55
+      "pct": 5.38,
+      "price": 140.74
     },
     "ARM": {
-      "pct": -13.08,
-      "price": 166.72
+      "pct": 4.48,
+      "price": 174.19
     },
     "QCOM": {
-      "pct": -9.49,
-      "price": 156.75
+      "pct": 5.19,
+      "price": 164.88
     },
     "ALAB": {
-      "pct": -19.62,
-      "price": 179.47
+      "pct": 5.59,
+      "price": 189.5
     },
     "LITE": {
-      "pct": -18.68,
-      "price": 509.7
+      "pct": 5.81,
+      "price": 539.32
     },
     "TER": {
-      "pct": -15.24,
-      "price": 212.74
+      "pct": 2.19,
+      "price": 217.4
     },
     "SNDK": {
-      "pct": -22.26,
-      "price": 806.43
+      "pct": 3.81,
+      "price": 837.17
     },
     "DRAM": {
-      "pct": -17.96,
-      "price": 37.01
+      "pct": 6.03,
+      "price": 39.24
     },
     "NOK": {
-      "pct": -9.69,
-      "price": 7.46
+      "pct": 2.95,
+      "price": 7.68
     },
     "PLTR": {
-      "pct": -9.73,
-      "price": 154.99
+      "pct": 3.66,
+      "price": 160.66
     },
     "ANET": {
-      "pct": -10.82,
-      "price": 159.16
+      "pct": 6.96,
+      "price": 170.23
     },
     "NBIS": {
-      "pct": -14.94,
-      "price": 120.37
+      "pct": 7.88,
+      "price": 129.86
     },
     "SNOW": {
-      "pct": -7.25,
-      "price": 269.54
+      "pct": 2.39,
+      "price": 275.98
     },
     "FIG": {
-      "pct": -16.67,
-      "price": 18.44
+      "pct": 1.74,
+      "price": 18.76
     },
     "UMAC": {
-      "pct": -17.57,
-      "price": 10.74
+      "pct": 10.61,
+      "price": 11.88
     },
     "RVI": {
-      "pct": -5.48,
-      "price": 20.89
+      "pct": 2.2,
+      "price": 21.35
     },
     "ROBO": {
-      "pct": -7.9,
-      "price": 68.82
+      "pct": 1.69,
+      "price": 69.98
     }
   },
   "no_data": [],
-  "usd_cad": 1.3966
+  "usd_cad": 1.4066
 }
