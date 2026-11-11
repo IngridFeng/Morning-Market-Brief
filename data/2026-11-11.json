@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-11T22:05:42+00:00",
+  "tone": {
+    "SPY": 1.32,
+    "QQQ": 2.31
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": 15.44,
+      "price": 154.69,
+      "news": [
+        {
+          "headline": "Nvidia-Backed Nebius Faces Crucial Wall Street Test",
+          "url": "https://finnhub.io/api/news?id=3270544984a36b8c938ec9221ba59b77b9d7e3d95429b7ce8593c6ddbb304861"
+        },
+        {
+          "headline": "Nebius Group Stocks Jump Nearly 17% Ahead of Thursday Results as CoreWeave Lifts AI Clouds",
+          "url": "https://finnhub.io/api/news?id=2e4e804890854a3a16fc19c8888c79fc7f5d7422b27cc38fdd7cda7e15e0e326"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": 13.69,
+      "price": 977.69,
+      "news": [
+        {
+          "headline": "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
+          "url": "https://finnhub.io/api/news?id=1dd7915d708f30f8720eb600d7f004cadc13cc0dea3d8ccacb29c50a0019d6f2"
+        },
+        {
+          "headline": "Credo Technology Stocks Climb 10.8% as AI Connectivity Names Rally",
+          "url": "https://finnhub.io/api/news?id=6f34fd909ff0e4cd8d4b414888fd68c196470b8d2d9761ef787b20b2a963b054"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": 12.05,
+      "price": 203.36,
+      "news": [
+        {
+          "headline": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
+          "url": "https://finnhub.io/api/news?id=5a776d3bccf87c982f2d164675b65f5786075cfb7e18831497b1c2afde03f7f3"
+        },
+        {
+          "headline": "Analysts Just Slashed Their Price Targets on These 5 Stocks",
+          "url": "https://finnhub.io/api/news?id=0c8810c8bbfd8146f3c2e17d49bd0733360dc168753be6e5c694c37268a527b1"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": 11.89,
+      "price": 811.3,
+      "news": [
+        {
+          "headline": "Chip Stocks Rally After Slide. These Names Are Leading The Charge Higher.",
+          "url": "https://finnhub.io/api/news?id=5a776d3bccf87c982f2d164675b65f5786075cfb7e18831497b1c2afde03f7f3"
+        },
+        {
+          "headline": "S&P 500's Earnings Growth to Slow in 2027, 2028, UBS Says",
+          "url": "https://finnhub.io/api/news?id=bebdc467b86986fec3d42c51fb56b0f91caf7baf111d6f8db55cc6f1e084b8f6"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": 10.67,
+      "price": 648.06,
+      "news": [
+        {
+          "headline": "Lumentum Stocks Jump 14.85% as AI Optics Rebound Narrows Marvell Deal Gap",
+          "url": "https://finnhub.io/api/news?id=ae8d076253ad558a2e210f2af1361c1a1b69bf3314ad2903172a8ecac7308fd8"
+        },
+        {
+          "headline": "Marvell Technology Stocks Surge 12.22% as AI Optics Rally Eases Lumentum Deal Doubts",
+          "url": "https://finnhub.io/api/news?id=1dd7915d708f30f8720eb600d7f004cadc13cc0dea3d8ccacb29c50a0019d6f2"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 10.36,
+      "price": 44.85,
+      "news": [
+        {
+          "headline": "3 Stocks I'm Buying As The Huang Scandal Unfolds",
+          "url": "https://finnhub.io/api/news?id=70a2d34fc4d7ffe5d217f8693a346464efb5ba5b5b759342db24f3f02dae10d9"
+        },
+        {
+          "headline": "The AI Stock Selloff Overlooks Good News\u2014and Earnings Growth",
+          "url": "https://finnhub.io/api/news?id=e776a791e950c30faf4d5eeebdfd852cf015a8fe4aef5289b9c51059f9e231a9"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 2.04,
+      "price": 355.63
+    },
+    "MSFT": {
+      "pct": -2.26,
+      "price": 521.12
+    },
+    "GOOG": {
+      "pct": 2.0,
+      "price": 290.63
+    },
+    "NFLX": {
+      "pct": 2.02,
+      "price": 64.54
+    },
+    "TSLA": {
+      "pct": 2.91,
+      "price": 390.84
+    },
+    "NVDA": {
+      "pct": 2.87,
+      "price": 173.73
+    },
+    "AMD": {
+      "pct": 7.32,
+      "price": 552.9
+    },
+    "AVGO": {
+      "pct": 3.99,
+      "price": 345.22
+    },
+    "MU": {
+      "pct": 11.89,
+      "price": 811.3
+    },
+    "INTC": {
+      "pct": 7.52,
+      "price": 62.5
+    },
+    "MRVL": {
+      "pct": 9.33,
+      "price": 168.8
+    },
+    "ARM": {
+      "pct": 12.05,
+      "price": 203.36
+    },
+    "QCOM": {
+      "pct": 1.75,
+      "price": 176.57
+    },
+    "ALAB": {
+      "pct": 6.81,
+      "price": 230.91
+    },
+    "LITE": {
+      "pct": 10.67,
+      "price": 648.06
+    },
+    "TER": {
+      "pct": 8.3,
+      "price": 265.78
+    },
+    "SNDK": {
+      "pct": 13.69,
+      "price": 977.69
+    },
+    "DRAM": {
+      "pct": 10.36,
+      "price": 44.85
+    },
+    "NOK": {
+      "pct": 2.3,
+      "price": 8.44
+    },
+    "PLTR": {
+      "pct": 2.12,
+      "price": 172.4
+    },
+    "ANET": {
+      "pct": 6.3,
+      "price": 196.68
+    },
+    "NBIS": {
+      "pct": 15.44,
+      "price": 154.69
+    },
+    "SNOW": {
+      "pct": 1.85,
+      "price": 301.22
+    },
+    "FIG": {
+      "pct": 1.82,
+      "price": 18.97
+    },
+    "UMAC": {
+      "pct": 0.48,
+      "price": 12.65
+    },
+    "RVI": {
+      "pct": 2.07,
+      "price": 21.23
+    },
+    "ROBO": {
+      "pct": 2.05,
+      "price": 74.08
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4235
+}
