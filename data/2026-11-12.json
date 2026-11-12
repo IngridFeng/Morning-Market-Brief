@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-11-12T21:53:03+00:00",
+  "tone": {
+    "SPY": -0.35,
+    "QQQ": -0.32
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": -16.84,
+      "price": 128.64,
+      "news": [
+        {
+          "headline": "Nebius Group Q3 Earnings Call Highlights",
+          "url": "https://finnhub.io/api/news?id=56ea016b978d797ce709c904af5e3451ddf166b9dc7495ca68c51833f6c8c8fc"
+        },
+        {
+          "headline": "Corvex Q3 Earnings Call Highlights",
+          "url": "https://finnhub.io/api/news?id=cbb8cee497be570beea9ca10ee1bdb323ec251781b3c21942876f0e2ed317b49"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -6.48,
+      "price": 11.83,
+      "news": []
+    },
+    {
+      "symbol": "AMD",
+      "pct": 5.86,
+      "price": 585.3,
+      "news": [
+        {
+          "headline": "Bank of America Revamps AMD Stock Price Target for 2027",
+          "url": "https://finnhub.io/api/news?id=f33802daf60bec48a460653e43ccf9e9ffd1df60c65f6e7be3dd284227c23c5d"
+        },
+        {
+          "headline": "AMD makes surprise quantum computing move with new investment",
+          "url": "https://finnhub.io/api/news?id=3ac5f56cfaeddca41dcf0602fd4c140655ed6c407829e2f57d8168b26a8e87eb"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "pct": 5.54,
+      "price": 364.36,
+      "news": [
+        {
+          "headline": "Marvell makes major board move ahead of $115 billion AI deal",
+          "url": "https://finnhub.io/api/news?id=5f7b91e4ce34e1f3b948f3cfe93f31d903fe42f161c72ed5700b07b924c666ab"
+        },
+        {
+          "headline": "Ranking NVIDIA, Taiwan Semiconductor And Other AI Compute Stocks",
+          "url": "https://finnhub.io/api/news?id=4a020257dca4269f941ae62708f7f6b4302b057918cc2ba5a9d09a072453f7af"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 5.06,
+      "price": 206.63,
+      "news": [
+        {
+          "headline": "Cisco (CSCO) vs. ANET and HPE: Can AI Networking Turn Strong Orders Into Lasting Earnings Growth?",
+          "url": "https://finnhub.io/api/news?id=fbb441c75e0bf563ad92b933daa9ab0b0eca73caa7119e6145484c711013df80"
+        },
+        {
+          "headline": "Here's A Bullish Trade To Consider For Recovering Arista Stock",
+          "url": "https://finnhub.io/api/news?id=8e536ef07b51bd26e32a90bb3b10d741adfe86bc53cc73e4273c82a89f3318cd"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "pct": -4.34,
+      "price": 166.19,
+      "news": [
+        {
+          "headline": "Stock Market Today: Nasdaq Higher Amid Nvidia CEO Change; Software Name Jumps (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=f3c9c08a4ebd04a5e93050c5400718e3959d4a31e4da57d4a47418ff1ccd64be"
+        },
+        {
+          "headline": "Retail investors are buying Nvidia's stock crash like never before \u2014 history urges patience",
+          "url": "https://finnhub.io/api/news?id=fb1f8261682cc3ae4e41206aacd3d0164ca57ce287fbef2ad95d594bb14cb9ba"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -0.21,
+      "price": 354.88
+    },
+    "MSFT": {
+      "pct": 0.36,
+      "price": 523
+    },
+    "GOOG": {
+      "pct": 1.62,
+      "price": 295.35
+    },
+    "NFLX": {
+      "pct": -2.87,
+      "price": 62.69
+    },
+    "TSLA": {
+      "pct": 1.69,
+      "price": 397.45
+    },
+    "NVDA": {
+      "pct": -4.34,
+      "price": 166.19
+    },
+    "AMD": {
+      "pct": 5.86,
+      "price": 585.3
+    },
+    "AVGO": {
+      "pct": 5.54,
+      "price": 364.36
+    },
+    "MU": {
+      "pct": -1.59,
+      "price": 798.44
+    },
+    "INTC": {
+      "pct": -2.08,
+      "price": 61.2
+    },
+    "MRVL": {
+      "pct": -2.58,
+      "price": 164.45
+    },
+    "ARM": {
+      "pct": -1.76,
+      "price": 199.78
+    },
+    "QCOM": {
+      "pct": 0.32,
+      "price": 177.14
+    },
+    "ALAB": {
+      "pct": -1.35,
+      "price": 227.79
+    },
+    "LITE": {
+      "pct": -3.61,
+      "price": 624.65
+    },
+    "TER": {
+      "pct": -0.76,
+      "price": 263.75
+    },
+    "SNDK": {
+      "pct": -4.11,
+      "price": 937.46
+    },
+    "DRAM": {
+      "pct": -2.65,
+      "price": 43.66
+    },
+    "NOK": {
+      "pct": -1.9,
+      "price": 8.28
+    },
+    "PLTR": {
+      "pct": -0.48,
+      "price": 171.58
+    },
+    "ANET": {
+      "pct": 5.06,
+      "price": 206.63
+    },
+    "NBIS": {
+      "pct": -16.84,
+      "price": 128.64
+    },
+    "SNOW": {
+      "pct": -0.84,
+      "price": 298.7
+    },
+    "FIG": {
+      "pct": -0.26,
+      "price": 18.92
+    },
+    "UMAC": {
+      "pct": -6.48,
+      "price": 11.83
+    },
+    "RVI": {
+      "pct": -0.85,
+      "price": 21.05
+    },
+    "ROBO": {
+      "pct": -1.55,
+      "price": 72.93
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4249
+}
