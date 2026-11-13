@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-13T21:29:04+00:00",
+  "tone": {
+    "SPY": -0.36,
+    "QQQ": -1.2
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": -9.92,
+      "price": 115.88,
+      "news": [
+        {
+          "headline": "D.A. Davidson Just Cut Its Nebius Target From $250 to $125",
+          "url": "https://finnhub.io/api/news?id=53b35b58674ec4804b2c08ccbe5c0120a427739479b6a88cc536d6e02ba63b21"
+        },
+        {
+          "headline": "Nebius Stock Slips as Analysts Trim Targets",
+          "url": "https://finnhub.io/api/news?id=a5b0979e8d5097cd6f259cfd5a2590f4fff6d7938ad64ae6ba200ab92d3d39cf"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "pct": -8.75,
+      "price": 534.06,
+      "news": [
+        {
+          "headline": "Nvidia Scandal is Poking Real Holes in the AI Trade. But That Doesn\u2019t Mean it\u2019s Over.",
+          "url": "https://finnhub.io/api/news?id=a4f047fc1f07ea55b5f11427adca1678fa58806eac747751e163349380c340f1"
+        },
+        {
+          "headline": "Investing.com\u2019s stocks of the week",
+          "url": "https://finnhub.io/api/news?id=eb7f0665c0be2452810f12d0bb2a0eccaecfe41d1fc74a3f2ff6994ddca2d286"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": -5.59,
+      "price": 885.01,
+      "news": [
+        {
+          "headline": "Chart of the Day: Sandisk Stock Looks Ready to Bounce Back",
+          "url": "https://finnhub.io/api/news?id=592f39abc7118c9d59891fd0acfcb0fc8ab4dc39d393e37cbdbb769fdbd05c21"
+        },
+        {
+          "headline": "Why Sandisk Stock Is Falling Today",
+          "url": "https://finnhub.io/api/news?id=c37d0ad257cb022f661da3b5a039b9dc953572dcd910a4627806f3cd824d2991"
+        }
+      ]
+    },
+    {
+      "symbol": "TER",
+      "pct": -5.38,
+      "price": 249.55,
+      "news": [
+        {
+          "headline": "Teradyne Benefits From Strong Test Demand: Can It Beat KLAC & COHU?",
+          "url": "https://finnhub.io/api/news?id=e85223acf0d69d1a1d6eee1afb2e13888a92e895bfbd20fc2a83e43b294a1e92"
+        },
+        {
+          "headline": "CBRS Q3 Earnings Beat Estimates, Revenues Rise on Strong Cloud Growth",
+          "url": "https://finnhub.io/api/news?id=3d3fbaba2883ffa0b912c505ef1cef9b6ecda6ea6dc68a1a44315b3ffc8cba9f"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "pct": -4.76,
+      "price": 347.01,
+      "news": [
+        {
+          "headline": "Nvidia Scandal is Poking Real Holes in the AI Trade. But That Doesn\u2019t Mean it\u2019s Over.",
+          "url": "https://finnhub.io/api/news?id=a4f047fc1f07ea55b5f11427adca1678fa58806eac747751e163349380c340f1"
+        },
+        {
+          "headline": "Investing.com\u2019s stocks of the week",
+          "url": "https://finnhub.io/api/news?id=eb7f0665c0be2452810f12d0bb2a0eccaecfe41d1fc74a3f2ff6994ddca2d286"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": -4.68,
+      "price": 156.76,
+      "news": [
+        {
+          "headline": "Marvell Is Still Up 81% This Year. Can MRVL Stock Hit $300 by 2029?",
+          "url": "https://finnhub.io/api/news?id=286e904a40aa79cfed3a7da4161b7d729afbd57606cb0dc5a9ab0c3c796a3db9"
+        },
+        {
+          "headline": "NVIDIA Is Now Down 30% in a Month: Bessent Asks Whether NVIDIA Knew Its Clients, Dan Ives Says Huang Was Worth $1 Trillion",
+          "url": "https://finnhub.io/api/news?id=d17b9353b01a34723653110edfcc8e8aff65adfb98f5c745a26b4aa25575c76e"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.39,
+      "price": 356.27
+    },
+    "MSFT": {
+      "pct": 0.17,
+      "price": 523.88
+    },
+    "GOOG": {
+      "pct": -0.96,
+      "price": 292.52
+    },
+    "NFLX": {
+      "pct": -0.86,
+      "price": 62.15
+    },
+    "TSLA": {
+      "pct": -1.82,
+      "price": 390.22
+    },
+    "NVDA": {
+      "pct": -2.01,
+      "price": 162.85
+    },
+    "AMD": {
+      "pct": -8.75,
+      "price": 534.06
+    },
+    "AVGO": {
+      "pct": -4.76,
+      "price": 347.01
+    },
+    "MU": {
+      "pct": -2.52,
+      "price": 778.31
+    },
+    "INTC": {
+      "pct": -2.52,
+      "price": 59.66
+    },
+    "MRVL": {
+      "pct": -4.68,
+      "price": 156.76
+    },
+    "ARM": {
+      "pct": -4.63,
+      "price": 190.53
+    },
+    "QCOM": {
+      "pct": -2.64,
+      "price": 172.47
+    },
+    "ALAB": {
+      "pct": -2.62,
+      "price": 221.83
+    },
+    "LITE": {
+      "pct": -4.49,
+      "price": 596.62
+    },
+    "TER": {
+      "pct": -5.38,
+      "price": 249.55
+    },
+    "SNDK": {
+      "pct": -5.59,
+      "price": 885.01
+    },
+    "DRAM": {
+      "pct": -2.89,
+      "price": 42.4
+    },
+    "NOK": {
+      "pct": -2.54,
+      "price": 8.07
+    },
+    "PLTR": {
+      "pct": -2.09,
+      "price": 167.99
+    },
+    "ANET": {
+      "pct": -4.52,
+      "price": 197.29
+    },
+    "NBIS": {
+      "pct": -9.92,
+      "price": 115.88
+    },
+    "SNOW": {
+      "pct": -2.58,
+      "price": 291
+    },
+    "FIG": {
+      "pct": 2.8,
+      "price": 19.45
+    },
+    "UMAC": {
+      "pct": -4.65,
+      "price": 11.28
+    },
+    "RVI": {
+      "pct": -0.43,
+      "price": 20.96
+    },
+    "ROBO": {
+      "pct": -1.12,
+      "price": 72.11
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4258
+}
