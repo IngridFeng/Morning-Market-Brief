@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-16T23:47:20+00:00",
+  "tone": {
+    "SPY": -1.91,
+    "QQQ": -2.67
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "ALAB",
+      "pct": -8.79,
+      "price": 202.34,
+      "news": [
+        {
+          "headline": "Astera Labs Stocks Sink 6.95% Despite Guiding Revenue Up 26% Next Quarter",
+          "url": "https://finnhub.io/api/news?id=9ea4505ff1d7649d01af239e59059fbba0c7c46bce7fb1a9e177052651450169"
+        },
+        {
+          "headline": "A $1.2 Billion Fund Dumps These 3 Stocks",
+          "url": "https://finnhub.io/api/news?id=99a0ebba2c9d2f74bcfd79db6d8c992dac5d10274755272730154c1d94973d67"
+        }
+      ]
+    },
+    {
+      "symbol": "SNDK",
+      "pct": -8.58,
+      "price": 809.11,
+      "news": [
+        {
+          "headline": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
+          "url": "https://finnhub.io/api/news?id=9d69eb8cc3c70514d7956824dc630020f4d0e257213370155ca3bcf983c511ac"
+        },
+        {
+          "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+          "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": -8.48,
+      "price": 546,
+      "news": [
+        {
+          "headline": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
+          "url": "https://finnhub.io/api/news?id=9d69eb8cc3c70514d7956824dc630020f4d0e257213370155ca3bcf983c511ac"
+        },
+        {
+          "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+          "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": -8.12,
+      "price": 175.05,
+      "news": [
+        {
+          "headline": "Why Arm Holdings Plunged Today",
+          "url": "https://finnhub.io/api/news?id=b2f76cbfdc0ca0c4d66a4703bd8f68c17bf2ebc9f7eba0d64e4c706885747327"
+        },
+        {
+          "headline": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
+          "url": "https://finnhub.io/api/news?id=633c8270864934076fad96a0bc394efaed83d27591590b02481cda157000fdbb"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -7.62,
+      "price": 719.02,
+      "news": [
+        {
+          "headline": "What's dragging down the S&P 500? Apple in focus",
+          "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f"
+        },
+        {
+          "headline": "Direxion and Anthony Pompliano's Silvia Join Forces to Help Investors Rethink Income",
+          "url": "https://finnhub.io/api/news?id=a3f5087a794d25eefb10fe2b9ebe7ba696b273ee8307192ea6f0aa85c8ed468f"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -7.55,
+      "price": 107.13,
+      "news": [
+        {
+          "headline": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
+          "url": "https://finnhub.io/api/news?id=3dea76cc860ce05190f5d004c1ebf08bfcb6af058b484295a33656a16508f9c5"
+        },
+        {
+          "headline": "Jensen Leaves Void at Nvidia Ahead of Earnings, What's Next?",
+          "url": "https://finnhub.io/api/news?id=3d76baa595122f3e2a7dc4a5c804f3a03ad846176365e76a5073a6a5598e7c89"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -0.98,
+      "price": 352.78
+    },
+    "MSFT": {
+      "pct": -1.12,
+      "price": 517.99
+    },
+    "GOOG": {
+      "pct": -3.85,
+      "price": 281.26
+    },
+    "NFLX": {
+      "pct": -2.25,
+      "price": 60.75
+    },
+    "TSLA": {
+      "pct": -2.69,
+      "price": 379.74
+    },
+    "NVDA": {
+      "pct": -4.12,
+      "price": 156.14
+    },
+    "AMD": {
+      "pct": -5.58,
+      "price": 504.28
+    },
+    "AVGO": {
+      "pct": -3.92,
+      "price": 333.4
+    },
+    "MU": {
+      "pct": -7.62,
+      "price": 719.02
+    },
+    "INTC": {
+      "pct": -7.02,
+      "price": 55.47
+    },
+    "MRVL": {
+      "pct": -7.27,
+      "price": 145.36
+    },
+    "ARM": {
+      "pct": -8.12,
+      "price": 175.05
+    },
+    "QCOM": {
+      "pct": -2.29,
+      "price": 168.52
+    },
+    "ALAB": {
+      "pct": -8.79,
+      "price": 202.34
+    },
+    "LITE": {
+      "pct": -8.48,
+      "price": 546
+    },
+    "TER": {
+      "pct": -7.07,
+      "price": 231.9
+    },
+    "SNDK": {
+      "pct": -8.58,
+      "price": 809.11
+    },
+    "DRAM": {
+      "pct": -7.38,
+      "price": 39.27
+    },
+    "NOK": {
+      "pct": -4.71,
+      "price": 7.69
+    },
+    "PLTR": {
+      "pct": -4.52,
+      "price": 160.39
+    },
+    "ANET": {
+      "pct": -5.21,
+      "price": 187.02
+    },
+    "NBIS": {
+      "pct": -7.55,
+      "price": 107.13
+    },
+    "SNOW": {
+      "pct": -3.59,
+      "price": 280.54
+    },
+    "FIG": {
+      "pct": -0.21,
+      "price": 19.41
+    },
+    "UMAC": {
+      "pct": -6.12,
+      "price": 10.59
+    },
+    "RVI": {
+      "pct": -3.72,
+      "price": 20.18
+    },
+    "ROBO": {
+      "pct": -3.9,
+      "price": 69.3
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4285
+}

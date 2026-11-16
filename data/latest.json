@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T21:29:04+00:00",
+  "generated_at": "2026-11-16T23:47:20+00:00",
   "tone": {
-    "SPY": -0.36,
-    "QQQ": -1.2
+    "SPY": -1.91,
+    "QQQ": -2.67
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,206 @@
   },
   "movers_ranked": [
     {
-      "symbol": "NBIS",
-      "pct": -9.92,
-      "price": 115.88,
+      "symbol": "ALAB",
+      "pct": -8.79,
+      "price": 202.34,
       "news": [
         {
-          "headline": "D.A. Davidson Just Cut Its Nebius Target From $250 to $125",
-          "url": "https://finnhub.io/api/news?id=53b35b58674ec4804b2c08ccbe5c0120a427739479b6a88cc536d6e02ba63b21"
+          "headline": "Astera Labs Stocks Sink 6.95% Despite Guiding Revenue Up 26% Next Quarter",
+          "url": "https://finnhub.io/api/news?id=9ea4505ff1d7649d01af239e59059fbba0c7c46bce7fb1a9e177052651450169"
         },
         {
-          "headline": "Nebius Stock Slips as Analysts Trim Targets",
-          "url": "https://finnhub.io/api/news?id=a5b0979e8d5097cd6f259cfd5a2590f4fff6d7938ad64ae6ba200ab92d3d39cf"
-        }
-      ]
-    },
-    {
-      "symbol": "AMD",
-      "pct": -8.75,
-      "price": 534.06,
-      "news": [
-        {
-          "headline": "Nvidia Scandal is Poking Real Holes in the AI Trade. But That Doesn\u2019t Mean it\u2019s Over.",
-          "url": "https://finnhub.io/api/news?id=a4f047fc1f07ea55b5f11427adca1678fa58806eac747751e163349380c340f1"
-        },
-        {
-          "headline": "Investing.com\u2019s stocks of the week",
-          "url": "https://finnhub.io/api/news?id=eb7f0665c0be2452810f12d0bb2a0eccaecfe41d1fc74a3f2ff6994ddca2d286"
+          "headline": "A $1.2 Billion Fund Dumps These 3 Stocks",
+          "url": "https://finnhub.io/api/news?id=99a0ebba2c9d2f74bcfd79db6d8c992dac5d10274755272730154c1d94973d67"
         }
       ]
     },
     {
       "symbol": "SNDK",
-      "pct": -5.59,
-      "price": 885.01,
+      "pct": -8.58,
+      "price": 809.11,
       "news": [
         {
-          "headline": "Chart of the Day: Sandisk Stock Looks Ready to Bounce Back",
-          "url": "https://finnhub.io/api/news?id=592f39abc7118c9d59891fd0acfcb0fc8ab4dc39d393e37cbdbb769fdbd05c21"
+          "headline": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
+          "url": "https://finnhub.io/api/news?id=9d69eb8cc3c70514d7956824dc630020f4d0e257213370155ca3bcf983c511ac"
         },
         {
-          "headline": "Why Sandisk Stock Is Falling Today",
-          "url": "https://finnhub.io/api/news?id=c37d0ad257cb022f661da3b5a039b9dc953572dcd910a4627806f3cd824d2991"
+          "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+          "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9"
         }
       ]
     },
     {
-      "symbol": "TER",
-      "pct": -5.38,
-      "price": 249.55,
+      "symbol": "LITE",
+      "pct": -8.48,
+      "price": 546,
       "news": [
         {
-          "headline": "Teradyne Benefits From Strong Test Demand: Can It Beat KLAC & COHU?",
-          "url": "https://finnhub.io/api/news?id=e85223acf0d69d1a1d6eee1afb2e13888a92e895bfbd20fc2a83e43b294a1e92"
+          "headline": "S&P 500 Tumbles 1.9%. It\u2019s Not Just AI.",
+          "url": "https://finnhub.io/api/news?id=9d69eb8cc3c70514d7956824dc630020f4d0e257213370155ca3bcf983c511ac"
         },
         {
-          "headline": "CBRS Q3 Earnings Beat Estimates, Revenues Rise on Strong Cloud Growth",
-          "url": "https://finnhub.io/api/news?id=3d3fbaba2883ffa0b912c505ef1cef9b6ecda6ea6dc68a1a44315b3ffc8cba9f"
+          "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+          "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9"
         }
       ]
     },
     {
-      "symbol": "AVGO",
-      "pct": -4.76,
-      "price": 347.01,
+      "symbol": "ARM",
+      "pct": -8.12,
+      "price": 175.05,
       "news": [
         {
-          "headline": "Nvidia Scandal is Poking Real Holes in the AI Trade. But That Doesn\u2019t Mean it\u2019s Over.",
-          "url": "https://finnhub.io/api/news?id=a4f047fc1f07ea55b5f11427adca1678fa58806eac747751e163349380c340f1"
+          "headline": "Why Arm Holdings Plunged Today",
+          "url": "https://finnhub.io/api/news?id=b2f76cbfdc0ca0c4d66a4703bd8f68c17bf2ebc9f7eba0d64e4c706885747327"
         },
         {
-          "headline": "Investing.com\u2019s stocks of the week",
-          "url": "https://finnhub.io/api/news?id=eb7f0665c0be2452810f12d0bb2a0eccaecfe41d1fc74a3f2ff6994ddca2d286"
+          "headline": "Arm Stocks Slide 6.72% as Nvidia CEO Search Keeps Rene Haas in Focus",
+          "url": "https://finnhub.io/api/news?id=633c8270864934076fad96a0bc394efaed83d27591590b02481cda157000fdbb"
         }
       ]
     },
     {
-      "symbol": "MRVL",
-      "pct": -4.68,
-      "price": 156.76,
+      "symbol": "MU",
+      "pct": -7.62,
+      "price": 719.02,
       "news": [
         {
-          "headline": "Marvell Is Still Up 81% This Year. Can MRVL Stock Hit $300 by 2029?",
-          "url": "https://finnhub.io/api/news?id=286e904a40aa79cfed3a7da4161b7d729afbd57606cb0dc5a9ab0c3c796a3db9"
+          "headline": "What's dragging down the S&P 500? Apple in focus",
+          "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f"
         },
         {
-          "headline": "NVIDIA Is Now Down 30% in a Month: Bessent Asks Whether NVIDIA Knew Its Clients, Dan Ives Says Huang Was Worth $1 Trillion",
-          "url": "https://finnhub.io/api/news?id=d17b9353b01a34723653110edfcc8e8aff65adfb98f5c745a26b4aa25575c76e"
+          "headline": "Direxion and Anthony Pompliano's Silvia Join Forces to Help Investors Rethink Income",
+          "url": "https://finnhub.io/api/news?id=a3f5087a794d25eefb10fe2b9ebe7ba696b273ee8307192ea6f0aa85c8ed468f"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -7.55,
+      "price": 107.13,
+      "news": [
+        {
+          "headline": "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
+          "url": "https://finnhub.io/api/news?id=3dea76cc860ce05190f5d004c1ebf08bfcb6af058b484295a33656a16508f9c5"
+        },
+        {
+          "headline": "Jensen Leaves Void at Nvidia Ahead of Earnings, What's Next?",
+          "url": "https://finnhub.io/api/news?id=3d76baa595122f3e2a7dc4a5c804f3a03ad846176365e76a5073a6a5598e7c89"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": 0.39,
-      "price": 356.27
+      "pct": -0.98,
+      "price": 352.78
     },
     "MSFT": {
-      "pct": 0.17,
-      "price": 523.88
+      "pct": -1.12,
+      "price": 517.99
     },
     "GOOG": {
-      "pct": -0.96,
-      "price": 292.52
+      "pct": -3.85,
+      "price": 281.26
     },
     "NFLX": {
-      "pct": -0.86,
-      "price": 62.15
+      "pct": -2.25,
+      "price": 60.75
     },
     "TSLA": {
-      "pct": -1.82,
-      "price": 390.22
+      "pct": -2.69,
+      "price": 379.74
     },
     "NVDA": {
-      "pct": -2.01,
-      "price": 162.85
+      "pct": -4.12,
+      "price": 156.14
     },
     "AMD": {
-      "pct": -8.75,
-      "price": 534.06
+      "pct": -5.58,
+      "price": 504.28
     },
     "AVGO": {
-      "pct": -4.76,
-      "price": 347.01
+      "pct": -3.92,
+      "price": 333.4
     },
     "MU": {
-      "pct": -2.52,
-      "price": 778.31
+      "pct": -7.62,
+      "price": 719.02
     },
     "INTC": {
-      "pct": -2.52,
-      "price": 59.66
+      "pct": -7.02,
+      "price": 55.47
     },
     "MRVL": {
-      "pct": -4.68,
-      "price": 156.76
+      "pct": -7.27,
+      "price": 145.36
     },
     "ARM": {
-      "pct": -4.63,
-      "price": 190.53
+      "pct": -8.12,
+      "price": 175.05
     },
     "QCOM": {
-      "pct": -2.64,
-      "price": 172.47
+      "pct": -2.29,
+      "price": 168.52
     },
     "ALAB": {
-      "pct": -2.62,
-      "price": 221.83
+      "pct": -8.79,
+      "price": 202.34
     },
     "LITE": {
-      "pct": -4.49,
-      "price": 596.62
+      "pct": -8.48,
+      "price": 546
     },
     "TER": {
-      "pct": -5.38,
-      "price": 249.55
+      "pct": -7.07,
+      "price": 231.9
     },
     "SNDK": {
-      "pct": -5.59,
-      "price": 885.01
+      "pct": -8.58,
+      "price": 809.11
     },
     "DRAM": {
-      "pct": -2.89,
-      "price": 42.4
+      "pct": -7.38,
+      "price": 39.27
     },
     "NOK": {
-      "pct": -2.54,
-      "price": 8.07
+      "pct": -4.71,
+      "price": 7.69
     },
     "PLTR": {
-      "pct": -2.09,
-      "price": 167.99
+      "pct": -4.52,
+      "price": 160.39
     },
     "ANET": {
-      "pct": -4.52,
-      "price": 197.29
+      "pct": -5.21,
+      "price": 187.02
     },
     "NBIS": {
-      "pct": -9.92,
-      "price": 115.88
+      "pct": -7.55,
+      "price": 107.13
     },
     "SNOW": {
-      "pct": -2.58,
-      "price": 291
+      "pct": -3.59,
+      "price": 280.54
     },
     "FIG": {
-      "pct": 2.8,
-      "price": 19.45
+      "pct": -0.21,
+      "price": 19.41
     },
     "UMAC": {
-      "pct": -4.65,
-      "price": 11.28
+      "pct": -6.12,
+      "price": 10.59
     },
     "RVI": {
-      "pct": -0.43,
-      "price": 20.96
+      "pct": -3.72,
+      "price": 20.18
     },
     "ROBO": {
-      "pct": -1.12,
-      "price": 72.11
+      "pct": -3.9,
+      "price": 69.3
     }
   },
   "no_data": [],
-  "usd_cad": 1.4258
+  "usd_cad": 1.4285
 }
