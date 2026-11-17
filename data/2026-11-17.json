@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-11-17T23:02:10+00:00",
+  "tone": {
+    "SPY": -1.01,
+    "QQQ": -0.73
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "FIG",
+      "pct": -6.34,
+      "price": 18.18,
+      "news": []
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -5.19,
+      "price": 10.04,
+      "news": [
+        {
+          "headline": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
+          "url": "https://finnhub.io/api/news?id=16a6539694c84452554f17cd4e15262d98a0a78405974b2cddfd8f2c1d4b248c"
+        }
+      ]
+    },
+    {
+      "symbol": "ARM",
+      "pct": 4.76,
+      "price": 183.39,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow Slides Ahead Of Retail Sales; Nvidia Rises With Earnings Report On Tap (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=925cd36377e0b788d5493604a7c322b8108f4a3c63fbd0fc5603e0f825798a2b"
+        },
+        {
+          "headline": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
+          "url": "https://finnhub.io/api/news?id=98bd1da0340a11a61eb3fe8478338cf0c21432f177dbc8b6be3d482f9585975b"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": 4.58,
+      "price": 211.6,
+      "news": [
+        {
+          "headline": "An $11 Billion Fund Dumps These 2 Stocks",
+          "url": "https://finnhub.io/api/news?id=a74451b417eab59072afe7638fc5034228127242c34f14b40c171552c00dbf2c"
+        },
+        {
+          "headline": "Wall Street Is Watching Nvidia. This AI Stock Deserves Attention Too",
+          "url": "https://finnhub.io/api/news?id=adee5e9c58ae2ecc95b9e4120639b66482f54d772032b71a43c35b186b53339d"
+        }
+      ]
+    },
+    {
+      "symbol": "SNOW",
+      "pct": -2.71,
+      "price": 272.94,
+      "news": [
+        {
+          "headline": "Snowflake: Another Beat Is Likely, But Priced In",
+          "url": "https://finnhub.io/api/news?id=645dece133fee76f81d6a090cdf094c9e060ef0c2cb06de8a411e9046f18554c"
+        },
+        {
+          "headline": "BTIG Reiterates Buy on Snowflake, Maintains $424 Price Target",
+          "url": "https://finnhub.io/api/news?id=f63e765764fb6cb200cd0bf362d2fc792cd819a9936ef33938ca16a98cbe72df"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": 2.56,
+      "price": 559.97,
+      "news": [
+        {
+          "headline": "5 Highest Short Interest Large-Cap Tech Stocks Right Now",
+          "url": "https://finnhub.io/api/news?id=7fda2807602b26097386564d98b38919de7c514f7317ab094364534e330cea05"
+        },
+        {
+          "headline": "A $7.2 Billion Fund Dumps These 3 Stocks",
+          "url": "https://finnhub.io/api/news?id=9d509202db8a1ea2abaf4513bd0449d96344cd9c235ae746640676f337694ae6"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -0.25,
+      "price": 351.91
+    },
+    "MSFT": {
+      "pct": -2.27,
+      "price": 506.24
+    },
+    "GOOG": {
+      "pct": -1.3,
+      "price": 277.6
+    },
+    "NFLX": {
+      "pct": -1.76,
+      "price": 59.68
+    },
+    "TSLA": {
+      "pct": 0.1,
+      "price": 380.11
+    },
+    "NVDA": {
+      "pct": -0.44,
+      "price": 155.46
+    },
+    "AMD": {
+      "pct": -0.17,
+      "price": 503.41
+    },
+    "AVGO": {
+      "pct": 2.46,
+      "price": 341.6
+    },
+    "MU": {
+      "pct": -0.92,
+      "price": 712.42
+    },
+    "INTC": {
+      "pct": -0.54,
+      "price": 55.17
+    },
+    "MRVL": {
+      "pct": 2.33,
+      "price": 148.74
+    },
+    "ARM": {
+      "pct": 4.76,
+      "price": 183.39
+    },
+    "QCOM": {
+      "pct": -1.1,
+      "price": 166.67
+    },
+    "ALAB": {
+      "pct": 4.58,
+      "price": 211.6
+    },
+    "LITE": {
+      "pct": 2.56,
+      "price": 559.97
+    },
+    "TER": {
+      "pct": 0.98,
+      "price": 234.18
+    },
+    "SNDK": {
+      "pct": -1.47,
+      "price": 797.24
+    },
+    "DRAM": {
+      "pct": -0.87,
+      "price": 38.93
+    },
+    "NOK": {
+      "pct": -1.3,
+      "price": 7.59
+    },
+    "PLTR": {
+      "pct": -2.39,
+      "price": 156.56
+    },
+    "ANET": {
+      "pct": -0.32,
+      "price": 186.42
+    },
+    "NBIS": {
+      "pct": -1.02,
+      "price": 106.03
+    },
+    "SNOW": {
+      "pct": -2.71,
+      "price": 272.94
+    },
+    "FIG": {
+      "pct": -6.34,
+      "price": 18.18
+    },
+    "UMAC": {
+      "pct": -5.19,
+      "price": 10.04
+    },
+    "RVI": {
+      "pct": -0.69,
+      "price": 20.04
+    },
+    "ROBO": {
+      "pct": -1.24,
+      "price": 68.44
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4291
+}
