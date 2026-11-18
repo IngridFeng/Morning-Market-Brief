@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-11-18T22:39:12+00:00",
+  "tone": {
+    "SPY": -0.31,
+    "QQQ": 0.39
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "AMD",
+      "pct": 5.31,
+      "price": 530.14,
+      "news": [
+        {
+          "headline": "Anthropic Is Eyeing Pricing Its IPO As High As $85 Per Share: Report",
+          "url": "https://finnhub.io/api/news?id=e3bfc8c33de320f9eeefbdc24d2a6e6b835f97ecdf5b1bad7348e7a5909f3e0b"
+        },
+        {
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
+        }
+      ]
+    },
+    {
+      "symbol": "FIG",
+      "pct": -4.68,
+      "price": 17.33,
+      "news": []
+    },
+    {
+      "symbol": "UMAC",
+      "pct": -4.28,
+      "price": 9.61,
+      "news": [
+        {
+          "headline": "Ondas Is Building a Defense Growth Engine, But Can It Deliver on Its Backlog?",
+          "url": "https://finnhub.io/api/news?id=f980071a2edd7df7e3497b0ffdab6137a43ccccc21537cde15d53c0de8f74931"
+        },
+        {
+          "headline": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
+          "url": "https://finnhub.io/api/news?id=16a6539694c84452554f17cd4e15262d98a0a78405974b2cddfd8f2c1d4b248c"
+        }
+      ]
+    },
+    {
+      "symbol": "QCOM",
+      "pct": -4.12,
+      "price": 159.81,
+      "news": [
+        {
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
+        },
+        {
+          "headline": "How Much Upside Is Left In Micron Stock?",
+          "url": "https://finnhub.io/api/news?id=dd2d5f0be61142f36353c00ef63693634cf8d2706e00079667b16725cd70d541"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": 4.03,
+      "price": 193.94,
+      "news": [
+        {
+          "headline": "3 AI Stocks With Revenue Growth Up To 26%",
+          "url": "https://finnhub.io/api/news?id=0cd6744a30dbc68d637bb2581bcb669f9fda79f3cb7fea00c5123686e4fa3cc9"
+        },
+        {
+          "headline": "Citi Bank Slashes Dell And HPE Price Targets Ahead Of Earnings",
+          "url": "https://finnhub.io/api/news?id=1a0d5c2014a84958244c28ab2d422373a357dc7ea1980a3487c4212c93941bc8"
+        }
+      ]
+    },
+    {
+      "symbol": "AVGO",
+      "pct": 3.64,
+      "price": 354.05,
+      "news": [
+        {
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
+        },
+        {
+          "headline": "Amazon and Google Have a Stake",
+          "url": "https://finnhub.io/api/news?id=8b2145bf38a6664ab367dc2a40b3ffedb16c8864f3c997df8c898995e5e4dd7b"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.15,
+      "price": 352.45
+    },
+    "MSFT": {
+      "pct": 0.4,
+      "price": 508.29
+    },
+    "GOOG": {
+      "pct": 0.58,
+      "price": 279.2
+    },
+    "NFLX": {
+      "pct": 0.23,
+      "price": 59.82
+    },
+    "TSLA": {
+      "pct": 0.95,
+      "price": 383.72
+    },
+    "NVDA": {
+      "pct": -2.89,
+      "price": 150.96
+    },
+    "AMD": {
+      "pct": 5.31,
+      "price": 530.14
+    },
+    "AVGO": {
+      "pct": 3.64,
+      "price": 354.05
+    },
+    "MU": {
+      "pct": -1.0,
+      "price": 705.27
+    },
+    "INTC": {
+      "pct": -0.91,
+      "price": 54.67
+    },
+    "MRVL": {
+      "pct": -2.15,
+      "price": 145.54
+    },
+    "ARM": {
+      "pct": -0.34,
+      "price": 182.76
+    },
+    "QCOM": {
+      "pct": -4.12,
+      "price": 159.81
+    },
+    "ALAB": {
+      "pct": 2.43,
+      "price": 216.75
+    },
+    "LITE": {
+      "pct": -1.59,
+      "price": 551.07
+    },
+    "TER": {
+      "pct": 0.44,
+      "price": 235.21
+    },
+    "SNDK": {
+      "pct": -2.64,
+      "price": 776.22
+    },
+    "DRAM": {
+      "pct": 0.57,
+      "price": 39.15
+    },
+    "NOK": {
+      "pct": 0,
+      "price": 7.59
+    },
+    "PLTR": {
+      "pct": 0.07,
+      "price": 156.67
+    },
+    "ANET": {
+      "pct": 4.03,
+      "price": 193.94
+    },
+    "NBIS": {
+      "pct": 0.87,
+      "price": 106.96
+    },
+    "SNOW": {
+      "pct": 2.45,
+      "price": 279.62
+    },
+    "FIG": {
+      "pct": -4.68,
+      "price": 17.33
+    },
+    "UMAC": {
+      "pct": -4.28,
+      "price": 9.61
+    },
+    "RVI": {
+      "pct": -0.05,
+      "price": 20.03
+    },
+    "ROBO": {
+      "pct": 0.12,
+      "price": 68.52
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4305
+}

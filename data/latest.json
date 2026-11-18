@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T23:02:10+00:00",
+  "generated_at": "2026-11-18T22:39:12+00:00",
   "tone": {
-    "SPY": -1.01,
-    "QQQ": -0.73
+    "SPY": -0.31,
+    "QQQ": 0.39
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,16 +10,35 @@
   },
   "movers_ranked": [
     {
+      "symbol": "AMD",
+      "pct": 5.31,
+      "price": 530.14,
+      "news": [
+        {
+          "headline": "Anthropic Is Eyeing Pricing Its IPO As High As $85 Per Share: Report",
+          "url": "https://finnhub.io/api/news?id=e3bfc8c33de320f9eeefbdc24d2a6e6b835f97ecdf5b1bad7348e7a5909f3e0b"
+        },
+        {
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
+        }
+      ]
+    },
+    {
       "symbol": "FIG",
-      "pct": -6.34,
-      "price": 18.18,
+      "pct": -4.68,
+      "price": 17.33,
       "news": []
     },
     {
       "symbol": "UMAC",
-      "pct": -5.19,
-      "price": 10.04,
+      "pct": -4.28,
+      "price": 9.61,
       "news": [
+        {
+          "headline": "Ondas Is Building a Defense Growth Engine, But Can It Deliver on Its Backlog?",
+          "url": "https://finnhub.io/api/news?id=f980071a2edd7df7e3497b0ffdab6137a43ccccc21537cde15d53c0de8f74931"
+        },
         {
           "headline": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses; Red Cat Drops 5%, Unusual Machines Slides 4%",
           "url": "https://finnhub.io/api/news?id=16a6539694c84452554f17cd4e15262d98a0a78405974b2cddfd8f2c1d4b248c"
@@ -27,176 +46,161 @@
       ]
     },
     {
-      "symbol": "ARM",
-      "pct": 4.76,
-      "price": 183.39,
+      "symbol": "QCOM",
+      "pct": -4.12,
+      "price": 159.81,
       "news": [
         {
-          "headline": "Stock Market Today: Dow Slides Ahead Of Retail Sales; Nvidia Rises With Earnings Report On Tap (Live Coverage)",
-          "url": "https://finnhub.io/api/news?id=925cd36377e0b788d5493604a7c322b8108f4a3c63fbd0fc5603e0f825798a2b"
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
         },
         {
-          "headline": "Nvidia taps Heidrick & Struggles to lead CEO search, WSJ reports",
-          "url": "https://finnhub.io/api/news?id=98bd1da0340a11a61eb3fe8478338cf0c21432f177dbc8b6be3d482f9585975b"
+          "headline": "How Much Upside Is Left In Micron Stock?",
+          "url": "https://finnhub.io/api/news?id=dd2d5f0be61142f36353c00ef63693634cf8d2706e00079667b16725cd70d541"
         }
       ]
     },
     {
-      "symbol": "ALAB",
-      "pct": 4.58,
-      "price": 211.6,
+      "symbol": "ANET",
+      "pct": 4.03,
+      "price": 193.94,
       "news": [
         {
-          "headline": "An $11 Billion Fund Dumps These 2 Stocks",
-          "url": "https://finnhub.io/api/news?id=a74451b417eab59072afe7638fc5034228127242c34f14b40c171552c00dbf2c"
+          "headline": "3 AI Stocks With Revenue Growth Up To 26%",
+          "url": "https://finnhub.io/api/news?id=0cd6744a30dbc68d637bb2581bcb669f9fda79f3cb7fea00c5123686e4fa3cc9"
         },
         {
-          "headline": "Wall Street Is Watching Nvidia. This AI Stock Deserves Attention Too",
-          "url": "https://finnhub.io/api/news?id=adee5e9c58ae2ecc95b9e4120639b66482f54d772032b71a43c35b186b53339d"
+          "headline": "Citi Bank Slashes Dell And HPE Price Targets Ahead Of Earnings",
+          "url": "https://finnhub.io/api/news?id=1a0d5c2014a84958244c28ab2d422373a357dc7ea1980a3487c4212c93941bc8"
         }
       ]
     },
     {
-      "symbol": "SNOW",
-      "pct": -2.71,
-      "price": 272.94,
+      "symbol": "AVGO",
+      "pct": 3.64,
+      "price": 354.05,
       "news": [
         {
-          "headline": "Snowflake: Another Beat Is Likely, But Priced In",
-          "url": "https://finnhub.io/api/news?id=645dece133fee76f81d6a090cdf094c9e060ef0c2cb06de8a411e9046f18554c"
+          "headline": "Marvell And Intel Halved: How Long Until They Recover?",
+          "url": "https://finnhub.io/api/news?id=f420c4766f645ef3812eddd29f56178e64b96e1bce97e43554b503dc5976abf8"
         },
         {
-          "headline": "BTIG Reiterates Buy on Snowflake, Maintains $424 Price Target",
-          "url": "https://finnhub.io/api/news?id=f63e765764fb6cb200cd0bf362d2fc792cd819a9936ef33938ca16a98cbe72df"
-        }
-      ]
-    },
-    {
-      "symbol": "LITE",
-      "pct": 2.56,
-      "price": 559.97,
-      "news": [
-        {
-          "headline": "5 Highest Short Interest Large-Cap Tech Stocks Right Now",
-          "url": "https://finnhub.io/api/news?id=7fda2807602b26097386564d98b38919de7c514f7317ab094364534e330cea05"
-        },
-        {
-          "headline": "A $7.2 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finnhub.io/api/news?id=9d509202db8a1ea2abaf4513bd0449d96344cd9c235ae746640676f337694ae6"
+          "headline": "Amazon and Google Have a Stake",
+          "url": "https://finnhub.io/api/news?id=8b2145bf38a6664ab367dc2a40b3ffedb16c8864f3c997df8c898995e5e4dd7b"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -0.25,
-      "price": 351.91
+      "pct": 0.15,
+      "price": 352.45
     },
     "MSFT": {
-      "pct": -2.27,
-      "price": 506.24
+      "pct": 0.4,
+      "price": 508.29
     },
     "GOOG": {
-      "pct": -1.3,
-      "price": 277.6
+      "pct": 0.58,
+      "price": 279.2
     },
     "NFLX": {
-      "pct": -1.76,
-      "price": 59.68
+      "pct": 0.23,
+      "price": 59.82
     },
     "TSLA": {
-      "pct": 0.1,
-      "price": 380.11
+      "pct": 0.95,
+      "price": 383.72
     },
     "NVDA": {
-      "pct": -0.44,
-      "price": 155.46
+      "pct": -2.89,
+      "price": 150.96
     },
     "AMD": {
-      "pct": -0.17,
-      "price": 503.41
+      "pct": 5.31,
+      "price": 530.14
     },
     "AVGO": {
-      "pct": 2.46,
-      "price": 341.6
+      "pct": 3.64,
+      "price": 354.05
     },
     "MU": {
-      "pct": -0.92,
-      "price": 712.42
+      "pct": -1.0,
+      "price": 705.27
     },
     "INTC": {
-      "pct": -0.54,
-      "price": 55.17
+      "pct": -0.91,
+      "price": 54.67
     },
     "MRVL": {
-      "pct": 2.33,
-      "price": 148.74
+      "pct": -2.15,
+      "price": 145.54
     },
     "ARM": {
-      "pct": 4.76,
-      "price": 183.39
+      "pct": -0.34,
+      "price": 182.76
     },
     "QCOM": {
-      "pct": -1.1,
-      "price": 166.67
+      "pct": -4.12,
+      "price": 159.81
     },
     "ALAB": {
-      "pct": 4.58,
-      "price": 211.6
+      "pct": 2.43,
+      "price": 216.75
     },
     "LITE": {
-      "pct": 2.56,
-      "price": 559.97
+      "pct": -1.59,
+      "price": 551.07
     },
     "TER": {
-      "pct": 0.98,
-      "price": 234.18
+      "pct": 0.44,
+      "price": 235.21
     },
     "SNDK": {
-      "pct": -1.47,
-      "price": 797.24
+      "pct": -2.64,
+      "price": 776.22
     },
     "DRAM": {
-      "pct": -0.87,
-      "price": 38.93
+      "pct": 0.57,
+      "price": 39.15
     },
     "NOK": {
-      "pct": -1.3,
+      "pct": 0,
       "price": 7.59
     },
     "PLTR": {
-      "pct": -2.39,
-      "price": 156.56
+      "pct": 0.07,
+      "price": 156.67
     },
     "ANET": {
-      "pct": -0.32,
-      "price": 186.42
+      "pct": 4.03,
+      "price": 193.94
     },
     "NBIS": {
-      "pct": -1.02,
-      "price": 106.03
+      "pct": 0.87,
+      "price": 106.96
     },
     "SNOW": {
-      "pct": -2.71,
-      "price": 272.94
+      "pct": 2.45,
+      "price": 279.62
     },
     "FIG": {
-      "pct": -6.34,
-      "price": 18.18
+      "pct": -4.68,
+      "price": 17.33
     },
     "UMAC": {
-      "pct": -5.19,
-      "price": 10.04
+      "pct": -4.28,
+      "price": 9.61
     },
     "RVI": {
-      "pct": -0.69,
-      "price": 20.04
+      "pct": -0.05,
+      "price": 20.03
     },
     "ROBO": {
-      "pct": -1.24,
-      "price": 68.44
+      "pct": 0.12,
+      "price": 68.52
     }
   },
   "no_data": [],
-  "usd_cad": 1.4291
+  "usd_cad": 1.4305
 }
