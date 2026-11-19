@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-19T22:43:20+00:00",
+  "tone": {
+    "SPY": -1.96,
+    "QQQ": -2.19
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NBIS",
+      "pct": -9.39,
+      "price": 96.92,
+      "news": [
+        {
+          "headline": "CoreWeave Just Dropped 25% in a Month. Will CRWV Stock Hit $40 or $50 First?",
+          "url": "https://finnhub.io/api/news?id=5c91a975fae6b5215f1023d67c2a2f1fc1381cf94d8e9d49713703d227a2bc60"
+        },
+        {
+          "headline": "Nebius Group (NBIS) Cuts 2026 Outlook So Is The Selloff A Buying Opportunity",
+          "url": "https://finnhub.io/api/news?id=f9cc7cff182bbab2e2c5f84842a28400cc6c332cdcba733496c6e6d7cc349b5a"
+        }
+      ]
+    },
+    {
+      "symbol": "AMD",
+      "pct": -7.72,
+      "price": 489.19,
+      "news": [
+        {
+          "headline": "Dow Jones Futures Fall After Ugly Market Reversal To New Lows; Anthropic IPO Debuts, AMD Dives",
+          "url": "https://finnhub.io/api/news?id=69bbf58b91dbdb01dff38a7d669d331425154da8f5881991f205ab376c7c0be3"
+        },
+        {
+          "headline": "Anthropic, AMD, Alphabet, Palo Alto, Take-Two, Walmart, and More Stocks That Explain Today\u2019s Market",
+          "url": "https://finnhub.io/api/news?id=95b7d457c2f06088bbba42d7f818bf650bbf4afb8c98db8ab1e3103814fb6d5e"
+        }
+      ]
+    },
+    {
+      "symbol": "FIG",
+      "pct": -6.17,
+      "price": 16.26,
+      "news": [
+        {
+          "headline": "Bell Cyber And Radware Announced The Expansion Of Their Partnership With An Enhanced Ai-driven, Cloud\u2011delivered Security Service Designed To Help Organizations Defend Against Increasingly Automated And Sophisticated Cyberattacks",
+          "url": "https://finnhub.io/api/news?id=c9749e22bdbc424443970f71eb4ba539330e63f89459faf3e519bb5c2b5d034a"
+        },
+        {
+          "headline": "Datadog vs. Figma: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finnhub.io/api/news?id=6a3fcd23ca2226beaf61c567b9d71a03dba189e0ba0d28f51fa724a4fac67952"
+        }
+      ]
+    },
+    {
+      "symbol": "UMAC",
+      "pct": 5.62,
+      "price": 10.15,
+      "news": [
+        {
+          "headline": "5 Best Drone Stocks to Buy According to Wall Street Analysts",
+          "url": "https://finnhub.io/api/news?id=2ce468944c0bdd211094caa8db014dc321c71de236c356df5bde05a7f72c5d34"
+        },
+        {
+          "headline": "Red Cat Falls 6% as Post-Earnings Selloff Extends; Unusual Machines Slides 3%, AeroVironment Drops 2%",
+          "url": "https://finnhub.io/api/news?id=670abb28597a0035a9ae63a9057ce2437995f69c4582e1465a44457916f400b5"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": -4.86,
+      "price": 138.47,
+      "news": [
+        {
+          "headline": "Lumentum\u2019s sales surged 137%\u2014so why is its stock crashing?",
+          "url": "https://finnhub.io/api/news?id=c4eececc499cf014ee3a60cd7aab2f64fa008224806aa2f6263401c45c887c5d"
+        },
+        {
+          "headline": "Marvell Stock Halved Again. What Does Its Cash Say?",
+          "url": "https://finnhub.io/api/news?id=f3322dde19d40e487f107591348708021fa0d0a87d295e32e3ef8be40eb1beb7"
+        }
+      ]
+    },
+    {
+      "symbol": "SNOW",
+      "pct": -3.94,
+      "price": 268.59,
+      "news": [
+        {
+          "headline": "Atlassian Looks Cheap Until You Count Stock Pay",
+          "url": "https://finnhub.io/api/news?id=256abb2fb5b8218a01c58dcc6e45e6ccdd8ebfd4062db86eaecb4629d0ae0132"
+        },
+        {
+          "headline": "Could Anthropic Stock Fall 25%?",
+          "url": "https://finnhub.io/api/news?id=b696fcf8d3d10af5f10ca1ed1ed2389b0b007ae78738aa637e1e6adb57291bef"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": -0.92,
+      "price": 349.21
+    },
+    "MSFT": {
+      "pct": -1.97,
+      "price": 498.3
+    },
+    "GOOG": {
+      "pct": -2.93,
+      "price": 271.02
+    },
+    "NFLX": {
+      "pct": -2.27,
+      "price": 58.46
+    },
+    "TSLA": {
+      "pct": -2.43,
+      "price": 374.41
+    },
+    "NVDA": {
+      "pct": -3.3,
+      "price": 145.98
+    },
+    "AMD": {
+      "pct": -7.72,
+      "price": 489.19
+    },
+    "AVGO": {
+      "pct": -2.09,
+      "price": 346.65
+    },
+    "MU": {
+      "pct": -2.1,
+      "price": 690.44
+    },
+    "INTC": {
+      "pct": 1.92,
+      "price": 55.72
+    },
+    "MRVL": {
+      "pct": -4.86,
+      "price": 138.47
+    },
+    "ARM": {
+      "pct": -3.06,
+      "price": 177.17
+    },
+    "QCOM": {
+      "pct": 1.38,
+      "price": 162.01
+    },
+    "ALAB": {
+      "pct": -2.38,
+      "price": 211.6
+    },
+    "LITE": {
+      "pct": -2.89,
+      "price": 535.15
+    },
+    "TER": {
+      "pct": -3.31,
+      "price": 227.43
+    },
+    "SNDK": {
+      "pct": -2.71,
+      "price": 755.16
+    },
+    "DRAM": {
+      "pct": -1.84,
+      "price": 38.43
+    },
+    "NOK": {
+      "pct": -1.19,
+      "price": 7.5
+    },
+    "PLTR": {
+      "pct": -1.91,
+      "price": 153.68
+    },
+    "ANET": {
+      "pct": -2.24,
+      "price": 189.59
+    },
+    "NBIS": {
+      "pct": -9.39,
+      "price": 96.92
+    },
+    "SNOW": {
+      "pct": -3.94,
+      "price": 268.59
+    },
+    "FIG": {
+      "pct": -6.17,
+      "price": 16.26
+    },
+    "UMAC": {
+      "pct": 5.62,
+      "price": 10.15
+    },
+    "RVI": {
+      "pct": -2.0,
+      "price": 19.63
+    },
+    "ROBO": {
+      "pct": -2.09,
+      "price": 67.09
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.43
+}
