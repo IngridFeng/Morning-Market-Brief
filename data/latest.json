@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T22:17:10+00:00",
+  "generated_at": "2026-11-24T02:27:02+00:00",
   "tone": {
-    "SPY": -3.64,
-    "QQQ": -5.67
+    "SPY": 4.71,
+    "QQQ": 7.0
   },
   "tone_labels": {
     "SPY": "S&P 500",
@@ -10,206 +10,206 @@
   },
   "movers_ranked": [
     {
-      "symbol": "NBIS",
-      "pct": -16.11,
-      "price": 81.31,
+      "symbol": "NVDA",
+      "pct": 31.48,
+      "price": 165.05,
       "news": [
         {
-          "headline": "CoreWeave Stocks Fall 6.10% After Co-Founder's $30 Million Bond Bet Fails to Hold Rally",
-          "url": "https://finnhub.io/api/news?id=b1a0b72946be402af9274b92f6545c8824f310df1ab93caeaa40d80c33154f66"
+          "headline": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
+          "url": "https://finnhub.io/api/news?id=3bce5429bb3a9363fc06be3d9b52f7923fd691bb7bf44a14cf3ca0687bddca63"
         },
         {
-          "headline": "Nebius vs. SoundHound AI: Which AI Tech Stock Is a Better Buy for 2027?",
-          "url": "https://finnhub.io/api/news?id=316cb5eb04ec93c786b04625dcc3e8dad95e1b78e2aad2e3b585b877823e25f8"
-        }
-      ]
-    },
-    {
-      "symbol": "SNDK",
-      "pct": -16.05,
-      "price": 79.24,
-      "news": [
-        {
-          "headline": "Top Midday Decliners",
-          "url": "https://finnhub.io/api/news?id=2b1a1cd58b6d4ca9146a3a1ba4d5de30879adbf3f053c4a620f2348a8293c206"
-        },
-        {
-          "headline": "Sandisk\u2019s Data Center Portfolio Soars 1,700% as AI Demand Reshapes NAND Business",
-          "url": "https://finnhub.io/api/news?id=4cdf85af0d5e8d96af3cd3843a0c790e0eff057951edff344eaff9ebda56ce88"
-        }
-      ]
-    },
-    {
-      "symbol": "UMAC",
-      "pct": -14.88,
-      "price": 8.64,
-      "news": [
-        {
-          "headline": "Unusual Machines Rallies 7% on Oppenheimer\u2019s $30 Target; Red Cat Falls 7% in Extended Post-Earnings Rout, Ondas Holds Steady",
-          "url": "https://finnhub.io/api/news?id=9a1d8d2a19e10387193f958393958169139899ddc22b3484e44b793caa11c2b2"
-        },
-        {
-          "headline": "PDD Holdings, BellRing Brands, Everpure And Other Big Stocks Moving Higher On Thursday",
-          "url": "https://finnhub.io/api/news?id=354fd4350134b746aea4a8a495bf12f9f80baafa4c8a1b343657b25939a1e31e"
+          "headline": "CFO Colette Kress Just Made This Subtle Shift That Could Save Nvidia Shareholders",
+          "url": "https://finnhub.io/api/news?id=5b98bc1e5d0befb81a1afa20019f527f9c4c1ae2a59bbe84a1fd744754da2717"
         }
       ]
     },
     {
       "symbol": "ALAB",
-      "pct": -14.77,
-      "price": 180.35,
+      "pct": 23.16,
+      "price": 222.12,
       "news": [
         {
-          "headline": "An $11 Billion Fund Just Bought These 3 Stocks",
-          "url": "https://finnhub.io/api/news?id=4bdb74a45c1beafb43ca3cf5dc9acd253a7a9f27cc57d0f27ae67ab79ccbd43a"
+          "headline": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=f781a840321cfedf6a87e5387889c3ce39b0e3331e64be1fdaa5755ba26621d5"
         },
         {
-          "headline": "Credo Sinks 6%, Marvell Down 5% as Cramer Says Nvidia Woes Are \u201cOverwhelming the Good News\u201d",
-          "url": "https://finnhub.io/api/news?id=d990eaf9d0e6257337443dea3c04130b6ba394e88c87ed348821327b22346a9e"
+          "headline": "What Sent Astera Labs Stock Lower?",
+          "url": "https://finnhub.io/api/news?id=6dda12a4c54341233a2b60968a4993a7b0cfe71d3eb1aa6ec63c3975b0f055a2"
         }
       ]
     },
     {
-      "symbol": "ARM",
-      "pct": -14.09,
-      "price": 152.2,
+      "symbol": "NBIS",
+      "pct": 20.28,
+      "price": 97.8,
       "news": [
         {
-          "headline": "AMD Sinks Another 4% as Chip Rout Deepens After Short Report Flags \u201cIts Own China Problem\u201d",
-          "url": "https://finnhub.io/api/news?id=e78446ed3e08b90f1f81f5de40f0d59bb699b9e7ae57d8fc67ba956fcb98827a"
+          "headline": "SpaceX Is \u201cFollowing the Exact Same Pattern That Meta Followed\u201d After Its IPO, per Steve Jurvetson. Time to Buy?",
+          "url": "https://finnhub.io/api/news?id=b97ae1cc4562a3b91f65ffd0a6d155812e8dae909514bb651daaf15765bdb269"
         },
         {
-          "headline": "Zacks Investment Ideas feature highlights: Nasdaq, Nvidia, Advanced Micro Devices, SanDisk, Nebius Arm Holdings and Anthropic",
-          "url": "https://finnhub.io/api/news?id=dbfb6a14ee30561a26c59ef8da671f9a189277db0ec3d26f1be31212ebb8d1bb"
+          "headline": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://finnhub.io/api/news?id=de6f3f31fb962997897218f454f4a4aabecdb5ddc77f7f444d14001ce7fd0b17"
         }
       ]
     },
     {
-      "symbol": "NVDA",
-      "pct": -14.01,
-      "price": 125.53,
+      "symbol": "MU",
+      "pct": 19.04,
+      "price": 707.7,
       "news": [
         {
-          "headline": "Navitas Sinks 15%, Western Down 12%, Everpure Down 13% as AI Chip Rout Deepens",
-          "url": "https://finnhub.io/api/news?id=e575b463a0d8fb52d476dd9c255620fe722e05485e954bffcec001fc61d4ea5d"
+          "headline": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
+          "url": "https://finnhub.io/api/news?id=8a14852da62acd080567b88a490342814d127f3ca0006c7eba9ddd5299af0482"
         },
         {
-          "headline": "Frontline Ltd. Q3 2026 Earnings Call Summary",
-          "url": "https://finnhub.io/api/news?id=f1327a792cf3c52ed8e8450d3dfdab81a85939c95376f241f5eace7b5d081ee6"
+          "headline": "Own HP Stock? Memory Costs Are The Risk",
+          "url": "https://finnhub.io/api/news?id=bd9efb70c9d96d80d11a84abbd0a2b555d2288a0f65a3f3a6555630efcff5681"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 18.62,
+      "price": 39.57,
+      "news": [
+        {
+          "headline": "Indiscriminate Selling On Semiconductors Makes No Sense",
+          "url": "https://finnhub.io/api/news?id=dfde257a74a692ff74b451e04341f0d403202caa12e27b1b74d93e9957e2754e"
+        },
+        {
+          "headline": "We Had The Boom; Now Comes The Bust?",
+          "url": "https://finnhub.io/api/news?id=32830f16abcc26c7822bfd172d9c43dfb9485ad788d1153c6914a73ae8f6f5d9"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": 18.37,
+      "price": 144.74,
+      "news": [
+        {
+          "headline": "Marvell (MRVL) Stock Looks Reasonable Following Its 161% Three Year Run",
+          "url": "https://finnhub.io/api/news?id=705af8289d6e831ffe65e406d7f47107806e62151872c9820842cc746c12ab37"
+        },
+        {
+          "headline": "Why Marvell Technology Stock Crushed it Today",
+          "url": "https://finnhub.io/api/news?id=63addf0028b34c9209460ff19431c6a0e82afdd6c91d4179d9df3b49e42061e0"
         }
       ]
     }
   ],
   "watchlist": {
     "AAPL": {
-      "pct": -1.9,
-      "price": 342.56
+      "pct": 1.9,
+      "price": 349.08
     },
     "MSFT": {
-      "pct": -2.77,
-      "price": 484.52
+      "pct": 1.65,
+      "price": 492.5
     },
     "GOOG": {
-      "pct": -2.59,
-      "price": 264
+      "pct": 5.88,
+      "price": 279.53
     },
     "NFLX": {
-      "pct": -2.96,
-      "price": 56.73
+      "pct": 2.41,
+      "price": 58.1
     },
     "TSLA": {
-      "pct": -7.64,
-      "price": 345.82
+      "pct": 11.46,
+      "price": 385.46
     },
     "NVDA": {
-      "pct": -14.01,
-      "price": 125.53
+      "pct": 31.48,
+      "price": 165.05
     },
     "AMD": {
-      "pct": -13.25,
-      "price": 424.39
+      "pct": 6.85,
+      "price": 453.46
     },
     "AVGO": {
-      "pct": -12.19,
-      "price": 304.41
+      "pct": 3.0,
+      "price": 313.55
     },
     "MU": {
-      "pct": -13.89,
-      "price": 594.51
+      "pct": 19.04,
+      "price": 707.7
     },
     "INTC": {
-      "pct": -7.97,
-      "price": 51.28
+      "pct": 16.34,
+      "price": 59.66
     },
     "MRVL": {
-      "pct": -11.69,
-      "price": 122.28
+      "pct": 18.37,
+      "price": 144.74
     },
     "ARM": {
-      "pct": -14.09,
-      "price": 152.2
+      "pct": 16.08,
+      "price": 176.67
     },
     "QCOM": {
-      "pct": -7.45,
-      "price": 149.94
+      "pct": 10.3,
+      "price": 165.38
     },
     "ALAB": {
-      "pct": -14.77,
-      "price": 180.35
+      "pct": 23.16,
+      "price": 222.12
     },
     "LITE": {
-      "pct": -13.94,
-      "price": 460.54
+      "pct": 18.2,
+      "price": 544.38
     },
     "TER": {
-      "pct": -9.96,
-      "price": 204.78
+      "pct": 14.03,
+      "price": 233.51
     },
     "SNDK": {
-      "pct": -16.05,
-      "price": 79.24
+      "pct": 10.69,
+      "price": 87.71
     },
     "DRAM": {
-      "pct": -13.19,
-      "price": 33.36
+      "pct": 18.62,
+      "price": 39.57
     },
     "NOK": {
-      "pct": -8.27,
-      "price": 6.88
+      "pct": 9.74,
+      "price": 7.55
     },
     "PLTR": {
-      "pct": -6.63,
-      "price": 143.49
+      "pct": 11.06,
+      "price": 159.36
     },
     "ANET": {
-      "pct": -11.59,
-      "price": 167.62
+      "pct": 6.38,
+      "price": 178.31
     },
     "NBIS": {
-      "pct": -16.11,
-      "price": 81.31
+      "pct": 20.28,
+      "price": 97.8
     },
     "SNOW": {
-      "pct": -5.13,
-      "price": 254.82
+      "pct": 6.46,
+      "price": 271.27
     },
     "FIG": {
-      "pct": -3.01,
-      "price": 15.77
+      "pct": 8.43,
+      "price": 17.1
     },
     "UMAC": {
-      "pct": -14.88,
-      "price": 8.64
+      "pct": 10.07,
+      "price": 9.51
     },
     "RVI": {
-      "pct": -6.78,
-      "price": 18.3
+      "pct": 3.28,
+      "price": 18.9
     },
     "ROBO": {
-      "pct": -6.75,
-      "price": 62.56
+      "pct": 6.63,
+      "price": 66.71
     }
   },
   "no_data": [],
-  "usd_cad": 1.4307
+  "usd_cad": 1.4362
 }

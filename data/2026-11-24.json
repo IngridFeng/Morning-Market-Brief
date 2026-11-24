@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-24T02:27:02+00:00",
+  "tone": {
+    "SPY": 4.71,
+    "QQQ": 7.0
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "NVDA",
+      "pct": 31.48,
+      "price": 165.05,
+      "news": [
+        {
+          "headline": "Nvidia rejoices at Jensen Huang\u2019s second coming as White House takes victory lap",
+          "url": "https://finnhub.io/api/news?id=3bce5429bb3a9363fc06be3d9b52f7923fd691bb7bf44a14cf3ca0687bddca63"
+        },
+        {
+          "headline": "CFO Colette Kress Just Made This Subtle Shift That Could Save Nvidia Shareholders",
+          "url": "https://finnhub.io/api/news?id=5b98bc1e5d0befb81a1afa20019f527f9c4c1ae2a59bbe84a1fd744754da2717"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": 23.16,
+      "price": 222.12,
+      "news": [
+        {
+          "headline": "Stock Market Today: Dow, Nasdaq Surge As Jensen Huang Returns To Nvidia; Chip Plays Rocket (Live Coverage)",
+          "url": "https://finnhub.io/api/news?id=f781a840321cfedf6a87e5387889c3ce39b0e3331e64be1fdaa5755ba26621d5"
+        },
+        {
+          "headline": "What Sent Astera Labs Stock Lower?",
+          "url": "https://finnhub.io/api/news?id=6dda12a4c54341233a2b60968a4993a7b0cfe71d3eb1aa6ec63c3975b0f055a2"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": 20.28,
+      "price": 97.8,
+      "news": [
+        {
+          "headline": "SpaceX Is \u201cFollowing the Exact Same Pattern That Meta Followed\u201d After Its IPO, per Steve Jurvetson. Time to Buy?",
+          "url": "https://finnhub.io/api/news?id=b97ae1cc4562a3b91f65ffd0a6d155812e8dae909514bb651daaf15765bdb269"
+        },
+        {
+          "headline": "Stock Market Today, Nov. 23: CoreWeave Surges 22% as Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://finnhub.io/api/news?id=de6f3f31fb962997897218f454f4a4aabecdb5ddc77f7f444d14001ce7fd0b17"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": 19.04,
+      "price": 707.7,
+      "news": [
+        {
+          "headline": "The Nasdaq Just Had Its Best Day Since April 2025. Anthropic Stock Fell Anyway.",
+          "url": "https://finnhub.io/api/news?id=8a14852da62acd080567b88a490342814d127f3ca0006c7eba9ddd5299af0482"
+        },
+        {
+          "headline": "Own HP Stock? Memory Costs Are The Risk",
+          "url": "https://finnhub.io/api/news?id=bd9efb70c9d96d80d11a84abbd0a2b555d2288a0f65a3f3a6555630efcff5681"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 18.62,
+      "price": 39.57,
+      "news": [
+        {
+          "headline": "Indiscriminate Selling On Semiconductors Makes No Sense",
+          "url": "https://finnhub.io/api/news?id=dfde257a74a692ff74b451e04341f0d403202caa12e27b1b74d93e9957e2754e"
+        },
+        {
+          "headline": "We Had The Boom; Now Comes The Bust?",
+          "url": "https://finnhub.io/api/news?id=32830f16abcc26c7822bfd172d9c43dfb9485ad788d1153c6914a73ae8f6f5d9"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": 18.37,
+      "price": 144.74,
+      "news": [
+        {
+          "headline": "Marvell (MRVL) Stock Looks Reasonable Following Its 161% Three Year Run",
+          "url": "https://finnhub.io/api/news?id=705af8289d6e831ffe65e406d7f47107806e62151872c9820842cc746c12ab37"
+        },
+        {
+          "headline": "Why Marvell Technology Stock Crushed it Today",
+          "url": "https://finnhub.io/api/news?id=63addf0028b34c9209460ff19431c6a0e82afdd6c91d4179d9df3b49e42061e0"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 1.9,
+      "price": 349.08
+    },
+    "MSFT": {
+      "pct": 1.65,
+      "price": 492.5
+    },
+    "GOOG": {
+      "pct": 5.88,
+      "price": 279.53
+    },
+    "NFLX": {
+      "pct": 2.41,
+      "price": 58.1
+    },
+    "TSLA": {
+      "pct": 11.46,
+      "price": 385.46
+    },
+    "NVDA": {
+      "pct": 31.48,
+      "price": 165.05
+    },
+    "AMD": {
+      "pct": 6.85,
+      "price": 453.46
+    },
+    "AVGO": {
+      "pct": 3.0,
+      "price": 313.55
+    },
+    "MU": {
+      "pct": 19.04,
+      "price": 707.7
+    },
+    "INTC": {
+      "pct": 16.34,
+      "price": 59.66
+    },
+    "MRVL": {
+      "pct": 18.37,
+      "price": 144.74
+    },
+    "ARM": {
+      "pct": 16.08,
+      "price": 176.67
+    },
+    "QCOM": {
+      "pct": 10.3,
+      "price": 165.38
+    },
+    "ALAB": {
+      "pct": 23.16,
+      "price": 222.12
+    },
+    "LITE": {
+      "pct": 18.2,
+      "price": 544.38
+    },
+    "TER": {
+      "pct": 14.03,
+      "price": 233.51
+    },
+    "SNDK": {
+      "pct": 10.69,
+      "price": 87.71
+    },
+    "DRAM": {
+      "pct": 18.62,
+      "price": 39.57
+    },
+    "NOK": {
+      "pct": 9.74,
+      "price": 7.55
+    },
+    "PLTR": {
+      "pct": 11.06,
+      "price": 159.36
+    },
+    "ANET": {
+      "pct": 6.38,
+      "price": 178.31
+    },
+    "NBIS": {
+      "pct": 20.28,
+      "price": 97.8
+    },
+    "SNOW": {
+      "pct": 6.46,
+      "price": 271.27
+    },
+    "FIG": {
+      "pct": 8.43,
+      "price": 17.1
+    },
+    "UMAC": {
+      "pct": 10.07,
+      "price": 9.51
+    },
+    "RVI": {
+      "pct": 3.28,
+      "price": 18.9
+    },
+    "ROBO": {
+      "pct": 6.63,
+      "price": 66.71
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4362
+}
