@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-25T23:42:53+00:00",
+  "tone": {
+    "SPY": -0.29,
+    "QQQ": -0.65
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "SNDK",
+      "pct": -5.57,
+      "price": 73.61,
+      "news": [
+        {
+          "headline": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finnhub.io/api/news?id=b6236334201c9643249d124aa4570edf40accf5cced23e6434560b08e8a94307"
+        },
+        {
+          "headline": "Tech stock sell-off deepens as AI fears outweigh Huang\u2019s Nvidia return",
+          "url": "https://finnhub.io/api/news?id=a772eb6b2440e88fca1308c6fc43f25654c3fdb6629ea15711e15e9830202756"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -4.53,
+      "price": 601.25,
+      "news": [
+        {
+          "headline": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+          "url": "https://finnhub.io/api/news?id=9e9fdcec0d8d8ce7757ec8d3b8a19d598cdd5093796319915bbc49881e3daf7f"
+        },
+        {
+          "headline": "Chips and iPhones Are Safe From New Tariffs. Here\u2019s What Isn\u2019t.",
+          "url": "https://finnhub.io/api/news?id=ddfc75ac7cf8075b01b4c58f6e7798991d74b5bf5d967fc0f5aaa52d8b3fa25c"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "pct": -3.91,
+      "price": 149.3,
+      "news": [
+        {
+          "headline": "Not Micron. Not Broadcom. This Is My Top Oversold Artificial Intelligence (AI) Stock to Buy in December",
+          "url": "https://finnhub.io/api/news?id=9e9fdcec0d8d8ce7757ec8d3b8a19d598cdd5093796319915bbc49881e3daf7f"
+        },
+        {
+          "headline": "Is Berkshire Hathaway Stock a Buy if the Fed Keeps Raising Rates?",
+          "url": "https://finnhub.io/api/news?id=4f7ddeec85061bd30c9b78005b338c0fb65d95af477eae8cdd3801c23ec61e36"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": -3.03,
+      "price": 34.83,
+      "news": [
+        {
+          "headline": "The AI Rescue Is Already Here",
+          "url": "https://finnhub.io/api/news?id=85a96573cd5c17fa894523ad6a77a52ab5ec54d52cc4b0b145e75b82cd5e51c8"
+        },
+        {
+          "headline": "Situational Awareness Stock Portfolio: Top 10 Picks",
+          "url": "https://finnhub.io/api/news?id=596103ec193f3920e6dd3b1c06227951648251038b1c4d1fcb3b02c89eaa94e6"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": -2.71,
+      "price": 163.99,
+      "news": [
+        {
+          "headline": "Did Arista Networks Stock Fall On Its Own?",
+          "url": "https://finnhub.io/api/news?id=a4baae65ea63efb8fe4a5e9390ceca3e24fa35f2a73151cf2e4ce1ba762413ee"
+        },
+        {
+          "headline": "104% Upside for Broadcom? Bernstein Thinks So, and Here\u2019s How",
+          "url": "https://finnhub.io/api/news?id=e57b03565ecd2646cea45ed6564ac3ff482ab3d2c24f16789ac95785eddb9fc8"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -2.66,
+      "price": 84.99,
+      "news": [
+        {
+          "headline": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
+          "url": "https://finnhub.io/api/news?id=9cfe47041d9a5f4f8c81c9b7a3194798633e10bd6bd02df8ee2ff5485d4ce088"
+        },
+        {
+          "headline": "Freedom Capital Markets\u2019 $314 Target Says Nebius\u2019s Selloff Went Too Far",
+          "url": "https://finnhub.io/api/news?id=d0b982bd921e04241e9e07ed766ba0aad4eeb895aad11599cd11a2d88d3e6820"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.43,
+      "price": 355.58
+    },
+    "MSFT": {
+      "pct": -1.25,
+      "price": 489.93
+    },
+    "GOOG": {
+      "pct": -2.02,
+      "price": 270.98
+    },
+    "NFLX": {
+      "pct": 0.92,
+      "price": 59.41
+    },
+    "TSLA": {
+      "pct": -1.18,
+      "price": 380.14
+    },
+    "NVDA": {
+      "pct": -3.91,
+      "price": 149.3
+    },
+    "AMD": {
+      "pct": -1.75,
+      "price": 406.03
+    },
+    "AVGO": {
+      "pct": -0.07,
+      "price": 300.86
+    },
+    "MU": {
+      "pct": -4.53,
+      "price": 601.25
+    },
+    "INTC": {
+      "pct": -0.6,
+      "price": 54.47
+    },
+    "MRVL": {
+      "pct": -0.49,
+      "price": 130.93
+    },
+    "ARM": {
+      "pct": -0.03,
+      "price": 161.51
+    },
+    "QCOM": {
+      "pct": 2.24,
+      "price": 168.66
+    },
+    "ALAB": {
+      "pct": -0.5,
+      "price": 190.34
+    },
+    "LITE": {
+      "pct": -2.16,
+      "price": 476.58
+    },
+    "TER": {
+      "pct": -0.5,
+      "price": 212.15
+    },
+    "SNDK": {
+      "pct": -5.57,
+      "price": 73.61
+    },
+    "DRAM": {
+      "pct": -3.03,
+      "price": 34.83
+    },
+    "NOK": {
+      "pct": -0.41,
+      "price": 7.3
+    },
+    "PLTR": {
+      "pct": 1.5,
+      "price": 163.59
+    },
+    "ANET": {
+      "pct": -2.71,
+      "price": 163.99
+    },
+    "NBIS": {
+      "pct": -2.66,
+      "price": 84.99
+    },
+    "SNOW": {
+      "pct": -1.24,
+      "price": 267.72
+    },
+    "FIG": {
+      "pct": 0.94,
+      "price": 17.11
+    },
+    "UMAC": {
+      "pct": 2.37,
+      "price": 9.07
+    },
+    "RVI": {
+      "pct": -1.57,
+      "price": 17.55
+    },
+    "ROBO": {
+      "pct": -0.83,
+      "price": 65.34
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4258
+}
