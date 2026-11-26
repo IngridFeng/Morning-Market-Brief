@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-26T23:56:14+00:00",
+  "tone": {
+    "SPY": -0.29,
+    "QQQ": -0.65
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "SNDK",
+      "pct": -5.57,
+      "price": 73.61,
+      "news": [
+        {
+          "headline": "Sandisk\u2019s 8-for-1 Split Is Done. Here\u2019s What Investors Should Do Next.",
+          "url": "https://finnhub.io/api/news?id=2ba10ce1374d8d897df8718e3ba8345534c51f110dcfba2ee6cace52fab2c884"
+        },
+        {
+          "headline": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
+          "url": "https://finnhub.io/api/news?id=5dbffa72c04d180c03dbbf5571dceb13977c43532d65c6a34caefbc3db9cb40c"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": -4.53,
+      "price": 601.25,
+      "news": [
+        {
+          "headline": "Why It\u2019s Hard to Write Off Micron (MU) Even with a Memory Peak in Sight",
+          "url": "https://finnhub.io/api/news?id=1ec5e574da6e93fb874cce0491b2321453f9d08b5cbb78fa3fc7fddaba98b49a"
+        },
+        {
+          "headline": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
+          "url": "https://finnhub.io/api/news?id=fa057cfaa6d4b6f84e00b6750e77a3e98ee6958427ced12d2322a66917f8a24f"
+        }
+      ]
+    },
+    {
+      "symbol": "NVDA",
+      "pct": -3.91,
+      "price": 149.3,
+      "news": [
+        {
+          "headline": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
+          "url": "https://finnhub.io/api/news?id=3a1d0862f827c6c657a91ba818520876b8edb92a070d7acab98e15bfc9f2cf26"
+        },
+        {
+          "headline": "Jensen Huang\u2019s Return Doesn\u2019t Make Nvidia Stock (NVDA) a Buy",
+          "url": "https://finnhub.io/api/news?id=b0ac8bb3dace73cd41b4bef182a77951706cdc8225f5b141c4ff618953132724"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": -3.03,
+      "price": 34.83,
+      "news": [
+        {
+          "headline": "Trump Pulls The Strings, Fed Foots The Bill",
+          "url": "https://finnhub.io/api/news?id=f977b97517a49d940287052171e75fbb0a737570737f21b8a550e6258533eb09"
+        },
+        {
+          "headline": "The AI Rescue Is Already Here",
+          "url": "https://finnhub.io/api/news?id=85a96573cd5c17fa894523ad6a77a52ab5ec54d52cc4b0b145e75b82cd5e51c8"
+        }
+      ]
+    },
+    {
+      "symbol": "ANET",
+      "pct": -2.71,
+      "price": 163.99,
+      "news": [
+        {
+          "headline": "Arista Networks (ANET) Could Be 4% Undervalued On Etherlink R4 And AI Growth",
+          "url": "https://finnhub.io/api/news?id=c329f93d61ec01954107c165d30c682d06b69d681c034b20be56499420efab39"
+        },
+        {
+          "headline": "Arista Networks Stocks Fall 2.71% as AI Networking Gets Caught in Chip Rout",
+          "url": "https://finnhub.io/api/news?id=f9f668a95c11851b27270aafd7248f46eda8c210f631077f996c829ff0ca43ac"
+        }
+      ]
+    },
+    {
+      "symbol": "NBIS",
+      "pct": -2.66,
+      "price": 84.99,
+      "news": [
+        {
+          "headline": "Nebius (NBIS) Stock Could Be Undervalued As AI Sector Optimism Returns",
+          "url": "https://finnhub.io/api/news?id=f05a117fb5449b7e4d20ec2de3fcc69151f53a61d19fdcd8dd060baed5712840"
+        },
+        {
+          "headline": "This AI Investing Prodigy Lost 65% in a Single Quarter and Is Still Up 88.5% in 2026. Here\u2019s the Lesson for Investors.",
+          "url": "https://finnhub.io/api/news?id=5dbffa72c04d180c03dbbf5571dceb13977c43532d65c6a34caefbc3db9cb40c"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.43,
+      "price": 355.58
+    },
+    "MSFT": {
+      "pct": -1.25,
+      "price": 489.93
+    },
+    "GOOG": {
+      "pct": -2.02,
+      "price": 270.98
+    },
+    "NFLX": {
+      "pct": 0.92,
+      "price": 59.41
+    },
+    "TSLA": {
+      "pct": -1.18,
+      "price": 380.14
+    },
+    "NVDA": {
+      "pct": -3.91,
+      "price": 149.3
+    },
+    "AMD": {
+      "pct": -1.75,
+      "price": 406.03
+    },
+    "AVGO": {
+      "pct": -0.07,
+      "price": 300.86
+    },
+    "MU": {
+      "pct": -4.53,
+      "price": 601.25
+    },
+    "INTC": {
+      "pct": -0.6,
+      "price": 54.47
+    },
+    "MRVL": {
+      "pct": -0.49,
+      "price": 130.93
+    },
+    "ARM": {
+      "pct": -0.03,
+      "price": 161.51
+    },
+    "QCOM": {
+      "pct": 2.24,
+      "price": 168.66
+    },
+    "ALAB": {
+      "pct": -0.5,
+      "price": 190.34
+    },
+    "LITE": {
+      "pct": -2.16,
+      "price": 476.58
+    },
+    "TER": {
+      "pct": -0.5,
+      "price": 212.15
+    },
+    "SNDK": {
+      "pct": -5.57,
+      "price": 73.61
+    },
+    "DRAM": {
+      "pct": -3.03,
+      "price": 34.83
+    },
+    "NOK": {
+      "pct": -0.41,
+      "price": 7.3
+    },
+    "PLTR": {
+      "pct": 1.5,
+      "price": 163.59
+    },
+    "ANET": {
+      "pct": -2.71,
+      "price": 163.99
+    },
+    "NBIS": {
+      "pct": -2.66,
+      "price": 84.99
+    },
+    "SNOW": {
+      "pct": -1.24,
+      "price": 267.72
+    },
+    "FIG": {
+      "pct": 0.94,
+      "price": 17.11
+    },
+    "UMAC": {
+      "pct": 2.37,
+      "price": 9.07
+    },
+    "RVI": {
+      "pct": -1.57,
+      "price": 17.55
+    },
+    "ROBO": {
+      "pct": -0.83,
+      "price": 65.34
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.423
+}
