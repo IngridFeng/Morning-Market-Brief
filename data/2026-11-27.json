@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-27T23:37:59+00:00",
+  "tone": {
+    "SPY": 1.62,
+    "QQQ": 2.69
+  },
+  "tone_labels": {
+    "SPY": "S&P 500",
+    "QQQ": "Nasdaq 100"
+  },
+  "movers_ranked": [
+    {
+      "symbol": "SNDK",
+      "pct": 15.96,
+      "price": 85.36,
+      "news": [
+        {
+          "headline": "Stock Market Today: Indexes Log Best Thanksgiving Week In 18 Years",
+          "url": "https://finnhub.io/api/news?id=126cc66e9d953c9bb16d9401242ac8190d5d0bd2982e39f54e833a14a4715a66"
+        },
+        {
+          "headline": "SanDisk Stocks Jump 12.85% After Kioxia and Nvidia Stretch GPU Memory With SSDs",
+          "url": "https://finnhub.io/api/news?id=5ca0463ab071f1bcec909b69f2637bff9edbcc17b1483657f8bc23200824a39a"
+        }
+      ]
+    },
+    {
+      "symbol": "ALAB",
+      "pct": 8.67,
+      "price": 206.84,
+      "news": [
+        {
+          "headline": "Astera Labs is suddenly back in the AI spotlight after rough patch",
+          "url": "https://finnhub.io/api/news?id=8ad8b70241a8b37274e105917b08c2e57c2d65455c62506e7cc9d1adc5a32409"
+        },
+        {
+          "headline": "MRVL to Post Q3 Earnings: Time to Buy, Sell or Hold the Stock?",
+          "url": "https://finnhub.io/api/news?id=e23df4c036b7f6631978e487d65e10ccf6b349c53ae242be9ed8aa6df34a1acf"
+        }
+      ]
+    },
+    {
+      "symbol": "LITE",
+      "pct": 7.98,
+      "price": 514.63,
+      "news": [
+        {
+          "headline": "Astera Labs is suddenly back in the AI spotlight after rough patch",
+          "url": "https://finnhub.io/api/news?id=8ad8b70241a8b37274e105917b08c2e57c2d65455c62506e7cc9d1adc5a32409"
+        },
+        {
+          "headline": "Marvell Technology (MRVL) Could Be 58% Undervalued Following Its Penguin Solutions Tie Up",
+          "url": "https://finnhub.io/api/news?id=54e3273e938108f4ee02f8dacd701b612b978eb5adb3182752152333214868b4"
+        }
+      ]
+    },
+    {
+      "symbol": "DRAM",
+      "pct": 7.87,
+      "price": 37.57,
+      "news": [
+        {
+          "headline": "December Might Bring More Pain Than Gain",
+          "url": "https://finnhub.io/api/news?id=c7caf05fb8e5959f0bc487ac4840f5b7e14839f772c11de075196a2593567eab"
+        },
+        {
+          "headline": "Reported November 25, Kioxia And Nvidia Partner To Expand Effective High-Bandwidth Memory Capacity With SSDs",
+          "url": "https://finnhub.io/api/news?id=05b41b74041095e3de7cf8941544334f9d5ae39bad7aa10acf8237579093ad53"
+        }
+      ]
+    },
+    {
+      "symbol": "MU",
+      "pct": 7.6,
+      "price": 646.95,
+      "news": [
+        {
+          "headline": "Micron Stocks Climb 4.29% as Chip Rebound Meets Tight 2027 Memory Supply",
+          "url": "https://finnhub.io/api/news?id=20e73f7fc5269787b22c8c103ae0cd47e5ef692512023efe37d4c3ebb43a401a"
+        },
+        {
+          "headline": "Jim Cramer Is Still Bullish On These 5 Tech Stocks Despite AI Bear Market",
+          "url": "https://finnhub.io/api/news?id=aa66c798afc8263a9b4653b973996f8039704ac7c6ec480edbb30dbda5100594"
+        }
+      ]
+    },
+    {
+      "symbol": "MRVL",
+      "pct": 7.34,
+      "price": 140.54,
+      "news": [
+        {
+          "headline": "Astera Labs is suddenly back in the AI spotlight after rough patch",
+          "url": "https://finnhub.io/api/news?id=8ad8b70241a8b37274e105917b08c2e57c2d65455c62506e7cc9d1adc5a32409"
+        },
+        {
+          "headline": "Marvell Technology (MRVL) Could Be 58% Undervalued Following Its Penguin Solutions Tie Up",
+          "url": "https://finnhub.io/api/news?id=54e3273e938108f4ee02f8dacd701b612b978eb5adb3182752152333214868b4"
+        }
+      ]
+    }
+  ],
+  "watchlist": {
+    "AAPL": {
+      "pct": 0.83,
+      "price": 358.54
+    },
+    "MSFT": {
+      "pct": 0.6,
+      "price": 492.85
+    },
+    "GOOG": {
+      "pct": 0.54,
+      "price": 272.44
+    },
+    "NFLX": {
+      "pct": 2.56,
+      "price": 60.93
+    },
+    "TSLA": {
+      "pct": 5.22,
+      "price": 400
+    },
+    "NVDA": {
+      "pct": 0.8,
+      "price": 150.49
+    },
+    "AMD": {
+      "pct": 4.56,
+      "price": 424.54
+    },
+    "AVGO": {
+      "pct": 3.82,
+      "price": 312.34
+    },
+    "MU": {
+      "pct": 7.6,
+      "price": 646.95
+    },
+    "INTC": {
+      "pct": 5.38,
+      "price": 57.4
+    },
+    "MRVL": {
+      "pct": 7.34,
+      "price": 140.54
+    },
+    "ARM": {
+      "pct": 6.22,
+      "price": 171.55
+    },
+    "QCOM": {
+      "pct": 6.29,
+      "price": 179.27
+    },
+    "ALAB": {
+      "pct": 8.67,
+      "price": 206.84
+    },
+    "LITE": {
+      "pct": 7.98,
+      "price": 514.63
+    },
+    "TER": {
+      "pct": 5.1,
+      "price": 222.96
+    },
+    "SNDK": {
+      "pct": 15.96,
+      "price": 85.36
+    },
+    "DRAM": {
+      "pct": 7.87,
+      "price": 37.57
+    },
+    "NOK": {
+      "pct": 3.84,
+      "price": 7.58
+    },
+    "PLTR": {
+      "pct": 5.24,
+      "price": 172.17
+    },
+    "ANET": {
+      "pct": 6.55,
+      "price": 174.73
+    },
+    "NBIS": {
+      "pct": 5.26,
+      "price": 89.46
+    },
+    "SNOW": {
+      "pct": 3.2,
+      "price": 276.29
+    },
+    "FIG": {
+      "pct": 3.62,
+      "price": 17.73
+    },
+    "UMAC": {
+      "pct": 5.51,
+      "price": 9.57
+    },
+    "RVI": {
+      "pct": 4.96,
+      "price": 18.42
+    },
+    "ROBO": {
+      "pct": 3.37,
+      "price": 67.54
+    }
+  },
+  "no_data": [],
+  "usd_cad": 1.4245
+}
